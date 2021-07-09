@@ -2,7 +2,7 @@
 import os
 import time
 
-fichero = 'c:\\Users\\33405257B\\AppData\\Local\\Programs\\Python\\Python38\\keywords.txt'
+fichero = '.\keywords.txt'
 
 def carga_keywords():
     try:
