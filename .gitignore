@@ -4,4 +4,6 @@ generate_test/*.json
 generate_test/*.js
 generate_test/hechos
 generate_test/testoposiciones
+transformar_terceros/*xls
+transformar_terceros/*xlsx
 .DS_Store
