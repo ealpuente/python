@@ -6,4 +6,5 @@ generate_test/hechos
 generate_test/testoposiciones
 transformar_terceros/*xls
 transformar_terceros/*xlsx
+transformar_terceros/*log
 .DS_Store
