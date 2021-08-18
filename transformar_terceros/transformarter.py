@@ -82,6 +82,11 @@ def transformar_archivo(archivo):
 	lineas_ok = 0
 	lineas_error = 0
 
+	'Creamos el wb de salida para errores'
+	out_wb_errores = openpyxl.Workbook()
+	out_ws_errores = out_wb_errores.active
+	out_ws_errores.title = "Errores"
+
 	'Creamos el wb de salida'
 	out_wb = openpyxl.Workbook()
 	out_ws = out_wb.active
@@ -114,6 +119,19 @@ def transformar_archivo(archivo):
 	'CorreoElectronico2',	
 	'CorreoElectronico3'])
 
+	'Insertamos las cabeceras en wb errores'
+	out_ws_errores.append([
+	'Tipo de identificador',
+	'Identificador',	
+	'Nombre/Razón social',
+	'Apellido 1	',
+	'Apellido 2	',
+	'Pais	',
+	'Municipio	',
+	'Provincia	',
+	'Dirección	',
+	'Código postal'])
+
 	'** Recorremos las filas del fichero'
 	for row in sheet.iter_rows(min_row=2, max_col=10, values_only=True):
 
@@ -125,7 +143,7 @@ def transformar_archivo(archivo):
 		elif (protect_nonetype(row[0]) == 'C' or protect_nonetype(row[0]) == 'P'):
 			persona = 'J'
 		else:
-			log_file.write('*** Error tipo de persona: ' + nifcif + '\n')
+			out_ws_errores.append(row + tuple(["Error en tipo de persona"]))
 			lineas_error += 1
 			continue
 
@@ -145,7 +163,7 @@ def transformar_archivo(archivo):
 		try:
 			validar_persona(nifcif, persona, nombre, apellido1, apellido2, denominacion)
 		except:
-			log_file.write('*** Error validación identificador ' + nifcif + '\n')
+			out_ws_errores.append(row + tuple(["Error validación identificador o nombre/denominacion"]))
 			lineas_error += 1
 			continue
 
@@ -157,7 +175,7 @@ def transformar_archivo(archivo):
 		try:
 			provincia = provincias[str(protect_nonetype(row[7]))]
 		except:
-			log_file.write('*** Error decodificando provincia para: ' + nifcif + '\n')
+			out_ws_errores.append(row + tuple(["Error decodificando provincia"]))
 			lineas_error += 1
 			continue
 
@@ -165,7 +183,7 @@ def transformar_archivo(archivo):
 		try:
 			municipio = municipios[str(protect_nonetype(row[6]))]
 		except:
-			log_file.write('*** Error decodificando municipio para: ' + nifcif + '\n')
+			out_ws_errores.append(row + tuple(["Error decodificando municipio"]))
 			lineas_error += 1
 			continue
 
@@ -173,7 +191,7 @@ def transformar_archivo(archivo):
 		try:
 			validar_direccion(direccion, cp, provincia, municipio)
 		except:
-			log_file.write('*** Error validando dirección para: ' + nifcif + '\n')
+			out_ws_errores.append(row + tuple(["Error validando dirección"]))
 			lineas_error += 1
 			continue
 
@@ -208,8 +226,16 @@ def transformar_archivo(archivo):
 
 
 	'** Guardamos el fichero de salida'
-	nombre_fout = os.path.splitext(os.path.basename(a))[0] + "_out" + os.path.splitext(os.path.basename(a))[1]
+	nombre_fout = os.path.splitext(os.path.basename(a))[0] + "_OUT" + os.path.splitext(os.path.basename(a))[1]
 	out_wb.save(nombre_fout)
+
+	'** Guardamos el excel de errores'
+	if (lineas_error>0):
+		nombre_fout_errores = os.path.splitext(os.path.basename(a))[0] + "_ERRORES" + os.path.splitext(os.path.basename(a))[1]
+		out_wb_errores.save(nombre_fout_errores)
+	else:
+		out_wb_errores.close()
+
 
 	'** Finalizamos log'
 	log_file.write('\n')
