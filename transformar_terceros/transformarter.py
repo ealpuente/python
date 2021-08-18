@@ -170,20 +170,32 @@ def transformar_archivo(archivo):
 		'direccion y cp'
 		direccion = protect_nonetype(row[8])
 		cp = protect_nonetype(row[9])
-
+		
 		'decodificamos provincia'
+		codigo_temp_provincia = str(protect_nonetype(row[7])).zfill(2)
 		try:
-			provincia = provincias[str(protect_nonetype(row[7]))]
+			provincia = provincias[codigo_temp_provincia]
 		except:
 			out_ws_errores.append(row + tuple(["Error decodificando provincia"]))
 			lineas_error += 1
 			continue
 
 		'decodificamos municipio'
+		codigo_temp_municipio = codigo_temp_provincia + str(protect_nonetype(row[6])).zfill(4)
 		try:
-			municipio = municipios[str(protect_nonetype(row[6]))]
+			municipio = municipios[codigo_temp_municipio]
 		except:
+			print(codigo_temp_municipio)
 			out_ws_errores.append(row + tuple(["Error decodificando municipio"]))
+			lineas_error += 1
+			continue
+
+		'decodificamos codigo postal'
+		try:
+			if (cp == '' and municipio != ''):
+				cp = cpostales[codigo_temp_municipio[:-1]]
+		except:
+			out_ws_errores.append(row + tuple(["Error decodificando codigo postal"]))
 			lineas_error += 1
 			continue
 
@@ -254,14 +266,21 @@ if __name__ == '__main__':
 	with open('provincias.csv', mode='r') as csv_file:
 		for row in csv_file:
 			r = row.split(';')
-			provincias[r[0]] = r[1]
+			provincias[r[0]] = r[1][:-1]
 
 	# Cargamos los municipios
 	municipios = {}
 	with open('municipios.csv', mode='r') as csv_file:
 		for row in csv_file:
 			r = row.split(';')
-			municipios[r[0]] = r[1]
+			municipios[r[0]] = r[1][:-1]
+
+	# Cargamos los codigos postales
+	cpostales = {}
+	with open('cpostales.csv', mode='r') as csv_file:
+		for row in csv_file:
+			r = row.split(';')
+			cpostales[r[0]] = r[1][:-1]
 
 	# Obtenemos la lista de archivos a transformar
 	archivos = lista_archivos()
