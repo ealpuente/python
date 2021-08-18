@@ -1,27 +1,36 @@
 import json
 
-# Definimos las variables
-num_columnas = 0
-sufijo_salida = ""
-configuracion_columnas = []
+# Variables globales
+decoded = any
 
-def load_config():
+# Carga el fichero json que contiene los parámetros
+def load_config(fichero):
 
-    global num_columnas
-    global sufijo_salida
-    global configuracion_columnas
+    global decoded
 
     ## Leemos el fichero de configuración y parseamos el json
-    file = open("conf.json")
+    file = open(fichero)
     json_string = file.read()
     decoded = json.loads(json_string)
 
-    num_columnas = decoded['numcolumnas']
-    sufijo_salida = decoded['output']
-    configuracion_columnas = decoded['configuracion']
+# Devuelve el valor del parámetro pasado por parámetro
+def get_parameter(id):
+    return decoded[id]
 
-    ##print(decoded['configuracion'][0])
+# Código para realizar pruebas y mostrar el uso del módulo
+if (__name__ == "__main__"):
 
+    # Cargamos el fichero de parametros de prueba
+    load_config("test.json")
 
-
-
+    # Obtenemos los parametros
+    p1 = get_parameter('PARAMETRO1')
+    p2 = get_parameter('PARAMETRO2')
+    ap = get_parameter('ARRAY_PARAMETROS')
+    
+    # Imprimimos los valores de los parametros recuperados
+    print(type(p1))
+    print(p2)
+    print(ap)
+    print(ap[1])
+    print(ap[1]['nombre'])

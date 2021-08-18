@@ -1,7 +1,7 @@
 {
-    "numcolumnas": 10,
-    "output": "_out",
-    "configuracion": [
+    "PARAMETRO1": 10,
+    "PARAMETRO2": "_out",
+    "ARRAY_PARAMETROS": [
         {
             "nombre": "NIFCIF",
             "ord_destino": 0,
