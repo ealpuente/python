@@ -1,0 +1,1302 @@
+{
+"new Array();": {
+"id": "new Array();",
+"pregunta": "1)  Los Tratados de la Unión Europea:",
+"respuesta_a": "Forman parte del Derecho derivado de la Unión Europea.",
+"respuesta_b": "Sólo forman parte del Derecho originario los Tratados constitutivos.",
+"respuesta_c": "Entre ellos está el Tratado de Madrid de 1992 que forma parte del Derecho de la Unión europea.",
+"respuesta_d": "Forman parte del Derecho originario de la Unión Europea.",
+"categoria": "",
+"correcta": "D"
+},
+"397": {
+"id": "397",
+"pregunta": "2)  ¿Qué país entró a formar parte de la Unión Europea el mismo año en que formalizó su adhesión nuestro país?",
+"respuesta_a": "Grecia",
+"respuesta_b": "Portugal",
+"respuesta_c": "Las alternativas a) y b) son correctas",
+"respuesta_d": "Ninguno",
+"categoria": "",
+"correcta": "B"
+},
+"315": {
+"id": "315",
+"pregunta": "3)  ¿En qué se diferencia el Consejo del Consejo Europeo?",
+"respuesta_a": "El Consejo Europeo está formado por los jefes de Estado y de Gobierno de los Estados miembros de la UE y el presidente de la Comisión, tiene una función de impulso y orientación política, económica y social. El Consejo es la institución de la UE en que están representados los Estados miembros a través de sus ministros, tiene, junto con el Parlamento, funciones legislativas y presupuestarias.",
+"respuesta_b": "El Consejo está formado por los jefes de Estado y de Gobierno de los Estados miembros de la UE y el presidente de la Comisión, tiene una función de impulso y orientación política, económica y social. El Consejo Europeo es la institución de la UE en que están representados los Estados miembros a través de sus ministros, tiene, junto con el Parlamento, funciones legislativas y presupuestarias.",
+"respuesta_c": "El Consejo está formado por los jefes de Estado y de Gobierno de los Estados miembros de la UE y el presidente de la Comisión, tiene una función de impulso y orientación política, económica y social. El Consejo Europeo es la institución de carácter regional, dedicada a la educación, la cultura y la defensa de los derechos humanos.",
+"respuesta_d": "Son la misma institución.",
+"categoria": "",
+"correcta": "A"
+},
+"311": {
+"id": "311",
+"pregunta": "4)  En la Unión Europea, el Consejo de Ministros se reunirá periódicamente en Bruselas por convocatoria de:",
+"respuesta_a": "Su Presidente, a iniciativa de éste.",
+"respuesta_b": "Uno de sus miembros.",
+"respuesta_c": "La Comisión.",
+"respuesta_d": "Todas las respuestas son correctas.",
+"categoria": "",
+"correcta": "D"
+},
+"351": {
+"id": "351",
+"pregunta": "5)  Los actos legislativos de la Unión Europea, podrán adoptarse únicamente a propuesta de:",
+"respuesta_a": "La Comisión Europea.",
+"respuesta_b": "El Consejo Europeo.",
+"respuesta_c": "El Consejo de Europa.",
+"respuesta_d": "El Consejo de la Unión Europea.",
+"categoria": "",
+"correcta": "A"
+},
+"424": {
+"id": "424",
+"pregunta": "6)  Indique quién propone al candidato para el cargo de Presidente de la Comisión Europea:",
+"respuesta_a": "El Consejo Europeo.",
+"respuesta_b": "El Consejo de la Unión Europea.",
+"respuesta_c": "Los miembros de la Comisión Europea.",
+"respuesta_d": "El Parlamento Europeo.",
+"categoria": "",
+"correcta": "A"
+},
+"372": {
+"id": "372",
+"pregunta": "7)  Señale la respuesta correcta respecto a las directivas comunitarias:",
+"respuesta_a": "No se aplican directamente en los Estados.",
+"respuesta_b": "No son vinculantes.",
+"respuesta_c": "Habitualmente se dictan sobre materias que son competencias exclusivas de la Unión Europea.",
+"respuesta_d": "Tienen alcance general.",
+"categoria": "",
+"correcta": "A"
+},
+"406": {
+"id": "406",
+"pregunta": "8)  Establecer la interpretación adecuada de los Tratados de la Unión Europea y las normas de derecho derivado es el objeto de:",
+"respuesta_a": "Un recurso de incumplimiento.",
+"respuesta_b": "Recurso de carencia.",
+"respuesta_c": "Cuestión o incidente prejudicial.",
+"respuesta_d": "Ninguna es correcta.",
+"categoria": "",
+"correcta": "C"
+},
+"357": {
+"id": "357",
+"pregunta": "9)  ¿Con otra expresión más familiar es comúnmente conocido el Consejo de la Unión Europea?",
+"respuesta_a": "Parlamento Europeo",
+"respuesta_b": "Consejo de Jefes de Estado",
+"respuesta_c": "Consejo de Jefes de Estado y de Gobierno",
+"respuesta_d": "Consejo de Ministros",
+"categoria": "",
+"correcta": "D"
+},
+"297": {
+"id": "297",
+"pregunta": "10)  El Defensor del Pueblo Europeo puede ser consultado por:",
+"respuesta_a": "Personas con residencia en la Unión pero sólo personas físicas.",
+"respuesta_b": "Personas con nacionalidad europea.",
+"respuesta_c": "Personas con nacionalidad y países asociados.",
+"respuesta_d": "Toda persona física (ciudadanos) o jurídica (instituciones o empresas) que residan en la Unión.",
+"categoria": "",
+"correcta": "D"
+},
+"325": {
+"id": "325",
+"pregunta": "11)  Es un elemento característico de la naturaleza jurídica de la Unión Europea:",
+"respuesta_a": "Tener una estructura institucional.",
+"respuesta_b": "El establecimiento de un Ordenamiento jurídico propio.",
+"respuesta_c": "La transferencia de competencias a las instituciones comunitarias.",
+"respuesta_d": "Todas las respuestas son correctas.",
+"categoria": "",
+"correcta": "D"
+},
+"355": {
+"id": "355",
+"pregunta": "12)  En relación a una Constitución Europea:",
+"respuesta_a": "Fue rechazada al no ser respaldada por unanimidad entre los Estados miembros. No tuvo el apoyo de España entre otros.",
+"respuesta_b": "Fue rechazada al no ser respaldada por unanimidad entre los Estados miembros. Sí tuvo el apoyo de España.",
+"respuesta_c": "Nunca se ha elaborado una Constitución a nivel europeo.",
+"respuesta_d": "Los propios Tratados originarios constituyen la denominada Constitución Europea.",
+"categoria": "",
+"correcta": "B"
+},
+"354": {
+"id": "354",
+"pregunta": "13)  ¿Cuál de los siguientes conceptos NO corresponde a ninguna de las libertades del Mercado Interior Europeo?",
+"respuesta_a": "Libre circulación de servicios.",
+"respuesta_b": "Libre circulación de capitales.",
+"respuesta_c": "Libre circulación fiscal.",
+"respuesta_d": "Libre circulación de personas.",
+"categoria": "",
+"correcta": "C"
+},
+"298": {
+"id": "298",
+"pregunta": "14)  ¿Cómo se llaman las oficinas de la Unión Europea en dónde se difunde información referente a la actividad del Parlamento Europeo?",
+"respuesta_a": "Euro-Info-Point",
+"respuesta_b": "Point-Euro-Info",
+"respuesta_c": "Euro-Point-Info",
+"respuesta_d": "Point-Info-Euro",
+"categoria": "",
+"correcta": "A"
+},
+"295": {
+"id": "295",
+"pregunta": "15)  ¿Qué tratado de la Unión Europea es el más reciente?",
+"respuesta_a": "Tratado de Roma.",
+"respuesta_b": "Tratado de Lisboa.",
+"respuesta_c": "Tratado de &Aacute;msterdam.",
+"respuesta_d": "Tratado de Maastricht.",
+"categoria": "",
+"correcta": "B"
+},
+"416": {
+"id": "416",
+"pregunta": "16)  Si el Consejo en algún acuerdo necesita de mayoría cualificada se produce:",
+"respuesta_a": "Acuerdos cualificados.",
+"respuesta_b": "Acuerdos ponderados.",
+"respuesta_c": "Valoración de los votos.",
+"respuesta_d": "Ponderación de los votos.",
+"categoria": "",
+"correcta": "D"
+},
+"410": {
+"id": "410",
+"pregunta": "17)  Habrá quórum en el Parlamento Europeo, cuando se encuentre reunida en el salón de sesiones:",
+"respuesta_a": "La cuarta parte de los Diputados que integran el Parlamento.",
+"respuesta_b": "La quinta parte de los Diputados que integran el Parlamento.",
+"respuesta_c": "La mitad de los Diputados que integran el Parlamento.",
+"respuesta_d": "La tercera parte de los Diputados que integran el Parlamento.",
+"categoria": "",
+"correcta": "D"
+},
+"359": {
+"id": "359",
+"pregunta": "18)  La Comisión Europea está compuesta actualmente por:",
+"respuesta_a": "18 Comisarios.",
+"respuesta_b": "20 Comisarios.",
+"respuesta_c": "27 Comisarios.",
+"respuesta_d": "28 Comisarios.",
+"categoria": "",
+"correcta": "C"
+},
+"373": {
+"id": "373",
+"pregunta": "19)  El pacto fiscal europeo de 2012 incluye:",
+"respuesta_a": "Un conjunto de reglas, llamadas &quot;reglas de oro&quot;, que son vinculantes en la UE para el principio de equilibrio presupuestario.",
+"respuesta_b": "Un compromiso de contar con un déficit estructural que no debe superar el 0,6% de la PIB.",
+"respuesta_c": "Un compromiso de poner las nuevas reglas en la constitución o en otras partes de la legislación nacional, lo cual no necesita ser verificado por el Tribunal de Justicia de la Unión Europea.",
+"respuesta_d": "La obligación de mantener siempre el déficit público por debajo del 2.8 % del PIB.",
+"categoria": "",
+"correcta": "A"
+},
+"329": {
+"id": "329",
+"pregunta": "20)  ¿Qué Tratado de la Unión Europea expiró en 2002?",
+"respuesta_a": "Tratado de París.",
+"respuesta_b": "Tratado de Roma.",
+"respuesta_c": "Tratado de Maastricht.",
+"respuesta_d": "Acta &Uacute;nica Europea.",
+"categoria": "",
+"correcta": "A"
+},
+"317": {
+"id": "317",
+"pregunta": "21)  La duración del mandato de los miembros del Tribunal de Cuentas de la Unión Europea es de:",
+"respuesta_a": "Tres años.",
+"respuesta_b": "Dos años y medio.",
+"respuesta_c": "Cinco años.",
+"respuesta_d": "Seis años.",
+"categoria": "",
+"correcta": "D"
+},
+"377": {
+"id": "377",
+"pregunta": "22)  Indique la afirmación correcta en relación al Consejo de la Unión Europea:",
+"respuesta_a": "Estará asistido por dos Secretarías Generales.",
+"respuesta_b": "Estará asistido por una Secretaría General, dirigida por un Secretario General.",
+"respuesta_c": "Estará asistido por un alto representante de Política Interior y Exterior.",
+"respuesta_d": "Estará asistido por el Consejo de Europa.",
+"categoria": "",
+"correcta": "B"
+},
+"367": {
+"id": "367",
+"pregunta": "23)  En base a qué artículo de los Tratados de la Unión Europea tiene cabida el Brexit:",
+"respuesta_a": "Artículo 3 del TUE.",
+"respuesta_b": "Artículo 50 del TUE.",
+"respuesta_c": "Artículo 50 del TFUE.",
+"respuesta_d": "No se encuentra recogido en los Tratados, se trata de derecho derivado.",
+"categoria": "",
+"correcta": "B"
+},
+"345": {
+"id": "345",
+"pregunta": "24)  Los Jueces y Abogados Generales del Tribunal de Justicia de la Unión Europea son nombrados para un período de:",
+"respuesta_a": "Tres años.",
+"respuesta_b": "Cuatro años.",
+"respuesta_c": "Cinco años.",
+"respuesta_d": "Seis años.",
+"categoria": "",
+"correcta": "D"
+},
+"394": {
+"id": "394",
+"pregunta": "25)  Indique qué es el Semestre Europeo:",
+"respuesta_a": "Consiste en el proceso por parte de la Unión Europea para la gestión de políticas medioambientales comunitarias, entre otras funciones.",
+"respuesta_b": "Consiste en el proceso por parte de la Unión Europea para la supervisión y alineación de objetivos presupuestarios de los Estados miembros, entre otras funciones.",
+"respuesta_c": "Es el periodo temporal donde se consolidan los grupos parlamentarios en el Parlamento Europeo según los grupos políticos.",
+"respuesta_d": "Se denomina así a cada periodo de presidencia, de 6 meses de duración, del Consejo.",
+"categoria": "",
+"correcta": "B"
+},
+"370": {
+"id": "370",
+"pregunta": "26)  El Tribunal de Justicia está formado por:",
+"respuesta_a": "Un Juez de cada Estado miembro.",
+"respuesta_b": "Por dos Jueces de cada Estado miembro.",
+"respuesta_c": "Por veinte Jueces.",
+"respuesta_d": "Por ocho Jueces.",
+"categoria": "",
+"correcta": "A"
+},
+"341": {
+"id": "341",
+"pregunta": "27)  Señale la respuesta FALSA:",
+"respuesta_a": "El Semestre Europeo es un ciclo de coordinación de las políticas económicas y presupuestarias dentro de la UE.",
+"respuesta_b": "Se centra en los primeros seis meses de cada año, de ahí que se denomine &quot;Semestre&quot;.",
+"respuesta_c": "Durante el Semestre Europeo los Estados miembros ajustan sus políticas presupuestarias y económicas a los objetivos y normas acordados a escala de la UE.",
+"respuesta_d": "Incluye reformas estructurales, dedicadas a promover el crecimiento y el empleo de conformidad con la Estrategia de Lisboa.",
+"categoria": "",
+"correcta": "D"
+},
+"408": {
+"id": "408",
+"pregunta": "28)  La Presidencia del Consejo de la Unión Europea...",
+"respuesta_a": "Cambia cada seis meses",
+"respuesta_b": "Cambia cada año",
+"respuesta_c": "Es elegida por el Parlamento Europeo",
+"respuesta_d": "Es inexistente, es decir, no existe la Presidencia de la Unión Europea",
+"categoria": "",
+"correcta": "A"
+},
+"383": {
+"id": "383",
+"pregunta": "29)  Indique el número de Diputados del Parlamento Europeo que actualmente le corresponden a España:",
+"respuesta_a": "Cincuenta y cuatro.",
+"respuesta_b": "Cincuenta.",
+"respuesta_c": "Cincuenta y cinco.",
+"respuesta_d": "Cincuenta y dos.",
+"categoria": "",
+"correcta": "A"
+},
+"364": {
+"id": "364",
+"pregunta": "30)  ¿Cuál de estas afirmaciones ES CONTRARIA a la regulación contenida en los Tratados de la Unión Europea sobre las instituciones de la UE?",
+"respuesta_a": "El Banco Central Europeo y los bancos centrales nacionales constituirán el Sistema Europeo de Bancos Centrales. El Banco Central Europeo y los bancos centrales nacionales de los Estados miembros cuya moneda es el euro, que constituyen el Eurosistema, dirigirán la política monetaria de la Unión.",
+"respuesta_b": "El Defensor del Pueblo, elegido por el Consejo Europeo, está facultado para investigar las reclamaciones relativas a casos de mala administración en la acción de todas y cada una de las instituciones de la Unión, ejerciendo sus funciones bajo la dirección del Parlamento Europeo.",
+"respuesta_c": "El Parlamento Europeo y el Consejo establecerán el Presupuesto anual de la Unión con arreglo a un procedimiento legislativo especial.",
+"respuesta_d": "El Comité Económico y Social y el Comité de las Regiones son órganos consultivos del Parlamento, el Consejo y la Comisión.",
+"categoria": "",
+"correcta": "B"
+},
+"415": {
+"id": "415",
+"pregunta": "31)  En el Consejo de la Unión Europea, cada Estado miembro tiene una delegación nacional en Bruselas conocida como órgano de apoyo, denominado:",
+"respuesta_a": "COPER.",
+"respuesta_b": "COMPER.",
+"respuesta_c": "COREPER.",
+"respuesta_d": "COPERRE.",
+"categoria": "",
+"correcta": "C"
+},
+"348": {
+"id": "348",
+"pregunta": "32)  Sobre el Plan Juncker:",
+"respuesta_a": "El denominado plan Juncker es un fondo de inversiones con el que el Ejecutivo comunitario pretende movilizar hasta 215.000 millones para inversiones.",
+"respuesta_b": "Su objetivo es reactivar la inversión y el crecimiento en Europa.",
+"respuesta_c": "El dinero procederá de los presupuestos europeos.",
+"respuesta_d": "Banco Europeo de Inversiones aportará 15000 millones de euros.",
+"categoria": "",
+"correcta": "B"
+},
+"411": {
+"id": "411",
+"pregunta": "33)  Los acuerdos de la Comisión Europea se adoptan:",
+"respuesta_a": "Por unanimidad.",
+"respuesta_b": "Por mayoría cualificada.",
+"respuesta_c": "Por mayoría de las dos terceras partes de sus miembros.",
+"respuesta_d": "Por mayoría del número de miembros.",
+"categoria": "",
+"correcta": "D"
+},
+"393": {
+"id": "393",
+"pregunta": "34)  ¿En qué fecha nació la Unión Europea?",
+"respuesta_a": "El 1 de noviembre de 1994.",
+"respuesta_b": "El 1 de noviembre de 1992.",
+"respuesta_c": "El 1 de noviembre de 1995.",
+"respuesta_d": "El 1 de noviembre de 1993.",
+"categoria": "",
+"correcta": "D"
+},
+"310": {
+"id": "310",
+"pregunta": "35)  ¿Cuándo son de aplicación los tratados internacionales?",
+"respuesta_a": "Al día siguiente de su ratificación por el Congreso de los Diputados.",
+"respuesta_b": "Al día siguiente de su firma por los Ministros plenipotenciarios.",
+"respuesta_c": "El mismo día de la firma por los Ministros plenipotenciarios.",
+"respuesta_d": "No serán de aplicación directa hasta que formen parte del ordenamiento mediante su publicación en el BOE.",
+"categoria": "",
+"correcta": "D"
+},
+"303": {
+"id": "303",
+"pregunta": "36)  El Tratado de París que crea la Comunidad Europea del Carbón y del Acero entró en vigor:",
+"respuesta_a": "El 23 de julio de 1952.",
+"respuesta_b": "El 18 de abril de 1951.",
+"respuesta_c": "El 16 de abril de 1948.",
+"respuesta_d": "d)Ninguna de las respuestas son correctas.",
+"categoria": "",
+"correcta": "A"
+},
+"340": {
+"id": "340",
+"pregunta": "37)  ¿Cuál no es un obstáculo que dificulta la Agenda Digital para Europa?",
+"respuesta_a": "la fragmentación de los mercados digitales.",
+"respuesta_b": "las diferencias tarifarias de los servicios de la sociedad de la información entre los miembros de la UE.",
+"respuesta_c": "la falta de interoperabilidad.",
+"respuesta_d": "el incremento de la ciberdelincuencia y el riesgo de escasa confianza en la red.",
+"categoria": "",
+"correcta": "B"
+},
+"300": {
+"id": "300",
+"pregunta": "38)  La presidencia del Consejo se ejerce de forma rotatoria cada:",
+"respuesta_a": "4 meses según un orden fijado por unanimidad del Consejo.",
+"respuesta_b": "6 meses según un orden fijado por unanimidad del Consejo.",
+"respuesta_c": "4 meses según un orden fijado por mayoría cualificada del Consejo.",
+"respuesta_d": "6 meses según un orden fijado por mayoría cualificada del Consejo.",
+"categoria": "",
+"correcta": "B"
+},
+"384": {
+"id": "384",
+"pregunta": "39)  ¿Cuál ha sido el último país en entrar en la Unión Europea?",
+"respuesta_a": "Rumanía.",
+"respuesta_b": "Bulgaria.",
+"respuesta_c": "Turquía.",
+"respuesta_d": "Croacia.",
+"categoria": "",
+"correcta": "D"
+},
+"299": {
+"id": "299",
+"pregunta": "40)  El Tribunal de Justicia Europeo está compuesto por:",
+"respuesta_a": "Veintiocho Jueces y once Abogados Generales.",
+"respuesta_b": "Veintisiete Jueces y veintisiete Abogados Generales.",
+"respuesta_c": "Veintisiete Jueces y once Abogados Generales.",
+"respuesta_d": "Veintiocho Jueces y ocho Abogados Generales.",
+"categoria": "",
+"correcta": "C"
+},
+"342": {
+"id": "342",
+"pregunta": "41)  Componen la Comisión Europea:",
+"respuesta_a": "Un Comisario por cada Estado miembro.",
+"respuesta_b": "Uno o dos Comisarios por cada Estado miembro, dependiendo de las características del Estado.",
+"respuesta_c": "Dos Comisarios por cada Estado miembro.",
+"respuesta_d": "Los Ministros de Asuntos Exteriores de cada Estado miembro.",
+"categoria": "",
+"correcta": "A"
+},
+"320": {
+"id": "320",
+"pregunta": "42)  Entre los Fondos Estructurales y de Inversión Europeos gestionados conjuntamente por la Comisión Europea y los países de la UE se encuentran:",
+"respuesta_a": "Fondo Europeo de Desarrollo Regional (FEDER), Fondo Social Europeo (FSE), Fondo de Cohesión (FC).",
+"respuesta_b": "Fondo Social Europeo (FSE), Fondo de Cohesión (FC), Fondo de Tecnología Digital (FTIC).",
+"respuesta_c": "Fondo de Cohesión (FC), Fondo de Tecnología Digital (FTIC), Fondo Europeo Agrícola de Desarrollo Rural (FEADER).",
+"respuesta_d": "Fondo de Tecnología Digital (FTIC), Fondo Europeo Agrícola de Desarrollo Rural (FEADER), Fondo Europeo de Desarrollo Regional (FEDER).",
+"categoria": "",
+"correcta": "A"
+},
+"422": {
+"id": "422",
+"pregunta": "43)  En el ámbito de las relaciones internacionales de la Comunidad Europea con terceros países:",
+"respuesta_a": "El Consejo negocia los tratados internacionales y la Comisión los aprueba.",
+"respuesta_b": "La Comisión negocia los tratados internacionales y el Parlamento Europeo los sanciona.",
+"respuesta_c": "La Comisión negocia los tratados internacionales y el Consejo los aprueba.",
+"respuesta_d": "Un número indeterminado de diputados europeos negocia los tratados internacionales y la Comisión los aprueba.",
+"categoria": "",
+"correcta": "C"
+},
+"347": {
+"id": "347",
+"pregunta": "44)  El mandato de la Comisión se establece por un período de:",
+"respuesta_a": "Cinco años.",
+"respuesta_b": "Seis años.",
+"respuesta_c": "Cuatro años.",
+"respuesta_d": "Tres años.",
+"categoria": "",
+"correcta": "A"
+},
+"326": {
+"id": "326",
+"pregunta": "45)  ¿Cuál no es un pilar de la Estrategia del Mercado &Uacute;nico Digital?",
+"respuesta_a": "Mejorar el acceso de los consumidores y las empresas a los bienes y servicios digitales en toda Europa.",
+"respuesta_b": "Crear las condiciones adecuadas y garantizar la igualdad de condiciones para que las redes digitales y los servicios innovadores puedan prosperar.",
+"respuesta_c": "Iniciativa europea de libre flujo de datos.",
+"respuesta_d": "Maximizar el potencial de crecimiento de la economía digital.",
+"categoria": "",
+"correcta": "C"
+},
+"301": {
+"id": "301",
+"pregunta": "46)  Indique a quién corresponde la función de adoptar las iniciativas de la programación anual y plurianual de la Unión Europea con el fin de alcanzar acuerdos interinstitucionales:",
+"respuesta_a": "Al Consejo Europeo.",
+"respuesta_b": "Al Consejo de la Unión Europea.",
+"respuesta_c": "A la Comisión Europea.",
+"respuesta_d": "Al Parlamento Europeo.",
+"categoria": "",
+"correcta": "C"
+},
+"360": {
+"id": "360",
+"pregunta": "47)  ¿A qué instituciones corresponde el poder legislativo de la Unión Europea?",
+"respuesta_a": "Al Consejo y al Parlamento Europeo.",
+"respuesta_b": "Al Consejo Europeo y al Parlamento Europeo.",
+"respuesta_c": "A la Comisión y al Parlamento Europeo.",
+"respuesta_d": "Al Consejo Europeo y a la Comisión.",
+"categoria": "",
+"correcta": "A"
+},
+"294": {
+"id": "294",
+"pregunta": "48)  ¿En qué fecha entró en vigor el Tratado de Amsterdam?",
+"respuesta_a": "El 1 de junio de 1999.",
+"respuesta_b": "El 1 de mayo de 1999.",
+"respuesta_c": "El 1 de abril de 1999.",
+"respuesta_d": "El 1 de marzo de 1999.",
+"categoria": "",
+"correcta": "B"
+},
+"309": {
+"id": "309",
+"pregunta": "49)  El buen funcionamiento de la Unión Europea recae, entre otras instituciones, en:",
+"respuesta_a": "El Parlamento Europeo.",
+"respuesta_b": "Todas las respuestas son correctas.",
+"respuesta_c": "La Comisión Europea.",
+"respuesta_d": "El Consejo de la Unión Europea.",
+"categoria": "",
+"correcta": "B"
+},
+"322": {
+"id": "322",
+"pregunta": "50)  Las relaciones entre el Derecho Comunitario y el Derecho nacional se caracterizan por:",
+"respuesta_a": "Complementariedad, por tratarse de un ordenamiento para los Estados miembros.",
+"respuesta_b": "Primacía del Derecho Comunitario, puesto que se impone a los Estados miembros.",
+"respuesta_c": "Autonomía del Derecho Comunitario frente al nacional.",
+"respuesta_d": "Todas las respuestas son correctas.",
+"categoria": "",
+"correcta": "D"
+},
+"391": {
+"id": "391",
+"pregunta": "51)  La duración del mandato de un diputado del Parlamento Europeo es de:",
+"respuesta_a": "25 diputados lo son con carácter vitalicio y el resto se renueva cada cinco años.",
+"respuesta_b": "Cuatro años, como un diputado español.",
+"respuesta_c": "Cinco años.",
+"respuesta_d": "Ninguna es correcta.",
+"categoria": "",
+"correcta": "C"
+},
+"378": {
+"id": "378",
+"pregunta": "52)  El Parlamento Europeo celebrará:",
+"respuesta_a": "Cada año un período de sesiones.",
+"respuesta_b": "Los períodos de sesiones se dividen de febrero a junio y de septiembre a diciembre.",
+"respuesta_c": "Cada año tres períodos de sesiones.",
+"respuesta_d": "Las sesiones del Parlamento no se dividen en períodos de sesiones.",
+"categoria": "",
+"correcta": "A"
+},
+"330": {
+"id": "330",
+"pregunta": "53)  A qué instituciones de la Unión Europea les corresponde el ejercicio de la función legislativa y de la función presupuestaria:",
+"respuesta_a": "Al Banco Central Europeo conjuntamente con el Parlamento Europeo.",
+"respuesta_b": "Al Consejo Europeo conjuntamente con la Comisión Europea.",
+"respuesta_c": "Al Consejo conjuntamente con el Parlamento Europeo.",
+"respuesta_d": "Conjuntamente al Consejo Europeo, Consejo y Parlamento.",
+"categoria": "",
+"correcta": "C"
+},
+"318": {
+"id": "318",
+"pregunta": "54)  La Mesa del Parlamento europeo estará compuesta por:",
+"respuesta_a": "El Presidente, doce Vicepresidentes y los Cuestores.",
+"respuesta_b": "El Presidente, diez Vicepresidentes y los Cuestores.",
+"respuesta_c": "El Presidente, dos Vicepresidentes y los Cuestores.",
+"respuesta_d": "El Presidente, catorce Vicepresidentes y los Cuestores.",
+"categoria": "",
+"correcta": "D"
+},
+"381": {
+"id": "381",
+"pregunta": "55)  El artículo 3 del Tratado de Funcionamiento de la Unión Europea, establece que la Unión dispondrá de competencia exclusiva en el siguiente ámbito:",
+"respuesta_a": "Mercado exterior.",
+"respuesta_b": "Agricultura y pesca.",
+"respuesta_c": "Unión aduanera.",
+"respuesta_d": "Medio ambiente.",
+"categoria": "",
+"correcta": "C"
+},
+"418": {
+"id": "418",
+"pregunta": "56)  La sede del Tribunal de Cuentas Europeo se encuentra en:",
+"respuesta_a": "Estrasburgo.",
+"respuesta_b": "Bruselas.",
+"respuesta_c": "Luxemburgo.",
+"respuesta_d": "Holanda.",
+"categoria": "",
+"correcta": "C"
+},
+"386": {
+"id": "386",
+"pregunta": "57)  Las instituciones de la Unión Europea son:",
+"respuesta_a": "El Consejo, el Consejo Europeo, la Comisión, el Parlamento Europeo y el Tribunal de Justicia.",
+"respuesta_b": "El Consejo, el Consejo Europeo, la Comisión, el Parlamento Europeo, el Comité de las Regiones y el Tribunal de Justicia.",
+"respuesta_c": "El Consejo, el Consejo Europeo, la Comisión, el Parlamento Europeo, el Comité de las Regiones, el Banco Central Europeo y el Tribunal de Justicia.",
+"respuesta_d": "El Consejo, el Consejo Europeo, la Comisión, el Parlamento Europeo, el Banco Central Europeo, el Tribunal de Justicia y el Tribunal de Cuentas.",
+"categoria": "",
+"correcta": "D"
+},
+"390": {
+"id": "390",
+"pregunta": "58)  Tras la cuarta ampliación de la Unión (Austria, Suecia y Finlandia), el número total de diputados se estableció en:",
+"respuesta_a": "623",
+"respuesta_b": "649",
+"respuesta_c": "626",
+"respuesta_d": "565",
+"categoria": "",
+"correcta": "C"
+},
+"413": {
+"id": "413",
+"pregunta": "59)  El tratado que estableció la Unión Europea es:",
+"respuesta_a": "Tratado de Roma.",
+"respuesta_b": "Tratado de Lisboa.",
+"respuesta_c": "Tratado de &Aacute;msterdam.",
+"respuesta_d": "Tratado de Maastricht.",
+"categoria": "",
+"correcta": "D"
+},
+"420": {
+"id": "420",
+"pregunta": "60)  El Presidente del Tribunal de Cuentas es elegido por:",
+"respuesta_a": "Los propios miembros del Tribunal.",
+"respuesta_b": "El Consejo de Europa.",
+"respuesta_c": "El Consejo Europeo.",
+"respuesta_d": "El Consejo de la Unión Europea.",
+"categoria": "",
+"correcta": "A"
+},
+"333": {
+"id": "333",
+"pregunta": "61)  El número de eurodiputados con los que actualmente cuenta España en el Parlamento Europeo es:",
+"respuesta_a": "50.",
+"respuesta_b": "51.",
+"respuesta_c": "54.",
+"respuesta_d": "64.",
+"categoria": "",
+"correcta": "C"
+},
+"327": {
+"id": "327",
+"pregunta": "62)  La moción de censura contra la Comisión existe desde:",
+"respuesta_a": "El Tratado de Maastricht.",
+"respuesta_b": "El Tratado de Amsterdam.",
+"respuesta_c": "El Tratado de París.",
+"respuesta_d": "El Tratado de Roma.",
+"categoria": "",
+"correcta": "D"
+},
+"382": {
+"id": "382",
+"pregunta": "63)  Indique cuál de las siguientes opciones es correcta de acuerdo con lo dispuesto en el artículo 288 de la Tratado de funcionamiento de la Unión Europea:",
+"respuesta_a": "Para ejercer las competencias de la Unión, las instituciones adoptarán reglamentos, directivas y decisiones, pero no podrán adoptar ni recomendaciones ni dictámenes.",
+"respuesta_b": "El reglamento tendrá un alcance sectorial.",
+"respuesta_c": "Las directivas y decisiones no serán vinculantes.",
+"respuesta_d": "Cuando la decisión designe destinatarios, sólo será obligatoria para éstos.",
+"categoria": "",
+"correcta": "D"
+},
+"423": {
+"id": "423",
+"pregunta": "64)  Para constituir un Grupo en el Parlamento Europeo es necesario al menos:",
+"respuesta_a": "25 parlamentarios.",
+"respuesta_b": "28 parlamentarios.",
+"respuesta_c": "15 parlamentarios.",
+"respuesta_d": "20 parlamentarios.",
+"categoria": "",
+"correcta": "A"
+},
+"398": {
+"id": "398",
+"pregunta": "65)  Un diputado del Parlamento Europeo, de nacionalidad española, ¿puede ser también Diputado en el Congreso español?",
+"respuesta_a": "Son compatibles, lo que no puede compatibilizar es ser funcionario de cualquiera de las Instituciones Europeas.",
+"respuesta_b": "Son compatibles, lo que no puede compatibilizar es ser miembro del Tribunal de Justicia de Luxemburgo.",
+"respuesta_c": "Son incompatibles ambas actas de diputado.",
+"respuesta_d": "Son perfectamente compatibles ambas actas de diputado.",
+"categoria": "",
+"correcta": "C"
+},
+"414": {
+"id": "414",
+"pregunta": "66)  Entre las instituciones que forman el marco institucional de la Unión Europea, se encuentra:",
+"respuesta_a": "El Tribunal de Cuentas Europeo.",
+"respuesta_b": "El Tribunal Europeo de Derechos Humanos.",
+"respuesta_c": "El Tribunal Europeo de Defensa de la Competencia.",
+"respuesta_d": "El Tribunal Europeo de Arbitraje Deportivo.",
+"categoria": "",
+"correcta": "A"
+},
+"421": {
+"id": "421",
+"pregunta": "67)  ¿A qué instituciones corresponde el poder ejecutivo de la Unión Europea?",
+"respuesta_a": "Al Consejo, al Consejo Europeo y a la Comisión.",
+"respuesta_b": "Al Consejo y a la Comisión.",
+"respuesta_c": "Al Tribunal de Justicia y a la Comisión Europea.",
+"respuesta_d": "Al Consejo Europeo, al Parlamento Europeo y a la Comisión.",
+"categoria": "",
+"correcta": "A"
+},
+"293": {
+"id": "293",
+"pregunta": "68)  La Comisión Europea estima el impacto del Mercado &Uacute;nico Digital en el PIB de la Unión Europea en:",
+"respuesta_a": "Un crecimiento del 4% del PIB.",
+"respuesta_b": "270.000 millones de &euro; al año.",
+"respuesta_c": "350.000 millones de &euro; al año.",
+"respuesta_d": "415.000 millones de &euro; al año.",
+"categoria": "",
+"correcta": "D"
+},
+"375": {
+"id": "375",
+"pregunta": "69)  Al ingreso de España en la Unión Europea ¿cuántos eurodiputados componen el Parlamento?",
+"respuesta_a": "Pasó de 518 a 626.",
+"respuesta_b": "Pasó de 434 a 518.",
+"respuesta_c": "Pasó de 345 a 512.",
+"respuesta_d": "Pasó de 435 a 610.",
+"categoria": "",
+"correcta": "B"
+},
+"319": {
+"id": "319",
+"pregunta": "70)  El Presidente del Tribunal de Justicia de la Unión Europea es nombrado para un período de:",
+"respuesta_a": "Tres años.",
+"respuesta_b": "Cuatro años.",
+"respuesta_c": "Cinco años.",
+"respuesta_d": "Seis años.",
+"categoria": "",
+"correcta": "A"
+},
+"334": {
+"id": "334",
+"pregunta": "71)  Indique qué órgano representa, a nivel europeo, a los Gobiernos de los Estados miembros de la Unión Europea:",
+"respuesta_a": "Consejo de la Unión Europea.",
+"respuesta_b": "Tribunal de Justicia de la Unión Europea.",
+"respuesta_c": "Comisión Europea.",
+"respuesta_d": "Parlamento Europeo.",
+"categoria": "",
+"correcta": "A"
+},
+"371": {
+"id": "371",
+"pregunta": "72)  Señale cuál no es un principio del Plan de acción de administración electrónica 2016-2020:",
+"respuesta_a": "Versión digital prioritaria.",
+"respuesta_b": "Principio de &laquo;solo una vez&raquo;.",
+"respuesta_c": "Inclusión y accesibilidad.",
+"respuesta_d": "Apertura y transparencia.",
+"categoria": "",
+"correcta": "A"
+},
+"402": {
+"id": "402",
+"pregunta": "73)  ¿En qué año se adhirió España a la Comunidad Europea?",
+"respuesta_a": "En 1988.",
+"respuesta_b": "En 1981.",
+"respuesta_c": "En 1982.",
+"respuesta_d": "En 1986.",
+"categoria": "",
+"correcta": "D"
+},
+"308": {
+"id": "308",
+"pregunta": "74)  La sede del Parlamento Europeo se encuentra en:",
+"respuesta_a": "En Estrasburgo, aunque celebra algunas sesiones en Luxemburgo.",
+"respuesta_b": "En Estrasburgo, aunque celebra algunas sesiones en Bruselas y la Secretaría del Parlamento tiene su sede en Luxemburgo.",
+"respuesta_c": "En Bruselas, aunque celebra algunas sesiones en Luxemburgo y la Secretaría del Parlamento tiene su sede en Estrasburgo.",
+"respuesta_d": "Celebra todas sus sesiones en Bruselas.",
+"categoria": "",
+"correcta": "B"
+},
+"385": {
+"id": "385",
+"pregunta": "75)  En relación a la Estrategia Europa 2020, ¿cuál de las siguientes NO corresponde con ninguna de las iniciativas emblemáticas?",
+"respuesta_a": "Agenda digital para Europa.",
+"respuesta_b": "Juventud en movimiento.",
+"respuesta_c": "Política industrial para la era de la globalización.",
+"respuesta_d": "Unión por la sostenibilidad.",
+"categoria": "",
+"correcta": "D"
+},
+"352": {
+"id": "352",
+"pregunta": "76)  El Tribunal de Justicia Europeo funcionó como instancia única hasta:",
+"respuesta_a": "December de 1987.",
+"respuesta_b": "September de 1989.",
+"respuesta_c": "October de 1990.",
+"respuesta_d": "November de 1980.",
+"categoria": "",
+"correcta": "B"
+},
+"343": {
+"id": "343",
+"pregunta": "77)  El principio de primacía del derecho comunitario:",
+"respuesta_a": "La validez del Derecho comunitario es independiente de su aceptación por los Estados Miembros.",
+"respuesta_b": "El Derecho Comunitario, si es claro, preciso y autosuficiente, no requiere ninguna medida comunitaria o nacional para su aplicación.",
+"respuesta_c": "Los Estados miembros deben facilitar y adoptar medidas para el eficaz cumplimiento del derecho comunitario.",
+"respuesta_d": "La norma Comunitaria prevalece sobre una norma de derecho interno.",
+"categoria": "",
+"correcta": "D"
+},
+"337": {
+"id": "337",
+"pregunta": "78)  Las sesiones plenarias mensuales, a las que asisten todos los diputados, se celebran en:",
+"respuesta_a": "Estrasburgo.",
+"respuesta_b": "Bruselas.",
+"respuesta_c": "Luxemburgo.",
+"respuesta_d": "Holanda.",
+"categoria": "",
+"correcta": "A"
+},
+"392": {
+"id": "392",
+"pregunta": "79)  El Tribunal de Justicia se creó en:",
+"respuesta_a": "El Tratado de la CECA.",
+"respuesta_b": "El Tratado de Niza.",
+"respuesta_c": "El Tratado de &Aacute;msterdam.",
+"respuesta_d": "El Tratado de Lisboa.",
+"categoria": "",
+"correcta": "A"
+},
+"344": {
+"id": "344",
+"pregunta": "80)  El principio de autonomía del derecho comunitario:",
+"respuesta_a": "La validez del Derecho comunitario es independiente de su aceptación por los Estados Miembros.",
+"respuesta_b": "El Derecho Comunitario, si es claro, preciso y autosuficiente, no requiere ninguna medida comunitaria o nacional para su aplicación.",
+"respuesta_c": "Los Estados miembros deben facilitar y adoptar medidas para el eficaz cumplimiento del derecho comunitario.",
+"respuesta_d": "La norma Comunitaria prevalece sobre una norma de derecho interno.",
+"categoria": "",
+"correcta": "A"
+},
+"336": {
+"id": "336",
+"pregunta": "81)  Señale la afirmación correcta en relación a la Comisión Europea:",
+"respuesta_a": "Según lo establecido en el Tratado de Lisboa, a partir del 1 de Noviembre de 2014, la Comisión estará compuesta por un número de miembros correspondiente a los tres quintos del número de Estados miembros.",
+"respuesta_b": "Según lo establecido en el Tratado de Lisboa, a partir del 1 de Noviembre de 2014, la Comisión estará compuesta por un número de miembros correspondiente a las tres cuartas partes del número de Estados miembros.",
+"respuesta_c": "Según lo establecido en el Tratado de Lisboa, a partir del 1 de Noviembre de 2014, la Comisión estará compuesta por un número de miembros correspondiente a los dos tercios del número de Estados miembros.",
+"respuesta_d": "Según lo establecido en el Tratado de Lisboa, a partir del 1 de Noviembre de 2014, la Comisión estará compuesta por un número de miembros correspondiente a un nacional por cada Estado miembro.",
+"categoria": "",
+"correcta": "C"
+},
+"404": {
+"id": "404",
+"pregunta": "82)  Qué requisito existe para constituir un grupo político en el Parlamento Europeo, en relación al número de Estados miembros donde hayan sido elegidos los parlamentarios que lo integren:",
+"respuesta_a": "El número es variable en función de la población de los Estados a los que pertenecen, debiendo representar dichos Estados a un 25% de la población como mínimo.",
+"respuesta_b": "Los parlamentarios deben haber sido elegidos, como mínimo, en 5 Estados miembros.",
+"respuesta_c": "Los parlamentarios deben haber sido elegidos, como mínimo, en 7 Estados miembros.",
+"respuesta_d": "No hay ningún requisito sobre el número de Estados miembros donde hayan sido elegidos los parlamentarios.",
+"categoria": "",
+"correcta": "C"
+},
+"399": {
+"id": "399",
+"pregunta": "83)  El procedimiento de dictamen simple o dictamen consultivo significa que:",
+"respuesta_a": "El Consejo debe obtener la aprobación del Parlamento Europeo para que se tomen determinadas decisiones de primera importancia.",
+"respuesta_b": "Por el que se da poder al Parlamento Europeo para una mayor posibilidad de influir sobre el proceso legislativo mediante una &quot;doble lectura&quot; de las propuestas legislativas de la Comisión.",
+"respuesta_c": "Por el que se da poder al Parlamento Europeo para aprobar disposiciones conjuntamente con el Consejo.",
+"respuesta_d": "El Consejo consulte al Parlamento Europeo y tome sus puntos de vista en consideración.",
+"categoria": "",
+"correcta": "D"
+},
+"338": {
+"id": "338",
+"pregunta": "84)  Señale la afirmación correcta en relación a la Comisión Europea:",
+"respuesta_a": "El Presidente de la Comisión, con la aprobación de la Comisión, puede exigir la dimisión de un Comisario.",
+"respuesta_b": "La Comisión por mayoría de dos tercios de sus miembros puede exigir la dimisión de un Comisario.",
+"respuesta_c": "El Presidente, sin necesidad de contar con la Comisión, puede exigir la dimisión de un Comisario.",
+"respuesta_d": "&Uacute;nicamente el Presidente del Consejo puede exigir la dimisión de un Comisario.",
+"categoria": "",
+"correcta": "A"
+},
+"405": {
+"id": "405",
+"pregunta": "85)  Los Estados fundadores de la Unión Europea fueron:",
+"respuesta_a": "Francia, Alemania, Italia, Bélgica, Holanda y Luxemburgo.",
+"respuesta_b": "Francia, Alemania, Reino Unido, Bélgica, Holanda y Luxemburgo.",
+"respuesta_c": "Francia, Austria, Italia, Bélgica, Holanda y Luxemburgo.",
+"respuesta_d": "Francia, Alemania, Irlanda, Bélgica, Holanda y Luxemburgo.",
+"categoria": "",
+"correcta": "A"
+},
+"426": {
+"id": "426",
+"pregunta": "86)  Tras el tratado de Niza, ¿cuántos eurodiputados son elegidos en el Estado español?",
+"respuesta_a": "90",
+"respuesta_b": "50",
+"respuesta_c": "64",
+"respuesta_d": "60",
+"categoria": "",
+"correcta": "B"
+},
+"412": {
+"id": "412",
+"pregunta": "87)  En el marco de la Unión Europea, las decisiones:",
+"respuesta_a": "Son actos individuales no normativos.",
+"respuesta_b": "Poseen alcance general.",
+"respuesta_c": "Son actos normativos.",
+"respuesta_d": "No son obligatorias.",
+"categoria": "",
+"correcta": "A"
+},
+"349": {
+"id": "349",
+"pregunta": "88)  Señale cuál de las siguientes NO es una función del Banco Central Europeo:",
+"respuesta_a": "Emitir billetes y monedas en la zona euro.",
+"respuesta_b": "Definir la política monetaria de la zona euro.",
+"respuesta_c": "Emitir deuda a nivel europeo.",
+"respuesta_d": "Fijar los tipos de interés de la moneda comunitaria.",
+"categoria": "",
+"correcta": "C"
+},
+"401": {
+"id": "401",
+"pregunta": "89)  La idea de una Europa unida tiene sus antecedentes en el siglo:",
+"respuesta_a": "X.",
+"respuesta_b": "XIX.",
+"respuesta_c": "XV.",
+"respuesta_d": "XIII.",
+"categoria": "",
+"correcta": "B"
+},
+"380": {
+"id": "380",
+"pregunta": "90)  ¿Qué institución encarna por excelencia los intereses comunitarios?",
+"respuesta_a": "El Consejo Europeo.",
+"respuesta_b": "El Parlamento Europeo.",
+"respuesta_c": "El Consejo.",
+"respuesta_d": "La Comisión.",
+"categoria": "",
+"correcta": "D"
+},
+"313": {
+"id": "313",
+"pregunta": "91)  Señale cuál de las siguientes afirmaciones no es correcta:",
+"respuesta_a": "La Unión Europea no es aún una estructura acabada, sino más bien un sistema de gestación cuya apariencia definitiva aún no puede preverse.",
+"respuesta_b": "La Unión Europea no es un proceso de integración sino una Organización Internacional sui generis.",
+"respuesta_c": "La Unión Europea sólo tiene en común con las organizaciones tradicionales de derecho internacional que también han sido creadas mediante un tratado internacional.",
+"respuesta_d": "Todas las respuestas son correctas.",
+"categoria": "",
+"correcta": "B"
+},
+"400": {
+"id": "400",
+"pregunta": "92)  ¿Con cuántos países contará la Unión Europea, si finalmente la abandona Reino Unido tras el Brexit?",
+"respuesta_a": "25.",
+"respuesta_b": "26.",
+"respuesta_c": "27.",
+"respuesta_d": "28.",
+"categoria": "",
+"correcta": "C"
+},
+"296": {
+"id": "296",
+"pregunta": "93)  ¿Disponen de algún mecanismo las Administraciones Autonómicas y Locales para interactuar con la Unión Europea?",
+"respuesta_a": "Sí, mediante el CDR (Comité Europeo de las Regiones).",
+"respuesta_b": "Sí, mediante el COREPER (Comité de Representantes Permanentes).",
+"respuesta_c": "Sí, a través del Parlamento Europeo y la Comisión.",
+"respuesta_d": "No, no cuentan con representación, se gestiona a nivel de Estado.",
+"categoria": "",
+"correcta": "A"
+},
+"307": {
+"id": "307",
+"pregunta": "94)  La duración del mandato del Defensor del Pueblo Europeo es de:",
+"respuesta_a": "Tres años.",
+"respuesta_b": "Dos años y medio.",
+"respuesta_c": "Cinco años.",
+"respuesta_d": "Seis años.",
+"categoria": "",
+"correcta": "C"
+},
+"379": {
+"id": "379",
+"pregunta": "95)  ¿De qué fondos europeos es España beneficiaria?",
+"respuesta_a": "FEDER (Fondo Europeo de Desarrollo Regional).",
+"respuesta_b": "FSE (Fondo Social Europeo).",
+"respuesta_c": "Las respuestas a y b son correctas.",
+"respuesta_d": "Ninguno de los anteriores.",
+"categoria": "",
+"correcta": "C"
+},
+"306": {
+"id": "306",
+"pregunta": "96)  Indique a quién corresponde la función de promover el interés general de la Unión Europea y tomar las iniciativas adecuadas con este fin:",
+"respuesta_a": "Al Consejo Europeo.",
+"respuesta_b": "Al Consejo de la Unión Europea.",
+"respuesta_c": "A la Comisión Europea.",
+"respuesta_d": "Al Parlamento Europeo.",
+"categoria": "",
+"correcta": "C"
+},
+"362": {
+"id": "362",
+"pregunta": "97)  Los Reglamentos comunitarios equivalen a lo que en un ordenamiento interno es:",
+"respuesta_a": "Un Reglamento.",
+"respuesta_b": "Un Decreto.",
+"respuesta_c": "Una Ley.",
+"respuesta_d": "Un Real-Decreto.",
+"categoria": "",
+"correcta": "C"
+},
+"395": {
+"id": "395",
+"pregunta": "98)  Las decisiones de la Comisión se adoptarán por:",
+"respuesta_a": "Unanimidad y mayoría simple.",
+"respuesta_b": "Unanimidad.",
+"respuesta_c": "Mayoría cualificada.",
+"respuesta_d": "Mayoría simple.",
+"categoria": "",
+"correcta": "D"
+},
+"388": {
+"id": "388",
+"pregunta": "99)  El principal órgano decisorio de la Comunidad Europea es:",
+"respuesta_a": "El Presidente del Consejo Europeo.",
+"respuesta_b": "La Comisión.",
+"respuesta_c": "El Consejo.",
+"respuesta_d": "El Parlamento Europeo.",
+"categoria": "",
+"correcta": "C"
+},
+"335": {
+"id": "335",
+"pregunta": "100)  ¿Qué artículo de la Constitución Española fue reformado en 2011, en el contexto de la crisis económica, para garantizar el principio de estabilidad presupuestaria vinculando a todas las Administraciones Publicas y reforzar el compromiso de España con la Unión Europea, garantizando la sostenibilidad económica y social?",
+"respuesta_a": "13.",
+"respuesta_b": "134.",
+"respuesta_c": "135.",
+"respuesta_d": "Ningún artículo fue reformado.",
+"categoria": "",
+"correcta": "C"
+},
+"312": {
+"id": "312",
+"pregunta": "101)  El Consejo de la Unión Europea de reunirá por:",
+"respuesta_a": "Convocatoria de su Presidente, a iniciativa de éste, de dos de sus miembros o de la Comisión.",
+"respuesta_b": "Convocatoria de su Presidente, a iniciativa de éste, de uno de sus miembros o de la Comisión.",
+"respuesta_c": "Convocatoria de su Presidente, a iniciativa de éste, de tres de sus miembros o de la Comisión.",
+"respuesta_d": "Convocatoria de su Presidente, a iniciativa de éste, de uno de sus miembros o de la Comisión o el Parlamento.",
+"categoria": "",
+"correcta": "B"
+},
+"324": {
+"id": "324",
+"pregunta": "102)  Es una función del Presidente del Parlamento Europeo:",
+"respuesta_a": "Presentar la moción de censura.",
+"respuesta_b": "Presidir las sesiones del Parlamento.",
+"respuesta_c": "Organizar la Secretaría General.",
+"respuesta_d": "Preparar las actividades de las Comisiones.",
+"categoria": "",
+"correcta": "B"
+},
+"356": {
+"id": "356",
+"pregunta": "103)  De acuerdo con el Tratado de la Unión Europea, las competencias de la Unión se corresponden con las siguientes categorías, según los ámbitos de actuación:",
+"respuesta_a": "Competencias exclusivas, competencias compartidas, y competencias de apoyo, coordinación y complementarias.",
+"respuesta_b": "Competencias legislativas, ejecutivas, judiciales y fiscalizadoras.",
+"respuesta_c": "Competencias legislativas, ejecutivas, judiciales y sancionadoras.",
+"respuesta_d": "Competencias delegadas por los Estados, competencias propias, y competencias coordinadas con los Estados miembros.",
+"categoria": "",
+"correcta": "A"
+},
+"417": {
+"id": "417",
+"pregunta": "104)  El Presidente del Tribunal de Cuentas es elegido para un período de:",
+"respuesta_a": "Cinco años.",
+"respuesta_b": "Cuatro años.",
+"respuesta_c": "Tres años.",
+"respuesta_d": "Seis meses.",
+"categoria": "",
+"correcta": "C"
+},
+"332": {
+"id": "332",
+"pregunta": "105)  El personal de la Comisión se organiza en departamentos, conocidos como:",
+"respuesta_a": "Consejos y Servicios.",
+"respuesta_b": "Servicios permanentes y no permanentes.",
+"respuesta_c": "Direcciones Generales.",
+"respuesta_d": "Direcciones ministeriales.",
+"categoria": "",
+"correcta": "C"
+},
+"331": {
+"id": "331",
+"pregunta": "106)  Están legitimados para interponer el recurso de carencia del art. 175 TCE:",
+"respuesta_a": "Las instituciones comunitarias.",
+"respuesta_b": "Los Estados miembros y las instituciones comunitarias.",
+"respuesta_c": "Los Estados miembros.",
+"respuesta_d": "Los nacionales de los Estados miembros.",
+"categoria": "",
+"correcta": "B"
+},
+"358": {
+"id": "358",
+"pregunta": "107)  Indique por cuántos miembros está formado actualmente el Tribunal de Cuentas:",
+"respuesta_a": "Quince miembros.",
+"respuesta_b": "Un miembro de cada país de la Unión Europea.",
+"respuesta_c": "Los miembros que determine el Consejo.",
+"respuesta_d": "Un Presidente y quince miembros.",
+"categoria": "",
+"correcta": "B"
+},
+"369": {
+"id": "369",
+"pregunta": "108)  ¿Cuáles son las funciones de la Conferencia para Asuntos Relacionados con las Comunidades Europeas?",
+"respuesta_a": "Garantizar el cumplimiento en las Conferencias Sectoriales de los procedimientos y fórmulas de participación de las Comunidades Autónomas.",
+"respuesta_b": "El tratamiento y resolución con arreglo al principio de cooperación de aquellas cuestiones de alcance general o contenido institucional relacionadas con las Comunidades Europeas.",
+"respuesta_c": "Todas son correctas.",
+"respuesta_d": "Información a las Comunidades Autónomas y la discusión en común sobre el desarrollo del proceso de constitución europea.",
+"categoria": "",
+"correcta": "C"
+},
+"302": {
+"id": "302",
+"pregunta": "109)  El Reglamento Comunitario es una norma:",
+"respuesta_a": "Que precisa de una norma interna de integración en el ordenamiento jurídico de cada Estado miembro.",
+"respuesta_b": "De alcance limitado.",
+"respuesta_c": "Que será obligatoria en todos sus elementos y directamente aplicable en cada Estado miembro.",
+"respuesta_d": "No existen Reglamentos Comunitarios.",
+"categoria": "",
+"correcta": "C"
+},
+"419": {
+"id": "419",
+"pregunta": "110)  Las elecciones al Parlamento Europeo tienen lugar cada:",
+"respuesta_a": "Seis años.",
+"respuesta_b": "Cinco años.",
+"respuesta_c": "Cuatro años.",
+"respuesta_d": "Ocho años.",
+"categoria": "",
+"correcta": "B"
+},
+"389": {
+"id": "389",
+"pregunta": "111)  Indique la afirmación correcta en relación a la Presidencia del Consejo:",
+"respuesta_a": "Es rotatoria y tiene una duración de un año.",
+"respuesta_b": "Es rotatoria y tiene una duración de seis meses.",
+"respuesta_c": "Se nombra por el Parlamento para un período de cinco años.",
+"respuesta_d": "La ostenta el presidente de la Comisión.",
+"categoria": "",
+"correcta": "B"
+},
+"366": {
+"id": "366",
+"pregunta": "112)  En relación a la Unión Económica y monetaria:",
+"respuesta_a": "No todos los Estados miembros de la Unión Europea pertenecen a la Eurozona.",
+"respuesta_b": "Surge de la expansión del mercado único, que contempla normativas comunes para los productos y libre circulación de mercancías, capitales, trabajadores y servicios.",
+"respuesta_c": "Está compuesta por 3 fases que la han ido desarrollando gradualmente.",
+"respuesta_d": "Todas las respuestas son correctas.",
+"categoria": "",
+"correcta": "D"
+},
+"353": {
+"id": "353",
+"pregunta": "113)  Los Reglamentos no se caracterizan por:",
+"respuesta_a": "No poseer alcance general.",
+"respuesta_b": "Ser obligatorios.",
+"respuesta_c": "Ser de aplicación directa a los Estados miembros.",
+"respuesta_d": "Todas son características de los Reglamentos.",
+"categoria": "",
+"correcta": "A"
+},
+"396": {
+"id": "396",
+"pregunta": "114)  ¿Cuántos Abogados Generales asisten al Tribunal Superior de Justicia?",
+"respuesta_a": "Nueve.",
+"respuesta_b": "Diez.",
+"respuesta_c": "Ocho.",
+"respuesta_d": "Once.",
+"categoria": "",
+"correcta": "D"
+},
+"304": {
+"id": "304",
+"pregunta": "115)  Indique la afirmación correcta relativa al Parlamento Europeo:",
+"respuesta_a": "Se reunirá con previa convocatoria el segundo martes de marzo.",
+"respuesta_b": "Se reunirá sin necesidad de previa convocatoria el segundo martes de marzo.",
+"respuesta_c": "Se reunirá la segunda semana de enero con previa convocatoria.",
+"respuesta_d": "Se reunirá la tercera semana de enero sin previa convocatoria.",
+"categoria": "",
+"correcta": "B"
+},
+"368": {
+"id": "368",
+"pregunta": "116)  En el ámbito de la Unión Europea, las recomendaciones son:",
+"respuesta_a": "Sugerencias de las Instituciones comunitarias a los Estados miembros para que actúen en un determinado sentido en relación con materias concretas.",
+"respuesta_b": "Ninguna de las respuestas es correcta.",
+"respuesta_c": "Sugerencias de los Estados miembros a las Instituciones comunitarias para que actúen en un determinado sentido en relación con materias concretas.",
+"respuesta_d": "Sugerencias de las Instituciones comunitarias a los Estados miembros para que actúen en un determinado sentido en relación con materia económica, exclusivamente.",
+"categoria": "",
+"correcta": "A"
+},
+"346": {
+"id": "346",
+"pregunta": "117)  El número de miembros en el Comité Europeo de las Regiones (CDR) para España es:",
+"respuesta_a": "12.",
+"respuesta_b": "15.",
+"respuesta_c": "21.",
+"respuesta_d": "Ninguno de los anteriores.",
+"categoria": "",
+"correcta": "C"
+},
+"328": {
+"id": "328",
+"pregunta": "118)  Señale la respuesta FALSA:",
+"respuesta_a": "El mercado interior europeo que tiene una repercusión positiva en el crecimiento de la economía y del empleo.",
+"respuesta_b": "En mayo de 2015 la Comisión Europea anunció la Estrategia para el Mercado &Uacute;nico Digital, destinada a responder a los retos de la economía digital.",
+"respuesta_c": "La Comisión propone una nueva estrategia de comercio e inversión para la Unión Europea, con el título &laquo;Comercio para todos: Hacia una política de comercio e inversión más sostenible&raquo;.",
+"respuesta_d": "En septiembre de 2015 se ha publicado el plan de acción para la creación de la Unión de los Mercados de Capitales.",
+"categoria": "",
+"correcta": "C"
+},
+"409": {
+"id": "409",
+"pregunta": "119)  Indique a quién corresponde la función de velar por que se apliquen los Tratados y las medidas adoptadas por las Instituciones en virtud de éstos:",
+"respuesta_a": "Al Consejo Europeo.",
+"respuesta_b": "Al Consejo de la Unión Europea.",
+"respuesta_c": "A la Comisión Europea.",
+"respuesta_d": "Al Parlamento Europeo.",
+"categoria": "",
+"correcta": "C"
+},
+"363": {
+"id": "363",
+"pregunta": "120)  ¿Qué potestad NO cedió España al adherirse como miembro de la Eurozona?",
+"respuesta_a": "Gestionar la deuda pública.",
+"respuesta_b": "Fijar los tipos de interés.",
+"respuesta_c": "Devaluar la divisa.",
+"respuesta_d": "Definir la política monetaria.",
+"categoria": "",
+"correcta": "A"
+},
+"316": {
+"id": "316",
+"pregunta": "121)  Señale cuál no es una de las prioridades de la Estrategia Europa 2020:",
+"respuesta_a": "Crecimiento inteligente.",
+"respuesta_b": "Crecimiento inclusivo.",
+"respuesta_c": "Crecimiento sostenible.",
+"respuesta_d": "Crecimiento integrador.",
+"categoria": "",
+"correcta": "B"
+},
+"403": {
+"id": "403",
+"pregunta": "122)  ¿Qué instituciones comparten las tareas legislativas en la Comunidad Europea?",
+"respuesta_a": "El Parlamento y el Consejo.",
+"respuesta_b": "El Parlamento y la Comisión.",
+"respuesta_c": "El Parlamento, la Comisión y el Consejo.",
+"respuesta_d": "La Comisión y el Consejo.",
+"categoria": "",
+"correcta": "C"
+},
+"314": {
+"id": "314",
+"pregunta": "123)  La Comisión Europea está integrada por:",
+"respuesta_a": "18 miembros.",
+"respuesta_b": "Ninguna es correcta.",
+"respuesta_c": "22 miembros.",
+"respuesta_d": "21 miembros.",
+"categoria": "",
+"correcta": "B"
+},
+"374": {
+"id": "374",
+"pregunta": "124)  Los derechos, libertades y principios reconocidos en la Unión Europea están enunciados en:",
+"respuesta_a": "El Tratado de Tallin.",
+"respuesta_b": "El Reglamento Europeo de la Ciudadanía Europea.",
+"respuesta_c": "La Constitución Europea.",
+"respuesta_d": "La Carta de los Derechos Fundamentales de la Unión Europea.",
+"categoria": "",
+"correcta": "D"
+},
+"425": {
+"id": "425",
+"pregunta": "125)  La designación para formar parte del Tribunal de Cuentas la efectúa:",
+"respuesta_a": "La Comisión.",
+"respuesta_b": "El Consejo de Europa.",
+"respuesta_c": "El Consejo Europeo.",
+"respuesta_d": "El Consejo de la Unión Europea.",
+"categoria": "",
+"correcta": "D"
+},
+"376": {
+"id": "376",
+"pregunta": "126)  La Unión Bancaria de la Unión Europea:",
+"respuesta_a": "Consiste fundamentalmente en eliminar las barreras nacionales a las transacciones efectuadas en línea.",
+"respuesta_b": "Armoniza la responsabilidad relativa a la supervisión, la resolución y la financiación en el ámbito de la Unión y obliga a los bancos de la zona del euro a cumplir las mismas normas.",
+"respuesta_c": "Consiste en suprimir todas las restricciones a los movimientos de capitales entre los Estados miembros.",
+"respuesta_d": "Contribuye al crecimiento económico al permitir una inversión eficiente del capital y promueve el uso del euro como moneda internacional.",
+"categoria": "",
+"correcta": "B"
+},
+"387": {
+"id": "387",
+"pregunta": "127)  El Colegio de Comisarios se reúne:",
+"respuesta_a": "Una vez por semana.",
+"respuesta_b": "Una vez al mes.",
+"respuesta_c": "Dos veces en semana.",
+"respuesta_d": "Cuando lo acuerde el Presidente de la Comisión, y además una vez al mes.",
+"categoria": "",
+"correcta": "A"
+},
+"323": {
+"id": "323",
+"pregunta": "128)  En el marco de la Unión Europea, los dictámenes:",
+"respuesta_a": "Son vinculantes solamente.",
+"respuesta_b": "No son vinculantes, ya que su contenido no obliga a aquéllos a los que van dirigidos.",
+"respuesta_c": "Son preceptivos y vinculantes.",
+"respuesta_d": "Son preceptivos y no vinculantes.",
+"categoria": "",
+"correcta": "B"
+},
+"350": {
+"id": "350",
+"pregunta": "129)  ¿De cuántos diputados se compone el Parlamento Europeo?",
+"respuesta_a": "685 diputados como máximo.",
+"respuesta_b": "705 diputados como máximo.",
+"respuesta_c": "751 diputados como máximo.",
+"respuesta_d": "786 diputados como máximo.",
+"categoria": "",
+"correcta": "B"
+},
+"305": {
+"id": "305",
+"pregunta": "130)  Indique en donde tiene su sede de la Comisión Europea:",
+"respuesta_a": "Estrasburgo.",
+"respuesta_b": "Bruselas.",
+"respuesta_c": "Luxemburgo.",
+"respuesta_d": "París.",
+"categoria": "",
+"correcta": "B"
+},
+}

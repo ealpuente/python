@@ -1,0 +1,42 @@
+{
+"new Array();": {
+"id": "new Array();",
+"pregunta": "1)  Señale la respuesta correcta:",
+"respuesta_a": "&quot;Six Pack&quot; se refiere a 6 medidas legislativas adoptadas en el ámbito de la Unión Europea con la finalidad de reforzar la gobernanza presupuestaria y económica.",
+"respuesta_b": "El &ldquo;Two-Pack&rdquo; consta de dos reglamentos destinados a aumentar aún más la integración y la convergencia económicas entre los Estados miembros de la zona del euro.",
+"respuesta_c": "Las respuestas A y B son correctas.",
+"respuesta_d": "Las respuestas A y B son falsas.",
+"categoria": "",
+"correcta": "C"
+},
+"407": {
+"id": "407",
+"pregunta": "2)  Indique a quién corresponde la función de ejecutar el presupuesto de la Unión Europea:",
+"respuesta_a": "Al Consejo Europeo.",
+"respuesta_b": "Al Consejo de la Unión Europea.",
+"respuesta_c": "A la Comisión Europea.",
+"respuesta_d": "Al Parlamento Europeo.",
+"categoria": "",
+"correcta": "C"
+},
+"361": {
+"id": "361",
+"pregunta": "3)  Cuál no es uno de los pilares que cimientan el Plan de Acción de administración electrónica 2016-2020:",
+"respuesta_a": "Configuración de un marco que habilite la movilidad transfronteriza mediante los servicios públicos digitales.",
+"respuesta_b": "Facilitar la interacción digital con ciudadanos y empresas mediante AA.PP. abiertas y flexibles que impliquen a los actores interesados en el diseño de políticas y servicios de una forma colaborativa.",
+"respuesta_c": "Sociedad digital integradora, donde los ciudadanos tengan las cualificaciones adecuadas para aprovechar las oportunidades ofrecidas por Internet.",
+"respuesta_d": "Puesta a disposición de habilitadores y facilitadores claves, servicios y activos reutilizables.",
+"categoria": "",
+"correcta": "C"
+},
+"321": {
+"id": "321",
+"pregunta": "4)  El protocolo Schengen está integrado en el marco institucional y jurídico de la Unión Europea con la entrada en vigor de:",
+"respuesta_a": "El Tratado de Maastricht (1993).",
+"respuesta_b": "El Tratado de &Aacute;msterdam (1999).",
+"respuesta_c": "El Tratado de Niza (2003).",
+"respuesta_d": "El Tratado de Lisboa (2009).",
+"categoria": "",
+"correcta": "B"
+},
+}

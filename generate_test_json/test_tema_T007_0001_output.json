@@ -1,0 +1,212 @@
+{
+"new Array();": {
+"id": "new Array();",
+"pregunta": "1)  Entre las fuentes primarias de derecho administrativo no se encuentra:",
+"respuesta_a": "La Constitución",
+"respuesta_b": "Los Principios Generales del Derecho",
+"respuesta_c": "EL Reglamento",
+"respuesta_d": "Todas son fuentes primarias",
+"categoria": "",
+"correcta": "B"
+},
+"455": {
+"id": "455",
+"pregunta": "2)  Señale la opción incorrecta en relación con los Decretos Leyes:",
+"respuesta_a": "Están regulados en el artículo 86 de la Constitución española.",
+"respuesta_b": "Deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados, convocado al efecto si no estuviere reunido, en el plazo de los sesenta días siguientes a su promulgación.",
+"respuesta_c": "No podrán afectar al ordenamiento de las instituciones básicas del Estado.",
+"respuesta_d": "Todas las anteriores son verdaderas.",
+"categoria": "",
+"correcta": "B"
+},
+"468": {
+"id": "468",
+"pregunta": "3)  ¿Qué se entiende por inderogabilidad singular de los reglamentos?",
+"respuesta_a": "Las resoluciones administrativas de carácter particular pueden vulnerar los reglamentos cuando procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+"respuesta_b": "Las resoluciones administrativas de carácter particular pueden vulnerar los reglamentos únicamente cuando procedan del Gobierno en condiciones de extraordinaria y urgente necesidad.",
+"respuesta_c": "Las resoluciones administrativas de carácter particular no pueden vulnerar las disposiciones de alcance general aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+"respuesta_d": "La vulneración de una disposición de alcance general por una de carácter particular, requiere acuerdo del Consejo de Ministros.",
+"categoria": "",
+"correcta": "C"
+},
+"451": {
+"id": "451",
+"pregunta": "4)  Respecto de la jerarquía de las fuentes del derecho, señale la incorrecta:",
+"respuesta_a": "Las leyes autonómicas poseen el mismo rango y fuerza que las leyes del Estado.",
+"respuesta_b": "Las leyes orgánicas tienen mayor fuerza que las leyes ordinarias.",
+"respuesta_c": "Entre las leyes ordinarias se encuentran, entre otras, las leyes marco, las leyes de bases y las leyes básicas.",
+"respuesta_d": "Los decretos ley y los decretos legislativos son disposiciones con fuerza de ley.",
+"categoria": "",
+"correcta": "B"
+},
+"460": {
+"id": "460",
+"pregunta": "5)  La Constitución Española es una fuente del derecho administrativo, de tipo:",
+"respuesta_a": "Directa, escrita y primaria",
+"respuesta_b": "Indirecta, escrita y primaria",
+"respuesta_c": "Directa, escrita y subsidiaria",
+"respuesta_d": "Indirecta, escrita y subsidiaria",
+"categoria": "",
+"correcta": "A"
+},
+"456": {
+"id": "456",
+"pregunta": "6)  Respecto de las fuentes del derecho administrativo en España, señale la incorrecta:",
+"respuesta_a": "La costumbre sólo regirá en defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público y que resulte probada.",
+"respuesta_b": "Los usos jurídicos que no sean meramente interpretativos de una declaración de voluntad tendrán la consideración de costumbre.",
+"respuesta_c": "Los principios generales del derecho se aplicarán en defecto de ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico.",
+"respuesta_d": "Todas son correctas.",
+"categoria": "",
+"correcta": "D"
+},
+"461": {
+"id": "461",
+"pregunta": "7)  Los reglamentos se pueden clasificar en (señale la que no corresponda):",
+"respuesta_a": "Por el sujeto del que proceden: estatales, autonómicos o locales.",
+"respuesta_b": "Por sus efectos: jurídicos o normativos.",
+"respuesta_c": "Por su relación con la ley: ejecutivos, independientes y de necesidad.",
+"respuesta_d": "Todas son correctas.",
+"categoria": "",
+"correcta": "D"
+},
+"459": {
+"id": "459",
+"pregunta": "8)  El Código Civil, en el capítulo denominado &quot;Fuentes del Derecho&quot;, establece que:",
+"respuesta_a": "Sólo son fuentes del ordenamiento jurídico la ley y la costumbre.",
+"respuesta_b": "Las leyes entrarán en vigor con carácter inmediato tras su publicación en el Boletín Oficial del Estado.",
+"respuesta_c": "La costumbre sólo regirá en defecto de usos jurídicos aplicables.",
+"respuesta_d": "La jurisprudencia complementará el ordenamiento jurídico con la doctrina que, de modo reiterado, establezca el Tribunal Supremo.",
+"categoria": "",
+"correcta": "D"
+},
+"462": {
+"id": "462",
+"pregunta": "9)  Señale la opción incorrecta respecto a la relación entre la ley estatal y la ley autonómica:",
+"respuesta_a": "La ley autonómica no está jerárquicamente subordinada a la ley estatal.",
+"respuesta_b": "La relación entre ambas se rige por el principio de competencia.",
+"respuesta_c": "La relación entre ambas se rige por el principio de supremacía.",
+"respuesta_d": "Todas son correctas.",
+"categoria": "",
+"correcta": "C"
+},
+"469": {
+"id": "469",
+"pregunta": "10)  Señala la falsa:",
+"respuesta_a": "Las leyes orgánicas y ordinarias tienen el mismo rango.",
+"respuesta_b": "Las leyes orgánicas están reservados para ciertas materias.",
+"respuesta_c": "Los decretos leyes y los decretos legislativos tienen rango de reglamentos.",
+"respuesta_d": "Todas las anteriores son verdaderas.",
+"categoria": "",
+"correcta": "C"
+},
+"466": {
+"id": "466",
+"pregunta": "11)  En relación a las Leyes Orgánicas:",
+"respuesta_a": "Se otorgan al Gobierno de forma expresa para materia concreta y con fijación del plazo para su ejercicio.",
+"respuesta_b": "Se dictan en caso de extraordinaria y urgente necesidad y no pueden afectar al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertados de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general.",
+"respuesta_c": "Deben ser inmediatamente sometidas a debate y votación de totalidad al Congreso de los Diputados en el plazo de treinta días siguientes a su promulgación.",
+"respuesta_d": "Aprueban los Estatutos de Autonomía.",
+"categoria": "",
+"correcta": "D"
+},
+"463": {
+"id": "463",
+"pregunta": "12)  Las fuentes del derecho administrativo español se agrupan por clases, en:",
+"respuesta_a": "Directas e indirectas",
+"respuesta_b": "Escritas y no escritas",
+"respuesta_c": "Primarias y subsidiarias",
+"respuesta_d": "Todas las anteriores",
+"categoria": "",
+"correcta": "D"
+},
+"457": {
+"id": "457",
+"pregunta": "13)  La delegación legislativa de las Cortes Generales en el Gobierno, cuando se trata de refundir varios textos legales en uno solo, deberá otorgarse mediante:",
+"respuesta_a": "Ley orgánica.",
+"respuesta_b": "Ley ordinaria.",
+"respuesta_c": "Ley de bases.",
+"respuesta_d": "Ley marco.",
+"categoria": "",
+"correcta": "C"
+},
+"464": {
+"id": "464",
+"pregunta": "14)  Las fuentes del ordenamiento jurídico español son:",
+"respuesta_a": "La Constitución Española de 1978 y las normas que de ella derivan",
+"respuesta_b": "La ley, la costumbre y los principios generales del derecho",
+"respuesta_c": "Las leyes y códigos y sus reglamentos de desarrollo",
+"respuesta_d": "La base y principios del derecho romano",
+"categoria": "",
+"correcta": "B"
+},
+"458": {
+"id": "458",
+"pregunta": "15)  El IVA es un impuesto armonizado a nivel europeo regulado en la Directiva 2006/112/CE del Consejo, lo que implica que:",
+"respuesta_a": "Lo establecido en la Directiva es directamente aplicable en todos los Estados miembros y obliga en todos sus elementos, tanto en el fin como en los medios.",
+"respuesta_b": "Lo establecido en la Directiva no es vinculante, actúa sólo como recomendación para los Estados miembros.",
+"respuesta_c": "Lo establecido en la Directiva es vinculante pero requiere una transposición en cada Estado miembro a través de una norma nacional que adapte lo recogido en la norma europea a las particularidades de cada país.",
+"respuesta_d": "En caso de conflicto, cualquier norma nacional con rango de Ley prevalece sobre la Directiva en virtud del principio de supremacía.",
+"categoria": "",
+"correcta": "C"
+},
+"452": {
+"id": "452",
+"pregunta": "16)  Un Reglamento de la Unión Europea:",
+"respuesta_a": "Es de aplicación directa en los Estados Miembros de la UE.",
+"respuesta_b": "Necesita transposición al Derecho de los Estados Miembros para poder ser aplicado.",
+"respuesta_c": "En caso de conflicto con una ley de un Estado Miembro, prevalece el Reglamento de la UE.",
+"respuesta_d": "A y C son correctas.",
+"categoria": "",
+"correcta": "D"
+},
+"471": {
+"id": "471",
+"pregunta": "17)  Según el artículo 87 de la Constitución Española, la iniciativa legislativa corresponde al:",
+"respuesta_a": "Gobierno.",
+"respuesta_b": "Congreso.",
+"respuesta_c": "Senado.",
+"respuesta_d": "Todas las anteriores son verdaderas.",
+"categoria": "",
+"correcta": "D"
+},
+"465": {
+"id": "465",
+"pregunta": "18)  Señale la afirmación CORRECTA:",
+"respuesta_a": "La aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta de las Cortes Generales, en una votación final sobre el conjunto del proyecto.",
+"respuesta_b": "Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de Decretos-leyes.",
+"respuesta_c": "Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución.",
+"respuesta_d": "La delegación legislativa deberá otorgarse mediante una ley orgánica cuando su objeto sea la formación de textos articulados o por una ley ordinaria cuando se trate de refundir varios textos legales en uno.",
+"categoria": "",
+"correcta": "C"
+},
+"467": {
+"id": "467",
+"pregunta": "19)  Entre las disposiciones del gobierno con fuerza de ley, no se encuentra:",
+"respuesta_a": "Ley orgánica",
+"respuesta_b": "Decreto Ley",
+"respuesta_c": "Decreto Legislativo",
+"respuesta_d": "Todas lo son",
+"categoria": "",
+"correcta": "A"
+},
+"454": {
+"id": "454",
+"pregunta": "20)  En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de:",
+"respuesta_a": "Ley orgánica.",
+"respuesta_b": "Ley ordinaria.",
+"respuesta_c": "Decreto legislativo.",
+"respuesta_d": "Decreto-ley.",
+"categoria": "",
+"correcta": "D"
+},
+"453": {
+"id": "453",
+"pregunta": "21)  Tal y como marca la Constitución Española de 1978, en el caso de los referéndums consultivos:",
+"respuesta_a": "Su propuesta parte del Presidente del Gobierno, y ha de ser autorizada por el Congreso de los Diputados.",
+"respuesta_b": "Son propuestos por el Consejo de Ministros, siendo autorizados previamente por el Presidente del Gobierno.",
+"respuesta_c": "Son refrendados por el Rey.",
+"respuesta_d": "Son convocados por el Presidente del Gobierno.",
+"categoria": "",
+"correcta": "A"
+},
+}

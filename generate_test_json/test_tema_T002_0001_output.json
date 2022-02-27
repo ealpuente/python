@@ -1,0 +1,482 @@
+{
+"new Array();": {
+"id": "new Array();",
+"pregunta": "1)  El cese o vacante en el cargo de Magistrado del Tribunal Constitucional se decidirá por el Pleno por mayoría simple en los siguientes casos:",
+"respuesta_a": "Por incurrir en alguna causa de incapacidad de las previstas para los miembros del Poder Judicial y por incompatibilidad sobrevenida.",
+"respuesta_b": "Por incompatibilidad sobrevenida y por violar la reserva propia de su función.",
+"respuesta_c": "Por expiración del plazo de su nombramiento, por incurrir en alguna causa de incapacidad de las previstas para los miembros del Poder Judicial y por incompatibilidad sobrevenida.",
+"respuesta_d": "Por incompatibilidad sobrevenida, por dejar de atender con diligencia los deberes de su cargo y por violar la reserva propia de su función.",
+"categoria": "",
+"correcta": "A"
+},
+"182": {
+"id": "182",
+"pregunta": "2)  El Ministerio Fiscal tiene por misión:",
+"respuesta_a": "Promover la acción de la justicia en defensa de la igualdad, de los derechos de los ciudadanos y del interés público tutelado por la ley, de oficio o a petición de los interesados.",
+"respuesta_b": "Velar por la independencia de los Tribunales.",
+"respuesta_c": "Procurar ante los Tribunales la satisfacción del interés general.",
+"respuesta_d": "Todas son correctas.",
+"categoria": "",
+"correcta": "B"
+},
+"184": {
+"id": "184",
+"pregunta": "3)  ¿En qué título de la Constitución Española se regula el Poder Judicial?",
+"respuesta_a": "Título IV",
+"respuesta_b": "Título III",
+"respuesta_c": "Título V",
+"respuesta_d": "Título VI",
+"categoria": "",
+"correcta": "D"
+},
+"146": {
+"id": "146",
+"pregunta": "4)  El Tribunal Constitucional está integrado por:",
+"respuesta_a": "14 miembros, con el título de magistrados del Tribunal Constitucional.",
+"respuesta_b": "12 miembros, con el título de magistrados del Tribunal Constitucional.",
+"respuesta_c": "16 miembros, con el título de magistrados del Tribunal Constitucional.",
+"respuesta_d": "20 miembros, con el título de magistrados del Tribunal Constitucional.",
+"categoria": "",
+"correcta": "B"
+},
+"159": {
+"id": "159",
+"pregunta": "5)  Darán derecho a una indemnización a cargo del Estado:",
+"respuesta_a": "Los daños causados por una errónea apreciación de las pruebas por Juzgados y Tribunales",
+"respuesta_b": "Los daños causados por el retraso superior a 6 meses en la resolución de los pleitos a cargo de Juzgados y Tribunales",
+"respuesta_c": "Los daños que sean consecuencia de funcionamiento anormal de la Administración de Justicia",
+"respuesta_d": "Todas las anteriores son correctas",
+"categoria": "",
+"correcta": "C"
+},
+"149": {
+"id": "149",
+"pregunta": "6)  ¿Qué órgano tiene por misión promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como velar por la independencia de los Tribunales y procurar ante éstos la satisfacción del interés social?",
+"respuesta_a": "El Ministerio Fiscal",
+"respuesta_b": "El Consejo General del Poder Judicial",
+"respuesta_c": "El Defensor del Pueblo",
+"respuesta_d": "El Tribunal Constitucional",
+"categoria": "",
+"correcta": "A"
+},
+"148": {
+"id": "148",
+"pregunta": "7)  ¿Cuántos miembros del Consejo General del Poder Judicial son propuestos de entre Jueces y Magistrados de todas las categorías judiciales?",
+"respuesta_a": "10",
+"respuesta_b": "8",
+"respuesta_c": "Todos",
+"respuesta_d": "12",
+"categoria": "",
+"correcta": "D"
+},
+"143": {
+"id": "143",
+"pregunta": "8)  ¿Dónde está regulado el Poder Judicial en nuestra Constitución de 1978?",
+"respuesta_a": "En el Título IV.",
+"respuesta_b": "En el Título V.",
+"respuesta_c": "En el Titulo VII.",
+"respuesta_d": "En el Título VI.",
+"categoria": "",
+"correcta": "D"
+},
+"177": {
+"id": "177",
+"pregunta": "9)  Señale la respuesta FALSA. El Ministerio Fiscal, sin perjuicio de las funciones encomendadas a otros órganos, tiene por misión promover la acción de la justicia en defensa de:",
+"respuesta_a": "la legalidad",
+"respuesta_b": "la equidad",
+"respuesta_c": "los derechos de los ciudadanos",
+"respuesta_d": "el interés público",
+"categoria": "",
+"correcta": "B"
+},
+"176": {
+"id": "176",
+"pregunta": "10)  La base del funcionamiento y organización de los Tribunales es la:",
+"respuesta_a": "Inamovilidad",
+"respuesta_b": "Independencia",
+"respuesta_c": "Dependencia jerárquica",
+"respuesta_d": "Unidad Jurisdiccional",
+"categoria": "",
+"correcta": "D"
+},
+"160": {
+"id": "160",
+"pregunta": "11)  El Presidente del Tribunal Constitucional es nombrado por:",
+"respuesta_a": "el Rey, a propuesta de los magistrados del propio Tribunal",
+"respuesta_b": "el Gobierno, oído el Consejo General del Poder Judicial",
+"respuesta_c": "el Presidente del Consejo General del Poder Judicial",
+"respuesta_d": "el Rey, a propuesta del Presidente del Consejo del Poder Judicial",
+"categoria": "",
+"correcta": "A"
+},
+"158": {
+"id": "158",
+"pregunta": "12)  El Presidente del Consejo General del Poder Judicial es elegido por:",
+"respuesta_a": "El Gobierno",
+"respuesta_b": "El Rey",
+"respuesta_c": "El Consejo General del Poder Judicial",
+"respuesta_d": "El Tribunal Supremo",
+"categoria": "",
+"correcta": "C"
+},
+"156": {
+"id": "156",
+"pregunta": "13)  De los siguientes principios, ¿cuál no es aplicable a la Justicia, de acuerdo con la Constitución?",
+"respuesta_a": "Oralidad",
+"respuesta_b": "Independencia",
+"respuesta_c": "Exclusividad",
+"respuesta_d": "Movilidad",
+"categoria": "",
+"correcta": "D"
+},
+"153": {
+"id": "153",
+"pregunta": "14)  La jurisdicción militar se ejercerá, de acuerdo con los principios de la Constitución:",
+"respuesta_a": "En el ámbito estrictamente castrense",
+"respuesta_b": "En el ámbito castrense y en los supuestos de estado de excepción y de sitio",
+"respuesta_c": "En el ámbito castrense y en los supuestos de estado de sitio",
+"respuesta_d": "En el ámbito castrense, y en los supuestos de estado de alarma, excepción y sitio",
+"categoria": "",
+"correcta": "C"
+},
+"163": {
+"id": "163",
+"pregunta": "15)  El Consejo General del Poder Judicial estará integrado por:",
+"respuesta_a": "El Presidente del Tribunal Supremo, que lo presidirá y por 20 miembros nombrados por el Rey por un período de 4 años.",
+"respuesta_b": "El Presidente del Tribunal Supremo, que lo presidirá y por 20 miembros nombrados por el Rey, de los cuales 16 serán a propuesta del congreso de los Diputados y 4 a propuesta del Senado.",
+"respuesta_c": "El Presidente del Tribunal Supremo, que lo presidirá y por 20 miembros nombrados por el Rey, de los cuales 12 serán nombrados entre Jueces y Magistrados de todas las categorías judiciales en los términos que establezca la ley orgánica.",
+"respuesta_d": "El Presidente del Tribunal Supremo, que lo presidirá y por 20 miembros nombrados por el Rey, a propuesta del Congreso de los Diputados.",
+"categoria": "",
+"correcta": "C"
+},
+"183": {
+"id": "183",
+"pregunta": "16)  Ejerce la potestad jurisdiccional en nuestro Estado, en el poder judicial:",
+"respuesta_a": "El Tribunal de Cuentas.",
+"respuesta_b": "El Tribunal Constitucional.",
+"respuesta_c": "El Tribunal Supremo.",
+"respuesta_d": "El Tribunal de las Aguas de la Vega de Valencia.",
+"categoria": "",
+"correcta": "C"
+},
+"181": {
+"id": "181",
+"pregunta": "17)  Los Jueces y Magistrados están sometidos a:",
+"respuesta_a": "las órdenes del CGPJ",
+"respuesta_b": "la Ley",
+"respuesta_c": "el Ministro de Justicia",
+"respuesta_d": "el Presidente del Tribunal Supremo",
+"categoria": "",
+"correcta": "B"
+},
+"169": {
+"id": "169",
+"pregunta": "18)  De los 12 miembros que componen el Tribunal Constitucional:",
+"respuesta_a": "2 son propuestos por la Fiscalía General del Estado.",
+"respuesta_b": "4 son propuestos por la Fiscalía General del Estado.",
+"respuesta_c": "2 son propuestos por el Consejo General del Poder Judicial.",
+"respuesta_d": "4 son propuestos por el Consejo General del Poder Judicial.",
+"categoria": "",
+"correcta": "C"
+},
+"180": {
+"id": "180",
+"pregunta": "19)  Los magistrados del Tribunal Constitucional propuestos por el Senado se eligen entre:",
+"respuesta_a": "Los candidatos presentados por las asambleas legislativas de las comunidades autónomas",
+"respuesta_b": "Los candidatos presentados por el Consejo General del Poder Judicial",
+"respuesta_c": "Los candidatos presentados por los diferentes grupos del Senado",
+"respuesta_d": "Los candidatos propuestos por el Tribunal Supremo",
+"categoria": "",
+"correcta": "A"
+},
+"172": {
+"id": "172",
+"pregunta": "20)  La potestad jurisdiccional comprende:",
+"respuesta_a": "Juzgar y sentenciar lo juzgado",
+"respuesta_b": "Conocer y juzgar lo conocido",
+"respuesta_c": "Todas las respuestas son ciertas",
+"respuesta_d": "Juzgar y hacer ejecutar lo juzgado",
+"categoria": "",
+"correcta": "D"
+},
+"167": {
+"id": "167",
+"pregunta": "21)  ¿Cuántas salas jurisdiccionales tiene el Tribunal Supremo?",
+"respuesta_a": "6",
+"respuesta_b": "3",
+"respuesta_c": "5",
+"respuesta_d": "4",
+"categoria": "",
+"correcta": "C"
+},
+"140": {
+"id": "140",
+"pregunta": "22)  La policía judicial, en su labor de averiguación de los delitos, depende de:",
+"respuesta_a": "Jueces, Tribunales y Ministerio Fiscal",
+"respuesta_b": "Gobierno",
+"respuesta_c": "Jueces y Fiscales",
+"respuesta_d": "Ministro del Interior",
+"categoria": "",
+"correcta": "A"
+},
+"166": {
+"id": "166",
+"pregunta": "23)  Los Jueces y Magistrados, así como los Fiscales:",
+"respuesta_a": "Podrán sindicarse en cualquier caso",
+"respuesta_b": "No podrán sindicarse ni asociarse en manera alguna",
+"respuesta_c": "Podrán asociarse a partidos políticos",
+"respuesta_d": "Podrán constituir asociaciones profesionales",
+"categoria": "",
+"correcta": "D"
+},
+"171": {
+"id": "171",
+"pregunta": "24)  El Presidente del Consejo General del Poder Judicial es nombrado por:",
+"respuesta_a": "El Presidente del Gobierno",
+"respuesta_b": "El Rey",
+"respuesta_c": "El Presidente del Congreso",
+"respuesta_d": "Los miembros del CGPJ",
+"categoria": "",
+"correcta": "B"
+},
+"157": {
+"id": "157",
+"pregunta": "25)  De acuerdo con la LOPJ, las Cortes Generales designarán los siguientes vocales del CGPJ entre jueces y magistrados de todas las categorías:",
+"respuesta_a": "4 por mayoría de 3/5 cada cámara",
+"respuesta_b": "8 por mayoría de 2/3 cada cámara",
+"respuesta_c": "8 por mayoría de 3/5 cada cámara",
+"respuesta_d": "6 por mayoría de 3/5 cada cámara",
+"categoria": "",
+"correcta": "D"
+},
+"150": {
+"id": "150",
+"pregunta": "26)  ¿Cuántos magistrados del Tribunal Constitucional son propuestos por el Gobierno?",
+"respuesta_a": "4",
+"respuesta_b": "3",
+"respuesta_c": "Ninguno",
+"respuesta_d": "2",
+"categoria": "",
+"correcta": "D"
+},
+"141": {
+"id": "141",
+"pregunta": "27)  Según la Ley orgánica 3/1981, de 6 de abril, para ser designado Defensor del Pueblo será necesario, en una primera votación, obtener el voto favorable de:",
+"respuesta_a": "Las tres quintas partes de los miembros del Congreso y posteriormente, en un plazo máximo de 15 días, ser ratificado por la mayoría del Senado",
+"respuesta_b": "La mayoría absoluta de ambas cámaras, Congreso y Senado",
+"respuesta_c": "Las dos quintas partes de los miembros del Congreso y posteriormente, en un plazo máximo de 20 días, ser ratificado por las dos terceras partes de los miembros del Senado",
+"respuesta_d": "Las tres quintas partes de los miembros del Congreso y posteriormente, en un plazo máximo de 20 días, ser ratificado por esa misma mayoría del Senado",
+"categoria": "",
+"correcta": "D"
+},
+"175": {
+"id": "175",
+"pregunta": "28)  ¿Cuál es la duración del mandato de los vocales del Consejo General del Poder Judicial?",
+"respuesta_a": "5 años",
+"respuesta_b": "4 años",
+"respuesta_c": "6 años y se renovarán por terceras partes cada 3",
+"respuesta_d": "3 años",
+"categoria": "",
+"correcta": "A"
+},
+"139": {
+"id": "139",
+"pregunta": "29)  De conformidad con lo señalado en la Constitución Española en el artículo 159, los miembros del Tribunal Constitucional serán designados por un periodo de:",
+"respuesta_a": "9 años y se renovarán por terceras partes cada 3",
+"respuesta_b": "9 años y se renovarán por terceras partes cada 2",
+"respuesta_c": "6 años y se renovarán por terceras partes cada 3",
+"respuesta_d": "6 años y se renovarán por terceras partes cada 2",
+"categoria": "",
+"correcta": "A"
+},
+"152": {
+"id": "152",
+"pregunta": "30)  ¿Cuántos miembros del Consejo General del Poder Judicial son nombrados por el Congreso de los Diputados?",
+"respuesta_a": "4",
+"respuesta_b": "12",
+"respuesta_c": "6",
+"respuesta_d": "8",
+"categoria": "",
+"correcta": "A"
+},
+"142": {
+"id": "142",
+"pregunta": "31)  Respecto al Consejo General del Poder Judicial:",
+"respuesta_a": "Su estatuto, régimen de incompatibilidades de sus miembros y sus funciones se regulan por ley ordinaria",
+"respuesta_b": "Es el órgano de gobierno del Poder Judicial",
+"respuesta_c": "Su número de miembros es variable en función de las condiciones establecidas en la ley ordinaria",
+"respuesta_d": "Todos sus miembros tienen que ser Jueces o Magistrados",
+"categoria": "",
+"correcta": "B"
+},
+"173": {
+"id": "173",
+"pregunta": "32)  El Ministerio Fiscal ejerce sus funciones con sujeción a los principios:",
+"respuesta_a": "De independencia y unidad jurisdiccional",
+"respuesta_b": "De unidad de actuación e independencia jerárquica",
+"respuesta_c": "De legalidad e imparcialidad",
+"respuesta_d": "Todas las respuestas son ciertas",
+"categoria": "",
+"correcta": "C"
+},
+"155": {
+"id": "155",
+"pregunta": "33)  De acuerdo son la Constitución, la justicia se administra por:",
+"respuesta_a": "El Ministerio Fiscal",
+"respuesta_b": "Jueces y Magistrados",
+"respuesta_c": "El Rey",
+"respuesta_d": "El Gobierno",
+"categoria": "",
+"correcta": "B"
+},
+"151": {
+"id": "151",
+"pregunta": "34)  Respecto al Ministerio Fiscal, señale cuál de estas funciones no le viene otorgada por la Constitución:",
+"respuesta_a": "Representar al desvalido",
+"respuesta_b": "Promover la acción de la justicia",
+"respuesta_c": "Velar por la independencia de los tribunales",
+"respuesta_d": "Defender el interés público",
+"categoria": "",
+"correcta": "A"
+},
+"174": {
+"id": "174",
+"pregunta": "35)  La constitución, funcionamiento y gobierno de los Juzgados y Tribunales, se determinará:",
+"respuesta_a": "Por la Ley Orgánica del Poder Judicial",
+"respuesta_b": "Por las leyes de las Comunidades Autónomas que tengan cedida esta competencia",
+"respuesta_c": "Por la ley del Ministerio Fiscal",
+"respuesta_d": "Por leyes ordinarias específicas",
+"categoria": "",
+"correcta": "A"
+},
+"161": {
+"id": "161",
+"pregunta": "36)  Los Jueces y Magistrados, así como los Fiscales:",
+"respuesta_a": "Podrán pertenecer a partidos políticos y sindicatos en cualquier caso",
+"respuesta_b": "Podrán pertenecer a partidos políticos y sindicatos específicos propios mientras estén en activo",
+"respuesta_c": "Podrán pertenecer a partidos políticos mientras estén en activo, pero no a sindicatos",
+"respuesta_d": "No podrán pertenecer a partidos políticos o sindicatos mientras estén en activo",
+"categoria": "",
+"correcta": "D"
+},
+"170": {
+"id": "170",
+"pregunta": "37)  El Tribunal Constitucional se compone de:",
+"respuesta_a": "12 miembros nombrados por el Rey: cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros, cuatro a propuesta del Senado con idéntica mayoría, dos a propuesta del Gobierno y dos a propuesta del Consejo General del Poder Judicial.",
+"respuesta_b": "12 miembros nombrados por el Rey: cuatro a propuesta del Congreso por mayoría de tres cuartos de sus miembros, cuatro a propuesta del Senado con idéntica mayoría, dos a propuesta del Gobierno y dos a propuesta del Consejo General del Poder Judicial.",
+"respuesta_c": "12 miembros nombrados por el Rey: cuatro a propuesta del Congreso por mayoría absoluta, cuatro a propuesta del Senado con idéntica mayoría, dos a propuesta del Gobierno y dos a propuesta del Consejo General del Poder Judicial.",
+"respuesta_d": "14 miembros nombrados por el Rey: cuatro a propuesta del Congreso por mayoría absoluta, cuatro a propuesta del Senado con idéntica mayoría, tres a propuesta del Gobierno y tres a propuesta del Consejo General del Poder Judicial.",
+"categoria": "",
+"correcta": "A"
+},
+"185": {
+"id": "185",
+"pregunta": "38)  Las sentencias judiciales:",
+"respuesta_a": "Se pronunciarán en presencia de los interesados",
+"respuesta_b": "Se pronunciarán en audiencia pública",
+"respuesta_c": "Serán normalmente motivadas",
+"respuesta_d": "Ninguna de las anteriores",
+"categoria": "",
+"correcta": "B"
+},
+"168": {
+"id": "168",
+"pregunta": "39)  ¿Cuántos vocales componen el Consejo General del Poder Judicial?",
+"respuesta_a": "20",
+"respuesta_b": "12",
+"respuesta_c": "16",
+"respuesta_d": "8",
+"categoria": "",
+"correcta": "A"
+},
+"144": {
+"id": "144",
+"pregunta": "40)  La mayoría necesaria en el Congreso para proponer un vocal del Consejo General del Poder Judicial es de:",
+"respuesta_a": "3 quintos",
+"respuesta_b": "mayoría simple",
+"respuesta_c": "mayoría absoluta",
+"respuesta_d": "2 tercios",
+"categoria": "",
+"correcta": "A"
+},
+"165": {
+"id": "165",
+"pregunta": "41)  La institución del jurado está regulada en la siguiente Ley:",
+"respuesta_a": "Ley Orgánica 5/1980, de 25 de abril",
+"respuesta_b": "Ley Orgánica 5/1995, de 22 de mayo",
+"respuesta_c": "Ley Orgánica 20/1995, de 22 de marzo",
+"respuesta_d": "Ley Orgánica 15/1994, de 15 de abril",
+"categoria": "",
+"correcta": "B"
+},
+"162": {
+"id": "162",
+"pregunta": "42)  ¿Qué órgano culmina la organización judicial en el territorio de una Comunidad Autónoma?",
+"respuesta_a": "La Audiencia Territorial",
+"respuesta_b": "La Audiencia Provincial",
+"respuesta_c": "El Tribunal Supremo",
+"respuesta_d": "El Tribunal Superior de Justicia",
+"categoria": "",
+"correcta": "D"
+},
+"147": {
+"id": "147",
+"pregunta": "43)  ¿De qué trata el Título VI de la Constitución Española de 1978?",
+"respuesta_a": "Del Gobierno y la Administración.",
+"respuesta_b": "Del Poder Judicial.",
+"respuesta_c": "Economía y Hacienda.",
+"respuesta_d": "De las Relaciones del Gobierno y las Cortes Generales.",
+"categoria": "",
+"correcta": "B"
+},
+"145": {
+"id": "145",
+"pregunta": "44)  De acuerdo a la Constitución Española de 1978, es FALSO que:",
+"respuesta_a": "Los jueces, los magistrados y los fiscales no pueden desempeñar otros cargos públicos mientras se encuentren en activo.",
+"respuesta_b": "El régimen de incompatibilidades de los jueces y magistados debe asegurar la independencia total de los mismos.",
+"respuesta_c": "Los fiscales no pueden pertenecer a partidos políticos o sindicatos.",
+"respuesta_d": "Los jueces, los magistrados y los fiscales no pueden asociarse profesionalmente mientras se encuentren en activo.",
+"categoria": "",
+"correcta": "D"
+},
+"178": {
+"id": "178",
+"pregunta": "45)  El mandato del Fiscal General del Estado tiene una duración de:",
+"respuesta_a": "5 años renovables por otros 5",
+"respuesta_b": "5 años no renovables",
+"respuesta_c": "4 años renovable por otros 4",
+"respuesta_d": "4 años no renovables salvo que hubiera permanecido en el cargo menos de 2 años",
+"categoria": "",
+"correcta": "D"
+},
+"154": {
+"id": "154",
+"pregunta": "46)  De acuerdo con la regulación constitucional del Tribunal Constitucional:",
+"respuesta_a": "Para que las sentencias del Tribunal Constitucional puedan tener plenos efectos frente a todos, debe reconocerse expresamente en el fallo de cada una de las sentencias que dicte.",
+"respuesta_b": "Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en ningún caso serán suspensivos.",
+"respuesta_c": "Están legitimados para interponer el recurso de amparo, toda persona natural o jurídica que invoque un interés legítimo, el Defensor del Pueblo, el Ministerio Fiscal, y los Jueces y Magistrados.",
+"respuesta_d": "Están legitimados para interponer el recurso de inconstitucionalidad, el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas, así como los de las Entidades Locales.",
+"categoria": "",
+"correcta": "B"
+},
+"179": {
+"id": "179",
+"pregunta": "47)  La Ley Orgánica del Poder Judicial es la:",
+"respuesta_a": "Ley Orgánica 6/1985, de 1 de julio",
+"respuesta_b": "Ley Orgánica 5/1980, de 3 septiembre",
+"respuesta_c": "Ley Orgánica 15/1985, de 15 de abril",
+"respuesta_d": "Ley Orgánica 16/1980, de 8 de octubre",
+"categoria": "",
+"correcta": "A"
+},
+"164": {
+"id": "164",
+"pregunta": "48)  La suspensión de un Magistrado del Tribunal Constitucional requiere:",
+"respuesta_a": "El voto favorable de 2/3 partes de los miembros del Tribunal reunido en Pleno.",
+"respuesta_b": "El voto favorable de la mayoría absoluta de los miembros del Tribunal reunido en Pleno.",
+"respuesta_c": "El voto favorable de 3/4 partes de los miembros del Tribunal reunido en Pleno.",
+"respuesta_d": "El voto favorable de la mayoría simple de los miembros del Tribunal reunido en Pleno.",
+"categoria": "",
+"correcta": "C"
+},
+}

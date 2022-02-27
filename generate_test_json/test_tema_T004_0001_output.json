@@ -1,0 +1,392 @@
+{
+"new Array();": {
+"id": "new Array();",
+"pregunta": "1)  Señale la respuesta correcta en relación a la Ley 40/2015:",
+"respuesta_a": "corresponde a los órganos superiores de la organización central establecer los planes de actuación de la organización situada bajo su responsabilidad y a los órganos directivos su desarrollo y ejecución",
+"respuesta_b": "corresponde a los órganos superiores de la organización central establecer los planes de actuación de la organización situada bajo su responsabilidad y su desarrollo y ejecución a los órganos superiores",
+"respuesta_c": "corresponde establecer los planes de actuación de la organización situada bajo su responsabilidad y su desarrollo y ejecución a los órganos directivos",
+"respuesta_d": "corresponde a los órganos directivos establecer los planes de actuación de la organización situada bajo su responsabilidad y a los órganos superiores su desarrollo y ejecución",
+"categoria": "",
+"correcta": "A"
+},
+"275": {
+"id": "275",
+"pregunta": "2)  Entre los principios de organización administrativa enumerados por la Constitución, no figura el de:",
+"respuesta_a": "Centralización",
+"respuesta_b": "Desconcentración",
+"respuesta_c": "Descentralización funcional y desconcentración funcional y territorial",
+"respuesta_d": "Coordinación",
+"categoria": "",
+"correcta": "A"
+},
+"285": {
+"id": "285",
+"pregunta": "3)  Las Administraciones Públicas sirven con objetividad los intereses generales, con sometimiento pleno a la Constitución, a la Ley y al Derecho y actúan de acuerdo con los principios de:",
+"respuesta_a": "eficacia, legalidad, descentralización, desconcentración y coordinación",
+"respuesta_b": "eficiencia, legalidad, descentralización, desconcentración y cooperación",
+"respuesta_c": "eficacia, jerarquía, descentralización, desconcentración y coordinación",
+"respuesta_d": "eficiencia, jerarquía, descentralización, desconcentración y cooperación",
+"categoria": "",
+"correcta": "C"
+},
+"265": {
+"id": "265",
+"pregunta": "4)  De acuerdo a la ley 40/2015, los estatutos de los Organismos públicos determinarán sus respectivos:",
+"respuesta_a": "órganos superiores",
+"respuesta_b": "órganos directivos",
+"respuesta_c": "órganos superiores y directivos",
+"respuesta_d": "ninguna es correcta",
+"categoria": "",
+"correcta": "B"
+},
+"255": {
+"id": "255",
+"pregunta": "5)  Los Secretarios generales técnicos:",
+"respuesta_a": "se encuentran bajo la inmediata dependencia del Subsecretario",
+"respuesta_b": "tendrán las competencias sobre servicios comunes que les atribuya el Real Decreto de estructura del Departamento",
+"respuesta_c": "tendrán las competencias relativas a producción normativa, asistencia jurídica y publicaciones",
+"respuesta_d": "todas son correctas",
+"categoria": "",
+"correcta": "D"
+},
+"270": {
+"id": "270",
+"pregunta": "6)  La Administración General del Estado comprende (señala la incorrecta):",
+"respuesta_a": "la Organización central, que integra los Ministerios y los servicios comunes",
+"respuesta_b": "la Organización Territorial",
+"respuesta_c": "la Organización sectorial",
+"respuesta_d": "la Administración General del Estado en el exterior",
+"categoria": "",
+"correcta": "C"
+},
+"262": {
+"id": "262",
+"pregunta": "7)  Entre los principios de acuerdo con los que la Administración ha de actuar, según la Constitución, figura el de:",
+"respuesta_a": "Objetividad",
+"respuesta_b": "Economía",
+"respuesta_c": "Eficacia",
+"respuesta_d": "Centralización",
+"categoria": "",
+"correcta": "C"
+},
+"284": {
+"id": "284",
+"pregunta": "8)  De conformidad con el artículo 3 de la ley 40/2015, de 1 de octubre, ¿cuál de los siguientes principios NO aparece entre los que deben regir la actuación y relaciones de las administraciones públicas?",
+"respuesta_a": "Buena fe, confianza legítima y lealtad institucional",
+"respuesta_b": "Servicio efectivo a los ciudadanos",
+"respuesta_c": "Integridad, austeridad y transparencia en la actuación administrativa",
+"respuesta_d": "Planificación y dirección por objetivos y control de la gestión y evaluación de los resultados de las políticas públicas",
+"categoria": "",
+"correcta": "C"
+},
+"282": {
+"id": "282",
+"pregunta": "9)  Según la ley 40/2015 los elementos organizativos básicos de las estructuras orgánicas son:",
+"respuesta_a": "los órganos administrativos",
+"respuesta_b": "las entidades dependientes",
+"respuesta_c": "las unidades administrativas",
+"respuesta_d": "los servicios comunes",
+"categoria": "",
+"correcta": "C"
+},
+"274": {
+"id": "274",
+"pregunta": "10)  Los Secretarios generales técnicos tienen a todos los efectos la categoría de:",
+"respuesta_a": "Director General",
+"respuesta_b": "Secretario general",
+"respuesta_c": "Subdirector general",
+"respuesta_d": "Subsecretario",
+"categoria": "",
+"correcta": "A"
+},
+"269": {
+"id": "269",
+"pregunta": "11)  Son órganos directivos:",
+"respuesta_a": "Los representantes permanentes ante Organizaciones internacionales",
+"respuesta_b": "Los Directores Insulares",
+"respuesta_c": "Los Secretarios de Estado",
+"respuesta_d": "Todos los anteriores son correctas",
+"categoria": "",
+"correcta": "A"
+},
+"291": {
+"id": "291",
+"pregunta": "12)  En la organización central son órganos superiores:",
+"respuesta_a": "los Subsecretarios y los Secretarios generales",
+"respuesta_b": "los Ministros y los Secretarios generales técnicos",
+"respuesta_c": "los Secretarios de Estado y los Directores generales",
+"respuesta_d": "los Ministros y los Secretarios de Estado",
+"categoria": "",
+"correcta": "D"
+},
+"260": {
+"id": "260",
+"pregunta": "13)  Corresponde al subsecretario (señale la falsa):",
+"respuesta_a": "Desempeñar la jefatura superior de todo el personal del Departamento",
+"respuesta_b": "Ejercer la potestad reglamentaria en las materias propias de la Subsecretaría",
+"respuesta_c": "Nombrar y cesar a los Subdirectores y asimilados dependientes de la Subsecretaría",
+"respuesta_d": "Convocar y resolver pruebas selectivas de personal funcionario y laboral",
+"categoria": "",
+"correcta": "B"
+},
+"280": {
+"id": "280",
+"pregunta": "14)  La organización en Departamentos ministeriales de la Administración General del Estado no obsta a la existencia de:",
+"respuesta_a": "órganos superiores o directivos u Organismos públicos integrados o dependientes, respectivamente, en la estructura general del Ministerio que con carácter general se adscriban directamente al Ministro",
+"respuesta_b": "órganos superiores o directivos u Organismos públicos integrados o dependientes, respectivamente, en la estructura general del Ministerio que con carácter excepcional se adscriban directamente al Ministro",
+"respuesta_c": "órganos superiores o directivos u Organismos públicos no integrados o dependientes, respectivamente, en la estructura general del Ministerio que con carácter general se adscriban directamente al Ministro",
+"respuesta_d": "órganos superiores o directivos u Organismos públicos no integrados o dependientes, respectivamente, en la estructura general del Ministerio que con carácter excepcional se adscriban directamente al Ministro",
+"categoria": "",
+"correcta": "D"
+},
+"264": {
+"id": "264",
+"pregunta": "15)  Los Directores generales serán nombrados y separados por:",
+"respuesta_a": "Real Decreto del Consejo de Ministros, a propuesta del titular del Departamento o del Presidente del Gobierno",
+"respuesta_b": "Ley de las Cortes Generales, a propuesta del titular del Departamento",
+"respuesta_c": "Ley de las Cortes Generales, a propuesta del titular del Departamento o del Presidente del Gobierno",
+"respuesta_d": "Real Decreto del Consejo de Ministros, a propuesta del titular del Departamento",
+"categoria": "",
+"correcta": "A"
+},
+"267": {
+"id": "267",
+"pregunta": "16)  Los nombramientos de los Secretarios generales técnicos habrán de efectuarse entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades locales, pertenecientes al:",
+"respuesta_a": "Subgrupo A1",
+"respuesta_b": "Subgrupo A2",
+"respuesta_c": "Subgrupo B",
+"respuesta_d": "Subgrupo C1",
+"categoria": "",
+"correcta": "A"
+},
+"268": {
+"id": "268",
+"pregunta": "17)  En los Ministerios:",
+"respuesta_a": "Existen en todo caso Secretarías de Estado y Secretarías Generales",
+"respuesta_b": "Existen en todo caso Secretarías de Estado y pueden existir Secretarías Generales",
+"respuesta_c": "Pueden existir Secretarías de Estado y Secretarías Generales",
+"respuesta_d": "Pueden existir Secretarías de Estado, y existen en todo caso Secretarías Generales",
+"categoria": "",
+"correcta": "C"
+},
+"283": {
+"id": "283",
+"pregunta": "18)  Son órganos superiores de la Administración General del Estado:",
+"respuesta_a": "Los Ministros y los Secretarios de Estado.",
+"respuesta_b": "Los Secretarios Generales técnicos y Directores Generales.",
+"respuesta_c": "Los Subdirectores Generales, los embajadores y representantes permanentes ante Organizaciones Internacionales.",
+"respuesta_d": "Los Subsecretarios y Secretarios Generales.",
+"categoria": "",
+"correcta": "A"
+},
+"292": {
+"id": "292",
+"pregunta": "19)  A los Directores generales les corresponde (señala la incorrecta):",
+"respuesta_a": "proponer los proyectos de su Dirección general para alcanzar los objetivos establecidos por el Ministro, dirigir su ejecución y controlar su adecuado cumplimiento",
+"respuesta_b": "solicitar del Ministerio de Hacienda y Administraciones Públicas la afectación o el arrendamiento de los inmuebles necesarios para el cumplimiento de los fines de los servicios a cargo del Departamento",
+"respuesta_c": "ejercer las competencias atribuidas a la Dirección general y las que le sean desconcentradas o delegadas",
+"respuesta_d": "impulsar y supervisar las actividades que forman parte de la gestión ordinaria del órgano directivo y velar por el buen funcionamiento de los órganos y unidades dependientes y del personal integrado en los mismos",
+"categoria": "",
+"correcta": "B"
+},
+"254": {
+"id": "254",
+"pregunta": "20)  De acuerdo con el artículo 135 de la Constitución Española de 1978:",
+"respuesta_a": "Las Administraciones Públicas, a excepción de las Corporaciones Locales, adecuarán sus actuaciones al principio de estabilidad presupuestaria.",
+"respuesta_b": "El volumen de deuda pública del conjunto de las Administraciones Públicas no podrá superar el valor de referencia establecido en el Tratado de Funcionamiento de la Unión Europea.",
+"respuesta_c": "Todas las Administraciones Públicas habrán de estar autorizadas por Ley para emitir deuda o contraer crédito.",
+"respuesta_d": "Las Comunidades Autónomas tendrán competencia para regular la metodología y procedimiento para el cálculo del déficit estructural.",
+"categoria": "",
+"correcta": "B"
+},
+"281": {
+"id": "281",
+"pregunta": "21)  Sin perjuicio de lo previsto en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado, los titulares de los órganos superiores y directivos son nombrados, atendiendo a criterios de competencia profesional y experiencia, en la forma establecida en la ley 40/2015, siendo de aplicación al desempeño de sus funciones:",
+"respuesta_a": "la responsabilidad profesional, personal y directa por la gestión desarrollada",
+"respuesta_b": "la sujeción al control y evaluación de la gestión por el órgano superior o directivo competente, sin perjuicio del control establecido por la Ley General Presupuestaria",
+"respuesta_c": "a y b son correctas",
+"respuesta_d": "a y b son incorrectas",
+"categoria": "",
+"correcta": "C"
+},
+"276": {
+"id": "276",
+"pregunta": "22)  Los principios que rigen, según la Constitución, el acceso a la función pública es:",
+"respuesta_a": "Igualdad y mérito",
+"respuesta_b": "Capacidad y mérito",
+"respuesta_c": "Igualdad, según las funciones y mérito",
+"respuesta_d": "Imparcialidad, mérito y capacidad",
+"categoria": "",
+"correcta": "B"
+},
+"286": {
+"id": "286",
+"pregunta": "23)  Respecto a las unidades administrativas del artículo 56 de la Ley 40/2015:",
+"respuesta_a": "pueden existir unidades administrativas complejas, que agrupen dos o más unidades mayores",
+"respuesta_b": "los jefes de las unidades administrativas son responsables del correcto funcionamiento de la unidad y de la adecuada ejecución de las tareas asignadas a la misma",
+"respuesta_c": "las unidades administrativas se establecen mediante las relaciones de puestos de trabajo, que se aprobarán de acuerdo con su regulación específica, y no se integran en ningún órgano determinado",
+"respuesta_d": "ninguna es correcta",
+"categoria": "",
+"correcta": "B"
+},
+"273": {
+"id": "273",
+"pregunta": "24)  Las competencias en materia de organización administrativa, régimen de personal, procedimientos e inspección de servicios, no atribuidas específicamente conforme a una Ley a ningún otro órgano de la Administración General del Estado, ni al Gobierno, corresponderán según la ley 40/2015 a:",
+"respuesta_a": "el Ministerio de Hacienda y Administraciones Públicas",
+"respuesta_b": "el Consejo de Estado",
+"respuesta_c": "el Congreso",
+"respuesta_d": "las Cortes Generales",
+"categoria": "",
+"correcta": "A"
+},
+"266": {
+"id": "266",
+"pregunta": "25)  En la organización central no son órganos directivos:",
+"respuesta_a": "los Subsecretarios y Secretarios generales",
+"respuesta_b": "los Secretarios generales técnicos y Directores generales",
+"respuesta_c": "los Secretarios de Estado",
+"respuesta_d": "los Subdirectores generales",
+"categoria": "",
+"correcta": "C"
+},
+"259": {
+"id": "259",
+"pregunta": "26)  Señale la respuesta correcta en relación con los Ministros y Secretarios de Estado:",
+"respuesta_a": "El Ministro es órgano superior y el Secretario de Estado es órgano directivo",
+"respuesta_b": "Ambos tienen la consideración de alto cargo",
+"respuesta_c": "Ambos tienen la consideración de órganos directivos",
+"respuesta_d": "Ambos nombrados por el Rey",
+"categoria": "",
+"correcta": "B"
+},
+"290": {
+"id": "290",
+"pregunta": "27)  Señale la respuesta correcta en relación con el nombramiento de los subdirectores generales:",
+"respuesta_a": "Los nombramientos de los Subdirectores Generales habrán de efectuarse entre funcionarios de carrera del Estado, o de otras Administraciones, pertenecientes al Subgrupo A1 o A2.",
+"respuesta_b": "Los Subdirectores generales serán nombrados y separados por Real Decreto del Consejo de Ministros a propuesta del titular del Ministerio o del Secretario de Estado del que dependa.",
+"respuesta_c": "Los Subdirectores generales serán nombrados, respetando los principios de igualdad, mérito y capacidad.",
+"respuesta_d": "Todas son correctas.",
+"categoria": "",
+"correcta": "C"
+},
+"289": {
+"id": "289",
+"pregunta": "28)  De acuerdo al artículo 56 de la ley 40/2015, las unidades administrativas comprenden puestos de trabajo o dotaciones de plantilla:",
+"respuesta_a": "vinculados funcionalmente por razón de sus cometidos y orgánicamente por una jefatura común",
+"respuesta_b": "vinculados orgánicamente por razón de sus cometidos y funcionalmente por una jefatura común",
+"respuesta_c": "vinculados funcionalmente por razón de su territorio y orgánicamente por una jefatura común",
+"respuesta_d": "vinculados orgánicamente por razón de su territorio y funcionalmente por una jefatura común",
+"categoria": "",
+"correcta": "A"
+},
+"257": {
+"id": "257",
+"pregunta": "29)  Todos los órganos de la Administración General del Estado que no sean órgano superior o directivo se encuentran bajo la dependencia o dirección de:",
+"respuesta_a": "un órgano superior",
+"respuesta_b": "un órgano directivo",
+"respuesta_c": "un órgano superior o directivo",
+"respuesta_d": "ninguna es correcta",
+"categoria": "",
+"correcta": "C"
+},
+"278": {
+"id": "278",
+"pregunta": "30)  Para la gestión de los servicios comunes, los Ministerios contarán en todo caso con:",
+"respuesta_a": "Una Secretaría General Técnica, y dependiendo de ella una Subsecretaría",
+"respuesta_b": "Una Subsecretaría, y dependiendo de ella una Secretaría General Técnica",
+"respuesta_c": "Una Subsecretaría, y dependiendo de ella una Secretaría General",
+"respuesta_d": "Una Secretaría de Estado, y dependiendo de ella una Secretaría General Técnica",
+"categoria": "",
+"correcta": "B"
+},
+"288": {
+"id": "288",
+"pregunta": "31)  Ostentan la representación ordinaria del Ministerio:",
+"respuesta_a": "los Secretarios de Estado",
+"respuesta_b": "los Ministros",
+"respuesta_c": "los Subsecretarios",
+"respuesta_d": "los Secretarios generales",
+"categoria": "",
+"correcta": "C"
+},
+"272": {
+"id": "272",
+"pregunta": "32)  ¿Cuál de los siguientes cargos no está incluido en el ámbito de aplicación de la ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo?",
+"respuesta_a": "Los Subdirectores Generales de la AGE",
+"respuesta_b": "Los Delegados del Gobierno",
+"respuesta_c": "Los miembros del gobierno y secretarios de estado",
+"respuesta_d": "Todos los mencionados se encuentran dentro del ámbito de aplicación de la Ley 3/2015",
+"categoria": "",
+"correcta": "A"
+},
+"279": {
+"id": "279",
+"pregunta": "33)  El artículo 55 de la ley 40/2015 señala que salvo las excepciones previstas por esta ley, la organización de la Administración General del Estado responde a los principios de:",
+"respuesta_a": "división funcional en Departamentos ministeriales y de gestión territorial integrada en Delegaciones del Gobierno en las Comunidades Autónomas",
+"respuesta_b": "gestión territorial integrada en Departamentos ministeriales y de división funcional en Delegaciones del Gobierno en las Comunidades Autónomas",
+"respuesta_c": "división funcional en Delegaciones del Gobierno y de gestión territorial integrada en Departamentos ministeriales en las Comunidades Autónomas",
+"respuesta_d": "gestión territorial integrada en Delegaciones del Gobierno y de división funcional en Departamentos ministeriales en las Comunidades Autónomas",
+"categoria": "",
+"correcta": "A"
+},
+"258": {
+"id": "258",
+"pregunta": "34)  La Administración General del Estado se organiza:",
+"respuesta_a": "en Ministerios",
+"respuesta_b": "en Presidencia del Gobierno y en Ministerios",
+"respuesta_c": "en Presidencia del Gobierno, en Ministerios y en Secretarías Generales",
+"respuesta_d": "en Presidencia del Gobierno, en Ministerios, en Secretarías Generales y en el Servicio Exterior",
+"categoria": "",
+"correcta": "B"
+},
+"263": {
+"id": "263",
+"pregunta": "35)  Son los titulares de los órganos directivos encargados de la gestión de una o varias áreas funcionalmente homogéneas del Ministerio:",
+"respuesta_a": "los Secretarios generales técnicos",
+"respuesta_b": "los Directores generales",
+"respuesta_c": "los Secretarios generales",
+"respuesta_d": "los Subsecretarios",
+"categoria": "",
+"correcta": "B"
+},
+"277": {
+"id": "277",
+"pregunta": "36)  De acuerdo al artículo 55 de la ley 40/2015, tienen la condición de alto cargo los siguientes órganos de la organización central de la Administración General del Estado:",
+"respuesta_a": "los órganos superiores",
+"respuesta_b": "los órganos superiores y directivos",
+"respuesta_c": "los órganos superiores y directivos, excepto los Subdirectores generales y asimilados",
+"respuesta_d": "los órganos superiores y directivos, excepto los Secretarios generales y asimilados",
+"categoria": "",
+"correcta": "C"
+},
+"256": {
+"id": "256",
+"pregunta": "37)  Los Secretarios de Estado:",
+"respuesta_a": "Actúan bajo la dirección del titular del Departamento al que pertenezcan. Cuando estén adscritos a la Presidencia del Gobierno, actúan bajo la dirección del Ministro de la Presidencia.",
+"respuesta_b": "Actúan bajo la dirección del titular del Departamento al que pertenezcan. Cuando estén adscritos a la Presidencia del Gobierno, actúan bajo la dirección del Presidente.",
+"respuesta_c": "Actúan bajo la dirección del titular del Departamento al que pertenezcan. Cuando estén adscritos a la Presidencia del Gobierno, actúan bajo la dirección del Consejo de Ministros.",
+"respuesta_d": "Actúan bajo la dirección del titular del Departamento al que pertenezcan. Cuando estén adscritos a la Presidencia del Gobierno, actúan bajo la dirección de la Comisión General de Secretarios de Estado y Subsecretarios.",
+"categoria": "",
+"correcta": "B"
+},
+"287": {
+"id": "287",
+"pregunta": "38)  La Administración General del Estado actúa y se organiza de acuerdo con los principios establecidos en el artículo 3 de la ley 40/2015, así como los de:",
+"respuesta_a": "desconcentración funcional y descentralización funcional y territorial",
+"respuesta_b": "descentralización territorial y desconcentración funcional y territorial",
+"respuesta_c": "descentralización funcional y desconcentración funcional y territorial",
+"respuesta_d": "desconcentración territorial y descentralización funcional y territorial",
+"categoria": "",
+"correcta": "C"
+},
+"261": {
+"id": "261",
+"pregunta": "39)  Los Subdirectores generales:",
+"respuesta_a": "son los responsables inmediatos, bajo la supervisión del Secretario general o del titular del órgano del que dependan, de la ejecución de aquellos proyectos, objetivos o actividades que les sean asignados, así como de la gestión ordinaria de los asuntos de la competencia de la Subdirección General",
+"respuesta_b": "serán nombrados, respetando los principios de igualdad, mérito y capacidad, y cesados por el Ministro, Secretario de Estado o Subsecretario del que dependan",
+"respuesta_c": "sus nombramientos habrán de efectuarse entre funcionarios de carrera del Estado, o de otras Administraciones, cuando así lo prevean las normas de aplicación, pertenecientes al Subgrupo A2",
+"respuesta_d": "todas son correctas",
+"categoria": "",
+"correcta": "B"
+},
+}

@@ -1,0 +1,1302 @@
+{
+"new Array();": {
+"id": "new Array();",
+"pregunta": "1)  La iniciativa legislativa para la reforma de la Constitución Española de 1978:",
+"respuesta_a": "Le corresponde exclusivamente al congreso y al Senado.",
+"respuesta_b": "Puede ser ejercida por el Tribunal Constitucional.",
+"respuesta_c": "Puede ser instada por las Asambleas de las Comunidades Autónomas.",
+"respuesta_d": "Le corresponde exclusivamente al Gobierno.",
+"categoria": "",
+"correcta": "C"
+},
+"70": {
+"id": "70",
+"pregunta": "2)  Las dos Cámaras que configuran las Cortes Generales:",
+"respuesta_a": "Se reúnen en dos periodos ordinarios: de septiembre a diciembre, y de febrero a julio.",
+"respuesta_b": "Se reúnen en dos periodos ordinarios: de septiembre a noviembre, y de febrero a junio.",
+"respuesta_c": "Pueden reunirse en sesiones extraordinarias, a petición de la Diputación Permanente.",
+"respuesta_d": "Pueden reunirse en sesiones extraordinarias, a petición de la mayoría simple de los miembros de cualquiera de las Cámaras.",
+"categoria": "",
+"correcta": "C"
+},
+"129": {
+"id": "129",
+"pregunta": "3)  El Tribunal de Cuentas es el:",
+"respuesta_a": "Supremo órgano fiscalizador de las cuentas y de la gestión económica de Estado, así como del sector público. Se relaciona con las Cortes Generales a través del Consejo General del Poder Judicial, en el que se integra, y del que recibe el mandato para ejercer sus funciones relativas al examen y comprobación de la Cuenta General del Estado.",
+"respuesta_b": "Supremo órgano que ejerce la intervención previa de los gastos del Estado y de las Comunidades Autónomas. Depende directamente de las Cortes Generales y ejerce sus funciones por delegación de ellas en el examen y comprobación de la Cuenta General del Estado.",
+"respuesta_c": "Supremo órgano fiscalizador de las cuentas y de la gestión económica de Estado, así como del sector público. Depende directamente de las Cortes Generales y ejerce sus funciones por delegación de ellas en el examen y comprobación de la Cuenta General del Estado.",
+"respuesta_d": "Supremo órgano fiscalizador de las cuentas y de la gestión económica de Estado, así como del sector público. Depende orgánicamente de las Cortes Generales y funcionalmente del Ministerio de Hacienda y Función Pública, ejerciendo sus funciones por delegación de este último en el examen y comprobación de la Cuenta General del Estado.",
+"categoria": "",
+"correcta": "C"
+},
+"52": {
+"id": "52",
+"pregunta": "4)  De conformidad con el artículo 62 de la Constitución Española, corresponde al Rey:",
+"respuesta_a": "Convocar y disolver las Cortes Generales y convocar elecciones en los términos previstos en la Constitución.",
+"respuesta_b": "Sancionar y promulgar las leyes y ordenar la publicación de las &Oacute;rdenes Ministeriales.",
+"respuesta_c": "El mando supremo de los Cuerpos y Fuerzas de Seguridad del Estado.",
+"respuesta_d": "Ejercer el derecho de gracia de acuerdo con los Tratados Internacionales.",
+"categoria": "",
+"correcta": "A"
+},
+"29": {
+"id": "29",
+"pregunta": "5)  De conformidad con la Constitución Española, ¿cuál de los siguientes derechos y libertades es susceptible de tutela a través del recurso de amparo ante el Tribunal Constitucional?",
+"respuesta_a": "El derecho a la propiedad privada.",
+"respuesta_b": "El derecho de asociación.",
+"respuesta_c": "El derecho de fundación.",
+"respuesta_d": "El derecho de negociación colectiva.",
+"categoria": "",
+"correcta": "B"
+},
+"32": {
+"id": "32",
+"pregunta": "6)  ¿Puede el Estado transferir o delegar a las Comunidades Autónomas facultadas que son de su titularidad?",
+"respuesta_a": "No, en ningún caso.",
+"respuesta_b": "Sí, mediante Ley Orgánica, en relación con cualquier tipo de facultades.",
+"respuesta_c": "Sí, mediante Ley Orgánica, en relación con las facultades que por su propia naturaleza sean susceptibles de transferencia o delegación, sin que el Estado se pueda reservar ninguna forma de control.",
+"respuesta_d": "Si, mediante Ley Orgánica, en relación con las facultades que por su propia naturaleza sean susceptibles de transferencia o delegación, previendo en cada caso la correspondiente transferencia de medios financieros, así como las formas de control que se reserve el Estado.",
+"categoria": "",
+"correcta": "D"
+},
+"14": {
+"id": "14",
+"pregunta": "7)  Según la Constitución Española, es competencia del Rey:",
+"respuesta_a": "Refrendar los actos del Presidente de Gobierno.",
+"respuesta_b": "Previa autorización del Presidente de Gobierno, declarar la guerra y hacer la paz.",
+"respuesta_c": "El Alto Patronazgo de las Reales Academias.",
+"respuesta_d": "Sancionar y publicar las leyes.",
+"categoria": "",
+"correcta": "C"
+},
+"106": {
+"id": "106",
+"pregunta": "8)  ¿Qué Título regula la Economía y la Hacienda en la Constitución Española vigente en la actualidad?",
+"respuesta_a": "El Título IV.",
+"respuesta_b": "El Título V.",
+"respuesta_c": "El Título VI.",
+"respuesta_d": "El Título VII.",
+"categoria": "",
+"correcta": "D"
+},
+"18": {
+"id": "18",
+"pregunta": "9)  Señale la afirmación correcta de acuerdo con la regulación que contiene el Artículo 116 de la Constitución Española de los estados de alarma, excepción y sitio:",
+"respuesta_a": "El estado de sitio será declarado por la mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno.",
+"respuesta_b": "El estado de excepción será declarado por el Gobierno mediante Acuerdo de Ministros, previa autorización del Senado.",
+"respuesta_c": "El estado de alarma será declarado por la mayoría simple del Congreso de los Diputados, a propuesta exclusiva del Gobierno.",
+"respuesta_d": "La declaración de los estados de alarma, excepción y sitio sí modificarán el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la CE y en las leyes.",
+"categoria": "",
+"correcta": "A"
+},
+"113": {
+"id": "113",
+"pregunta": "10)  ¿Cuál de los siguientes derechos NO es un derecho fundamental?",
+"respuesta_a": "El secreto de las comunicaciones",
+"respuesta_b": "La propiedad privada",
+"respuesta_c": "El derecho a participar en los asuntos públicos",
+"respuesta_d": "La huelga",
+"categoria": "",
+"correcta": "B"
+},
+"5": {
+"id": "5",
+"pregunta": "11)  A través de la moción de censura se exige la responsabilidad política del Gobierno:",
+"respuesta_a": "A propuesta de la décima parte de los Diputados y los Senadores representados en las cámaras, en la que incluirán un candidato a Presidente del Gobierno.",
+"respuesta_b": "Mediante su adopción por mayoría absoluta de las Cortes Generales.",
+"respuesta_c": "A propuesta de la décima parte de los Diputados, que incluirá un candidato a presidente del Gobierno. No podrá ser votada hasta que transcurran cinco días desde su presentación y se adoptará por mayoría absoluta del Congreso de los Diputados.",
+"respuesta_d": "A propuesta de la décima parte de los Diputados, que incluirá un candidato a Presidente del Gobierno. Su adopción requiere mayoría absoluta en una primera votación y mayoría simple en una segunda votación.",
+"categoria": "",
+"correcta": "C"
+},
+"21": {
+"id": "21",
+"pregunta": "12)  El día 29 de diciembre del año 1978, la Constitución Española fue:",
+"respuesta_a": "Sancionada y promulgada por el Rey.",
+"respuesta_b": "Aprobada por los Plenos del Congreso y el Senado.",
+"respuesta_c": "Ratificada mediante referéndum por el pueblo español.",
+"respuesta_d": "Ninguna es correcta.",
+"categoria": "",
+"correcta": "D"
+},
+"42": {
+"id": "42",
+"pregunta": "13)  La tutela de los derechos fundamentales y libertades públicas reconocidos en la sección primera del capítulo II del Título I de la Constitución española podrá recabarse por cualquier ciudadano:",
+"respuesta_a": "Sólo ante el Tribunal Constitucional de acuerdo con lo previsto en el Artículo 161.1.a), referente al recurso de Inconstitucionalidad.",
+"respuesta_b": "Sólo ante los tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad.",
+"respuesta_c": "Ante los tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, ante el Tribunal Constitucional a través del recurso de inconstitucionalidad.",
+"respuesta_d": "Ante los tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional.",
+"categoria": "",
+"correcta": "D"
+},
+"76": {
+"id": "76",
+"pregunta": "14)  De conformidad a lo establecido en la Constitución Española, las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de Ley. Cuando se trata de que el Gobierno elabore y apruebe textos articulados esta delegación tiene que otorgarse mediante:",
+"respuesta_a": "Ley Orgánica.",
+"respuesta_b": "Ley de Bases.",
+"respuesta_c": "Ley ordinaria.",
+"respuesta_d": "Mandato.",
+"categoria": "",
+"correcta": "B"
+},
+"27": {
+"id": "27",
+"pregunta": "15)  NO es una función del Rey:",
+"respuesta_a": "Nombrar y separar a los miembros del Gobierno a propuesta de su Presidente.",
+"respuesta_b": "Sancionar y promulgar las leyes.",
+"respuesta_c": "Dictar normas con rango de ley.",
+"respuesta_d": "Convocar a referéndum.",
+"categoria": "",
+"correcta": "C"
+},
+"132": {
+"id": "132",
+"pregunta": "16)  Según la Constitución española en su Artículo 159, los miembros del Tribunal Constitucional serán designados por un período de:",
+"respuesta_a": "seis años y se renovarán por terceras partes cada tres.",
+"respuesta_b": "nueve años y se renovarán por terceras partes cada tres.",
+"respuesta_c": "ocho años y se renovarán por terceras partes cada dos.",
+"respuesta_d": "cuatro años y se renovarán por terceras partes cada dos.",
+"categoria": "",
+"correcta": "B"
+},
+"103": {
+"id": "103",
+"pregunta": "17)  Los Vocales integrantes del órgano de gobierno del Poder Judicial:",
+"respuesta_a": "Serán nombrados por el Presidente del Tribunal Supremo y del Consejo del Poder Judicial, por un periodo de cinco años.",
+"respuesta_b": "Serán nombrados por el Congreso de los Diputados y por el Senado por un periodo de cinco años.",
+"respuesta_c": "Serán nombrados por el Rey por un periodo de cinco años.",
+"respuesta_d": "Serán nombrados por el Rey por un periodo de tres años.",
+"categoria": "",
+"correcta": "C"
+},
+"83": {
+"id": "83",
+"pregunta": "18)  ¿En qué artículo de la Constitución se recoge el principio de unidad jurisdiccional?",
+"respuesta_a": "117.5",
+"respuesta_b": "117.1",
+"respuesta_c": "116",
+"respuesta_d": "15",
+"categoria": "",
+"correcta": "A"
+},
+"13": {
+"id": "13",
+"pregunta": "19)  De conformidad con el Artículo 97 de la Constitución Española, corresponde dirigir la política interior y exterior, la Administración civil y militar y la defensa del Estado:",
+"respuesta_a": "Al Jefe del Estado, por corresponderle el mando supremo de las Fuerzas Armadas.",
+"respuesta_b": "A las Cortes Generales, como representación del pueblo español.",
+"respuesta_c": "Al Congreso de los Diputados.",
+"respuesta_d": "Al Gobierno.",
+"categoria": "",
+"correcta": "D"
+},
+"30": {
+"id": "30",
+"pregunta": "20)  El Título en el que la Constitución indica cuáles son las lenguas oficiales del Estado es:",
+"respuesta_a": "El Segundo.",
+"respuesta_b": "El Primero.",
+"respuesta_c": "El Preliminar.",
+"respuesta_d": "El Tercero.",
+"categoria": "",
+"correcta": "C"
+},
+"46": {
+"id": "46",
+"pregunta": "21)  ¿En qué artículo de la Constitución de 1978 se hace referencia a la regulación de la institución del Defensor del Pueblo?",
+"respuesta_a": "Artículo 70.",
+"respuesta_b": "Artículo 54.",
+"respuesta_c": "Articulo 62.",
+"respuesta_d": "Articulo 55.",
+"categoria": "",
+"correcta": "B"
+},
+"11": {
+"id": "11",
+"pregunta": "22)  De conformidad con el artículo 59 de la Constitución Española, si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por las Cortes Generales, y se compondrá:",
+"respuesta_a": "De una persona.",
+"respuesta_b": "De tres personas.",
+"respuesta_c": "De cinco personas.",
+"respuesta_d": "De una, tres o cinco personas.",
+"categoria": "",
+"correcta": "D"
+},
+"28": {
+"id": "28",
+"pregunta": "23)  Corresponde aprobar la Ley de Presupuestos Generales del Estado a:",
+"respuesta_a": "El Ministerio de Economía y Hacienda.",
+"respuesta_b": "El Congreso de los Diputados.",
+"respuesta_c": "Las Cortes Generales.",
+"respuesta_d": "El Consejo de Ministros.",
+"categoria": "",
+"correcta": "C"
+},
+"23": {
+"id": "23",
+"pregunta": "24)  Según el Artículo 115 de la Constitución Española, el Presidente del Gobierno, previa deliberación del Consejo de Ministros, y bajo su responsabilidad, podrá proponer la disolución de:",
+"respuesta_a": "El Congreso, el senado o las Cortes Generales.",
+"respuesta_b": "Solamente el Congreso.",
+"respuesta_c": "El Congreso, pero sólo mediante la tramitación de una moción de censura.",
+"respuesta_d": "El Congreso y el Senado, mediante Referéndum.",
+"categoria": "",
+"correcta": "A"
+},
+"89": {
+"id": "89",
+"pregunta": "25)  ¿Cuál es la composición del Pleno del Tribunal de Cuentas?",
+"respuesta_a": "El Pleno de Tribunal de Cuentas está integrado por doce Consejeros de Cuentas, uno de los cuales será el Presidente y el Fiscal.",
+"respuesta_b": "El Pleno de Tribunal de Cuentas está integrado por diez Consejeros de Cuentas, más el Presidente.",
+"respuesta_c": "El Pleno de Tribunal de Cuentas está integrado por diez Consejeros de Cuentas.",
+"respuesta_d": "El Pleno de Tribunal de Cuentas está integrado por doce Consejeros de Cuentas, más el Presidente.",
+"categoria": "",
+"correcta": "A"
+},
+"8": {
+"id": "8",
+"pregunta": "26)  El Artículo 21 de la Constitución Española señala que:",
+"respuesta_a": "Se reconoce el derecho de reunión pacífica y con armas.",
+"respuesta_b": "Se reconoce el derecho de reunión pacífica siempre dentro del derecho de manifestación previa autorización.",
+"respuesta_c": "Se reconoce el derecho de reunión pacífica y sin armas.",
+"respuesta_d": "No se reconoce explícitamente tal derecho de reunión.",
+"categoria": "",
+"correcta": "C"
+},
+"37": {
+"id": "37",
+"pregunta": "27)  El Artículo 137 de la Constitución Española señala que el Estado se organiza territorialmente en:",
+"respuesta_a": "Municipios, provincias y CCAA.",
+"respuesta_b": "En 17 CCAA más Ceuta y Melilla.",
+"respuesta_c": "En CCAA, 50 provincias y municipios.",
+"respuesta_d": "En municipios, en provincias, entidades locales menores y CCAA.",
+"categoria": "",
+"correcta": "A"
+},
+"34": {
+"id": "34",
+"pregunta": "28)  ¿Cuál de las siguientes NO es causa de inelegibilidad para los Diputados y Senadores según el artículo 70 de la Constitución Española?",
+"respuesta_a": "Ser miembros del Tribunal Constitucional.",
+"respuesta_b": "Ser miembros del Gobierno.",
+"respuesta_c": "Ser Magistrado, Juez y Fiscal en activo.",
+"respuesta_d": "Ser el Defensor del Pueblo.",
+"categoria": "",
+"correcta": "B"
+},
+"2": {
+"id": "2",
+"pregunta": "29)  ¿Cómo se denomina el Título I de la Constitución Española?",
+"respuesta_a": "De los derechos y deberes fundamentales.",
+"respuesta_b": "De los españoles y los extranjeros.",
+"respuesta_c": "Derechos y libertades.",
+"respuesta_d": "De la Corona.",
+"categoria": "",
+"correcta": "A"
+},
+"1": {
+"id": "1",
+"pregunta": "30)  Según el Artículo 59 de la Constitución española, será válida la Regencia nombrada por las Cortes Generales que se componga del siguiente número de personas:",
+"respuesta_a": "Cinco.",
+"respuesta_b": "Dos.",
+"respuesta_c": "Cuatro.",
+"respuesta_d": "Siete.",
+"categoria": "",
+"correcta": "A"
+},
+"93": {
+"id": "93",
+"pregunta": "31)  Señale la afirmación correcta en relación con la regulación constitucional de la composición del Senado:",
+"respuesta_a": "La población de Melilla elegirá dos Senadores.",
+"respuesta_b": "En cada provincia se elegirán tres senadores.",
+"respuesta_c": "Las Asambleas de las Comunidades Autónomas elegirán un senador cuando su población supere el millón de habitantes.",
+"respuesta_d": "El Senado se compone de 350 senadores.",
+"categoria": "",
+"correcta": "A"
+},
+"114": {
+"id": "114",
+"pregunta": "32)  Según el artículo 30 de la Constitución Española, los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública, podrán regularse:",
+"respuesta_a": "Por Ley Orgánica.",
+"respuesta_b": "Por Ley.",
+"respuesta_c": "Por Real Decreto-Ley.",
+"respuesta_d": "Ninguna es correcta.",
+"categoria": "",
+"correcta": "B"
+},
+"91": {
+"id": "91",
+"pregunta": "33)  Las elecciones al Congreso de los Diputados tendrán lugar:",
+"respuesta_a": "Entre los treinta y sesenta días desde la terminación del mandato y el Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+"respuesta_b": "Entre los cuarenta y sesenta días desde la terminación del mandato y el Congreso electo deberá ser convocado dentro de los treinta días siguientes a la celebración de las elecciones.",
+"respuesta_c": "Entre los treinta y sesenta días desde la terminación del mandato y el Congreso electo deberá ser convocado dentro de los treinta días siguientes a la celebración de las elecciones.",
+"respuesta_d": "Entre los cuarenta y sesenta días desde la terminación del mandato y el Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+"categoria": "",
+"correcta": "A"
+},
+"130": {
+"id": "130",
+"pregunta": "34)  El Título Preliminar de la Constitución Española de 1978 engloba una serie de preceptos entre los que se encuentra el relativo a:",
+"respuesta_a": "La regulación sobre la adquisición de la nacionalidad española.",
+"respuesta_b": "La naturaleza, funcionamiento y estructura de los partidos políticos.",
+"respuesta_c": "La entrada en vigor de la propia Constitución.",
+"respuesta_d": "El reconocimiento de los derechos históricos de los territorios forales.",
+"categoria": "",
+"correcta": "B"
+},
+"49": {
+"id": "49",
+"pregunta": "35)  Según el art. 9.2 de la Constitución Española:",
+"respuesta_a": "Corresponde a la Administración General del Estado promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integran sean reales y efectivas.",
+"respuesta_b": "Corresponde al gobierno central promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integran sean reales y efectivas.",
+"respuesta_c": "Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integran sean reales y efectivas.",
+"respuesta_d": "Corresponde las Cortes Generales promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integran sean reales y efectivas.",
+"categoria": "",
+"correcta": "C"
+},
+"87": {
+"id": "87",
+"pregunta": "36)  Las disposiciones del Gobierno que contengan legislación delegada reciben el título de:",
+"respuesta_a": "Decretos Legislativos.",
+"respuesta_b": "Decretos-leyes.",
+"respuesta_c": "Leyes de bases.",
+"respuesta_d": "Reales Decretos del Consejo de Ministros.",
+"categoria": "",
+"correcta": "A"
+},
+"79": {
+"id": "79",
+"pregunta": "37)  ¿Cuál de los siguientes principios NO se garantiza en el artículo 9.3 de la Constitución Española de 1978?",
+"respuesta_a": "Jerarquía normativa.",
+"respuesta_b": "Seguridad jurídica.",
+"respuesta_c": "Responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+"respuesta_d": "Irretroactividad de las disposiciones sancionadoras favorables o restrictivas de derechos individuales.",
+"categoria": "",
+"correcta": "D"
+},
+"7": {
+"id": "7",
+"pregunta": "38)  De acuerdo con la regulación de la Constitucional de las Comunidades Autónomas, señale la afirmación correcta:",
+"respuesta_a": "La federación de Comunidades Autónomas exige aprobación mediante ley orgánica.",
+"respuesta_b": "Los Estatutos de Autonomía deben contener la delimitación del territorio de la Comunidad Autónoma.",
+"respuesta_c": "La reforma de los Estatutos se aprobará por las Cortes Generales mediante ley ordinaria.",
+"respuesta_d": "El Estado tiene competencia exclusiva sobre agricultura y ganadería.",
+"categoria": "",
+"correcta": "B"
+},
+"25": {
+"id": "25",
+"pregunta": "39)  Indique la respuesta falsa. Según el Artículo 147 de la Constitución española, los Estatutos de Autonomía deberán contener:",
+"respuesta_a": "La denominación de la Comunidad que mejor corresponda a su identidad histórica.",
+"respuesta_b": "La delimitación de su territorio.",
+"respuesta_c": "Las competencias asumidas y aquéllas del Estado sobre las que la Comunidad Autónoma se reserva el derecho de opción.",
+"respuesta_d": "La denominación, organización y sede de las instituciones autónomas propias.",
+"categoria": "",
+"correcta": "C"
+},
+"58": {
+"id": "58",
+"pregunta": "40)  La Constitución Española reconoce el derecho de reunión:",
+"respuesta_a": "Pacífica y sin armas pero con necesidad de autorización previa.",
+"respuesta_b": "En lugares de tránsito público previa autorización de la autoridad.",
+"respuesta_c": "En los casos de reuniones en lugares de tránsito público y manifestaciones se dará comunicación previa a la autoridad.",
+"respuesta_d": "No es preciso realizar ninguna actuación.",
+"categoria": "",
+"correcta": "C"
+},
+"65": {
+"id": "65",
+"pregunta": "41)  Extinguidas todas las líneas llamadas en Derecho para la sucesión en el trono:",
+"respuesta_a": "Las Cortes Generales proveerán a la sucesión en la forma que más convenga a los intereses de España.",
+"respuesta_b": "Las Cortes Generales proveerán a la sucesión atendiendo exclusivamente a los imperativos genealógicos conocidos.",
+"respuesta_c": "El Congreso de los Diputados proveerá a la sucesión de conformidad con los usos y costumbres existentes.",
+"respuesta_d": "El Congreso de los Diputados proveerá a la sucesión conforme a lo que decidan dos grupos parlamentarios o una quinta parte de los Diputados.",
+"categoria": "",
+"correcta": "A"
+},
+"57": {
+"id": "57",
+"pregunta": "42)  El Artículo 16 de la Constitución Española garantiza:",
+"respuesta_a": "La libertad ideológica, religiosa y de culto.",
+"respuesta_b": "La libertad sexual y religiosa.",
+"respuesta_c": "La obligación del derecho al voto en las elecciones.",
+"respuesta_d": "La ausencia de libertad católica.",
+"categoria": "",
+"correcta": "A"
+},
+"36": {
+"id": "36",
+"pregunta": "43)  El Título IV de la Constitución Española de 1978 dispone que el Gobierno:",
+"respuesta_a": "Se compone del Presidente, los Vicepresidentes y los Secretarios de Estado.",
+"respuesta_b": "Ejerce la función ejecutiva y la legislativa de acuerdo con la Constitución y las leyes.",
+"respuesta_c": "Cesa tras la celebración de elecciones generales, en los casos de pérdida de confianza parlamentaria, o por dimisión o fallecimiento de su Presidente.",
+"respuesta_d": "El presidente y los demás miembros del Gobierno son nombrados por el Rey a propuesta del Presidente del Congreso.",
+"categoria": "",
+"correcta": "C"
+},
+"48": {
+"id": "48",
+"pregunta": "44)  La representación ordinaria del Estado en las Comunidades Autónomas corresponde a:",
+"respuesta_a": "El Delegado del Gobierno.",
+"respuesta_b": "El Subdelegado del Gobierno.",
+"respuesta_c": "El Presidente de la Comunidad Autónoma.",
+"respuesta_d": "El Gobernador Civil.",
+"categoria": "",
+"correcta": "C"
+},
+"73": {
+"id": "73",
+"pregunta": "45)  El Rey podrá presidir las sesiones del Consejo de Ministros:",
+"respuesta_a": "Cuando el Rey, por razones de interés general, así lo decida.",
+"respuesta_b": "A petición del Pleno del Consejo de Ministros.",
+"respuesta_c": "A petición del Presidente del Gobierno.",
+"respuesta_d": "No está prevista constitucionalmente la presidencia del Consejo de Ministros por parte del Rey.",
+"categoria": "",
+"correcta": "C"
+},
+"45": {
+"id": "45",
+"pregunta": "46)  Según el Artículo 75 de la Constitución Española, las Cámaras pueden delegar en las Comisiones Legislativas Permanentes:",
+"respuesta_a": "La aprobación de proyectos o proposiciones de ley.",
+"respuesta_b": "La convalidación de decretos-leyes.",
+"respuesta_c": "La aprobación de proyectos de leyes de bases.",
+"respuesta_d": "La aprobación de proyectos de leyes orgánicas.",
+"categoria": "",
+"correcta": "A"
+},
+"95": {
+"id": "95",
+"pregunta": "47)  Según establece la Constitución Española, las asociaciones se inscribirán en un registro a efectos de:",
+"respuesta_a": "Publicidad.",
+"respuesta_b": "Constitución.",
+"respuesta_c": "Legalidad.",
+"respuesta_d": "Creación.",
+"categoria": "",
+"correcta": "A"
+},
+"100": {
+"id": "100",
+"pregunta": "48)  Respecto de las relaciones que constitucionalmente se regulan entre los miembros del Gobierno y las Cortes Generales:",
+"respuesta_a": "La comparecencia de los miembros del Gobierno ante las Cámaras y sus Comisiones puede extenderse también a los funcionarios de sus Departamentos.",
+"respuesta_b": "Los funcionarios sólo comparecerán si así lo solicitasen las propias Cámaras o sus Comisiones.",
+"respuesta_c": "Los funcionarios sólo comparecerán si así lo deciden los miembros del Gobierno.",
+"respuesta_d": "Los funcionarios no comparecerán en ningún caso.",
+"categoria": "",
+"correcta": "A"
+},
+"85": {
+"id": "85",
+"pregunta": "49)  La sección segunda, del capítulo segundo, del título I de la Constitución Española de 1978, se denomina:",
+"respuesta_a": "De los derechos fundamentales y de las libertades públicas.",
+"respuesta_b": "De los derechos y deberes fundamentales.",
+"respuesta_c": "De los derechos y libertades de los ciudadanos.",
+"respuesta_d": "De los derechos y deberes de los ciudadanos.",
+"categoria": "",
+"correcta": "D"
+},
+"74": {
+"id": "74",
+"pregunta": "50)  El Artículo 86 de la Constitución Española establece un plazo de 30 días, para que los Decretos-Leyes sean sometidos a debate y votación de la totalidad del Congreso de los Diputados, durante el cual:",
+"respuesta_a": "Los Decretos-Leyes podrán ser tramitados por las Cortes como proyectos de ley por el procedimiento de urgencia.",
+"respuesta_b": "Los Decretos-Leyes podrán ser tramitados por las Cortes como proyectos de ley por el procedimiento común.",
+"respuesta_c": "Durante dicho plazo, no pueden ser tramitados ni como proyectos de ley ni como proporciones de ley.",
+"respuesta_d": "Durante dicho plazo, sólo el Senado puede tramitar los Decretos-Leyes como proyectos de ley por el procedimiento de urgencia.",
+"categoria": "",
+"correcta": "A"
+},
+"39": {
+"id": "39",
+"pregunta": "51)  Las Cortes Generales:",
+"respuesta_a": "Representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado.",
+"respuesta_b": "Ejercen la función ejecutiva y tienen las demás competencias que les atribuya la Constitución.",
+"respuesta_c": "Sus miembros podrán serlo simultáneamente de las dos Cámaras.",
+"respuesta_d": "Las respuestas a y b son correctas.",
+"categoria": "",
+"correcta": "A"
+},
+"77": {
+"id": "77",
+"pregunta": "52)  Señale cuál de las siguientes alternativas es la correcta, en relación al Gobierno y la Administración, al que dedica la Constitución su Título IV:",
+"respuesta_a": "El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución, o por dimisión o fallecimiento de su Presidente.",
+"respuesta_b": "La responsabilidad criminal del Presidente y los demás miembros del Gobierno será exigible, en su caso, ante el Tribunal Constitucional.",
+"respuesta_c": "Los Ministros, corno miembros del Gobierno serán nombrados y separados por el Presidente del Gobierno a propuesta del Rey.",
+"respuesta_d": "Si transcurrido el plazo de cuatro meses, a partir de la primera votación de investidura del Presidente del Gobierno, ningún candidato hubiere obtenido la confianza del Congreso, el Presidente del Congreso disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Senado.",
+"categoria": "",
+"correcta": "A"
+},
+"136": {
+"id": "136",
+"pregunta": "53)  Según el artículo 81 de la Constitución Española ¿qué mayoría del Congreso será necesaria para la aprobación, modificación o derogación de las leyes orgánicas en una votación final sobre el conjunto del proyecto?",
+"respuesta_a": "Las leyes orgánicas exigirán en primera votación mayoría absoluta y transcurridas cuarenta y ocho horas mayoría simple.",
+"respuesta_b": "Las leyes orgánicas exigirán en primera votación mayoría absoluta y transcurridas cuarenta y ocho horas mayoría ordinaria.",
+"respuesta_c": "Las leyes orgánicas exigirán en primera votación mayoría absoluta y transcurridas cuarenta y ocho horas mayoría cualificada.",
+"respuesta_d": "Las leyes orgánicas exigirán mayoría absoluta.",
+"categoria": "",
+"correcta": "D"
+},
+"96": {
+"id": "96",
+"pregunta": "54)  El Artículo 108 de la Constitución Española establece que el Gobierno responde solidariamente de su gestión política ante:",
+"respuesta_a": "El Jefe del Estado.",
+"respuesta_b": "El Tribunal Constitucional.",
+"respuesta_c": "El Congreso de los Diputados.",
+"respuesta_d": "Las Cortes Generales.",
+"categoria": "",
+"correcta": "C"
+},
+"33": {
+"id": "33",
+"pregunta": "55)  ¿Cuál de las siguientes NO es una potestad de las Cortes Generales declarada en el artículo 66 de la Constitución Española?",
+"respuesta_a": "La potestad legislativa del Estado.",
+"respuesta_b": "Aprobar sus Presupuestos.",
+"respuesta_c": "La potestad reglamentaria del Estado.",
+"respuesta_d": "Controlar la acción del Gobierno.",
+"categoria": "",
+"correcta": "C"
+},
+"4": {
+"id": "4",
+"pregunta": "56)  Los reglamentos aprobados en el ejercicio de la potestad reglamentaria no pueden:",
+"respuesta_a": "Establecer tributos.",
+"respuesta_b": "Desarrollar lo establecido en una Ley.",
+"respuesta_c": "Modificar los plazos para presentar recursos administrativos.",
+"respuesta_d": "Crear un órgano colegiado interministerial.",
+"categoria": "",
+"correcta": "A"
+},
+"82": {
+"id": "82",
+"pregunta": "57)  Según la Constitución Española, la Regencia se ejercerá:",
+"respuesta_a": "Por mandato constitucional y siempre en nombre del Rey.",
+"respuesta_b": "Por Orden Ministerial.",
+"respuesta_c": "Por mandato constitucional y siempre en nombre del pueblo español.",
+"respuesta_d": "Por mandato de las Cortes Generales y siempre en nombre del pueblo español.",
+"categoria": "",
+"correcta": "A"
+},
+"108": {
+"id": "108",
+"pregunta": "58)  De acuerdo con lo previsto en la Constitución Española, el Gobierno y la administración autónoma de las provincias estarán encomendados:",
+"respuesta_a": "A Diputaciones u otras Corporaciones de carácter representativo.",
+"respuesta_b": "A los Subdelegados del Gobierno y a los Directores Insulares.",
+"respuesta_c": "A las Diputaciones y a las Mancomunidades de Municipios.",
+"respuesta_d": "A las Diputaciones y a las Comarcas.",
+"categoria": "",
+"correcta": "A"
+},
+"26": {
+"id": "26",
+"pregunta": "59)  La alteración de los límites de una provincia debe ser aprobada por:",
+"respuesta_a": "El Gobierno.",
+"respuesta_b": "La Asamblea de la Comunidad Autónoma a la que pertenezca la provincia.",
+"respuesta_c": "Las Cortes Generales, mediante ley orgánica.",
+"respuesta_d": "Una Comisión formada por los senadores designados en esa provincia.",
+"categoria": "",
+"correcta": "C"
+},
+"59": {
+"id": "59",
+"pregunta": "60)  ¿Qué es lo que caracteriza un decreto-ley?",
+"respuesta_a": "No puede afectar al ordenamiento de las instituciones básicas del Estado.",
+"respuesta_b": "Es dictado por las Cortes Generales en casos de urgente necesidad.",
+"respuesta_c": "Es dictado por el Presidente del Gobierno en casos de extraordinaria y urgente necesidad.",
+"respuesta_d": "Es dictado por el Gobierno por encargo de las Cortes Generales.",
+"categoria": "",
+"correcta": "A"
+},
+"16": {
+"id": "16",
+"pregunta": "61)  ¿En qué artículo de la Constitución se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen?",
+"respuesta_a": "Artículo 16.2.",
+"respuesta_b": "Artículo 17.1.",
+"respuesta_c": "Artículo 18.1.",
+"respuesta_d": "Artículo 18.2.",
+"categoria": "",
+"correcta": "C"
+},
+"12": {
+"id": "12",
+"pregunta": "62)  El artículo 69 de la Constitución Española indica que el Senado es la Cámara de representación territorial y que a cada provincia le corresponden:",
+"respuesta_a": "Cuatro Senadores y las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por dos Senadores.",
+"respuesta_b": "La ley distribuirá el número total de Senadores, asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.",
+"respuesta_c": "Dos Senadores y las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por un Senador.",
+"respuesta_d": "Cuatro Senadores y las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por un Senador.",
+"categoria": "",
+"correcta": "A"
+},
+"38": {
+"id": "38",
+"pregunta": "63)  Señale cuál de las siguientes funciones NO está atribuida constitucionalmente al Rey:",
+"respuesta_a": "El mando supremo de las Fuerzas Armadas.",
+"respuesta_b": "Autorizar indultos generales.",
+"respuesta_c": "Sancionar las leyes.",
+"respuesta_d": "Promulgar las leyes.",
+"categoria": "",
+"correcta": "B"
+},
+"112": {
+"id": "112",
+"pregunta": "64)  Las Disposiciones Adicionales en la Constitución Española son:",
+"respuesta_a": "Cuatro.",
+"respuesta_b": "Una.",
+"respuesta_c": "Cinco.",
+"respuesta_d": "Nueve.",
+"categoria": "",
+"correcta": "A"
+},
+"78": {
+"id": "78",
+"pregunta": "65)  ¿Cuál de las siguientes no es una jurisdicción especial?",
+"respuesta_a": "Constitucional.",
+"respuesta_b": "Penal.",
+"respuesta_c": "Militar.",
+"respuesta_d": "Tribunales consuetudinarios.",
+"categoria": "",
+"correcta": "B"
+},
+"3": {
+"id": "3",
+"pregunta": "66)  Las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de seguridad serán determinados, según el artículo 104 de la Constitución Española:",
+"respuesta_a": "Por una Ley orgánica.",
+"respuesta_b": "Por un Decreto-ley.",
+"respuesta_c": "Por un Real Decreto.",
+"respuesta_d": "Por un Reglamento interno de funcionamiento.",
+"categoria": "",
+"correcta": "A"
+},
+"80": {
+"id": "80",
+"pregunta": "67)  La soberanía nacional reside en:",
+"respuesta_a": "el Parlamento nacional.",
+"respuesta_b": "el Parlamento autonómico o Asamblea.",
+"respuesta_c": "el pueblo español.",
+"respuesta_d": "el Congreso y el Senado.",
+"categoria": "",
+"correcta": "C"
+},
+"75": {
+"id": "75",
+"pregunta": "68)  La dirección de la política interior y exterior, la Administración civil y militar y la defensa del Estado corresponde a:",
+"respuesta_a": "El Rey.",
+"respuesta_b": "El Jefe del Estado.",
+"respuesta_c": "El Gobierno.",
+"respuesta_d": "El Presidente del Gobierno.",
+"categoria": "",
+"correcta": "C"
+},
+"68": {
+"id": "68",
+"pregunta": "69)  En el Título Preliminar de la Constitución Española de 1978 se contienen los principios generales de la misma en:",
+"respuesta_a": "Los tres primeros artículos.",
+"respuesta_b": "En los diez primeros artículos.",
+"respuesta_c": "No están en el Título Preliminar.",
+"respuesta_d": "En los nueve primeros artículos.",
+"categoria": "",
+"correcta": "D"
+},
+"125": {
+"id": "125",
+"pregunta": "70)  Según la Constitución Española de 1978, están legitimados para interponer el recurso de inconstitucionalidad:",
+"respuesta_a": "El Presidente del Gobierno.",
+"respuesta_b": "El Consejo de Ministros.",
+"respuesta_c": "40 Diputados.",
+"respuesta_d": "El Ministerio Fiscal.",
+"categoria": "",
+"correcta": "A"
+},
+"102": {
+"id": "102",
+"pregunta": "71)  ¿En qué sección del Capítulo de Derechos y libertades de la Constitución Española se enmarca el derecho a la propiedad privada y a la herencia?",
+"respuesta_a": "De los derechos fundamentales y de las libertades públicas.",
+"respuesta_b": "De los derechos y deberes de los ciudadanos.",
+"respuesta_c": "De los principios rectores de la política social y económica.",
+"respuesta_d": "De las garantías de las libertades y derechos fundamentales.",
+"categoria": "",
+"correcta": "B"
+},
+"120": {
+"id": "120",
+"pregunta": "72)  Sobre la Corona, según la regulación contenida en la Constitución Española, es cierto que:",
+"respuesta_a": "La Reina consorte o el consorte de la Reina no podrán asumir funciones constitucionales, salvo lo dispuesto para la Tutela, dice el artículo 58.",
+"respuesta_b": "Las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona se resolverán por el Congreso de los Diputados.",
+"respuesta_c": "Extinguidas todas las líneas llamadas en Derecho, las Cortes Generales proveerán a la sucesión en la Corona en la forma que más convenga a los intereses de España.",
+"respuesta_d": "Sino hubiere ninguna persona a quien coresponda la Regencia, ésta será nombrada por las Cortes Generales, y se compondrá de una, cinco, siete o nueve personas.",
+"categoria": "",
+"correcta": "C"
+},
+"137": {
+"id": "137",
+"pregunta": "73)  Nadie podrá ser privado de sus bienes y derechos según el artículo 33 de la Constitución Española de 1978, salvo por causa justificada:",
+"respuesta_a": "De calamidad pública.",
+"respuesta_b": "De grave riesgo.",
+"respuesta_c": "De utilidad pública o interés social.",
+"respuesta_d": "En cualquiera de las situaciones anteriores.",
+"categoria": "",
+"correcta": "C"
+},
+"84": {
+"id": "84",
+"pregunta": "74)  De acuerdo con la Constitución española, la declaración del estado de excepción corresponde a:",
+"respuesta_a": "El rey, a propuesta del Gobierno.",
+"respuesta_b": "El Gobierno, mediante Decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados.",
+"respuesta_c": "El Congreso de los Diputados, a propuesta del Consejo de Ministros.",
+"respuesta_d": "Las Cortes Generales, por mayoría de los miembros de cada Cámara.",
+"categoria": "",
+"correcta": "B"
+},
+"24": {
+"id": "24",
+"pregunta": "75)  El artículo 152 de la Constitución española se refiere a la organización institucional básica de cada Comunidad Autónoma, la cual se basará en:",
+"respuesta_a": "Una Consellería legislativa, una Delegación de Gobierno, un Presidente y un Tribunal Superior de Justicia.",
+"respuesta_b": "Una Asamblea legislativa, un Presidente, un Delegado de Gobierno y un Comité Superior del Poder Judicial.",
+"respuesta_c": "Una Asamblea legislativa, un Consejo de Gobierno, un Presidente y un Tribunal Superior de Justicia.",
+"respuesta_d": "Un Consejo legislativo, una Delegación de Gobierno, un Presidente y un Tribunal Supremo.",
+"categoria": "",
+"correcta": "C"
+},
+"35": {
+"id": "35",
+"pregunta": "76)  El Título II de la Constitución finaliza en el Artículo:",
+"respuesta_a": "61",
+"respuesta_b": "53",
+"respuesta_c": "65",
+"respuesta_d": "67",
+"categoria": "",
+"correcta": "C"
+},
+"47": {
+"id": "47",
+"pregunta": "77)  Según el artículo 54 de la Constitución Española una ley orgánica regulará la institución del Defensor del Pueblo, como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en el Título I, a cuyo efecto podrá supervisar:",
+"respuesta_a": "La actividad del Gobierno, dando cuenta a las Cortes Generales.",
+"respuesta_b": "La actividad de la Administración, dando cuenta al Congreso de los Diputados.",
+"respuesta_c": "La actividad del Gobierno y de la Administración, dando cuenta a las Cortes Generales.",
+"respuesta_d": "Ninguna es correcta.",
+"categoria": "",
+"correcta": "D"
+},
+"92": {
+"id": "92",
+"pregunta": "78)  Todos tienen derecho a sindicarse libremente. La ley podrá limitar o exceptuar el ejercicio de este derecho, según el artículo 28 de la Constitución Española de 1978:",
+"respuesta_a": "A las Fuerzas o Institutos armados.",
+"respuesta_b": "A los Cuerpos o Fuerzas armadas.",
+"respuesta_c": "A los Institutos sometidos a disciplina militar.",
+"respuesta_d": "A los funcionarios públicos.",
+"categoria": "",
+"correcta": "A"
+},
+"118": {
+"id": "118",
+"pregunta": "79)  La Constitución Española de 1978, estructura las Cortes Generales en:",
+"respuesta_a": "Dos cámaras: Congreso de los Diputados (Cámara Alta) y Senado (Cámara Baja).",
+"respuesta_b": "Consejo de Ministros y dos Cámaras: Congreso de los Diputados (Cámara Alta) y Senado (Cámara Baja).",
+"respuesta_c": "Gobierno de la Nación y dos Cámaras: Congreso de los Diputados (Cámara Alta) y Senado (Cámara Baja).",
+"respuesta_d": "Dos Cámaras: Congreso de los Diputados (Cámara Baja) y Senado (Cámara Alta).",
+"categoria": "",
+"correcta": "D"
+},
+"62": {
+"id": "62",
+"pregunta": "80)  De conformidad con el artículo 98 de la Constitución Española el Gobierno se compone:",
+"respuesta_a": "Del Presidente, de los Vicepresidentes y de los demás miembros que establezca la ley.",
+"respuesta_b": "Del Presidente, de los Ministros, y de los demás miembros que establezca la ley.",
+"respuesta_c": "Del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley.",
+"respuesta_d": "Del Presidente, de los Vicepresidentes, en su caso, de los Ministros y los Secretarios Generales y de los demás miembros que establezca la ley.",
+"categoria": "",
+"correcta": "C"
+},
+"31": {
+"id": "31",
+"pregunta": "81)  ¿Cuántos capítulos tiene el Título VIII de la Constitución?",
+"respuesta_a": "Dos Capítulos.",
+"respuesta_b": "Tres Capítulos.",
+"respuesta_c": "Un Capítulo.",
+"respuesta_d": "Cuatro Capítulos.",
+"categoria": "",
+"correcta": "B"
+},
+"9": {
+"id": "9",
+"pregunta": "82)  Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal. En relación con esta frase, y según lo dispuesto en el artículo 13 de la Constitución Española, indicar la afirmación correcta:",
+"respuesta_a": "Solamente los españoles serán titulares de este derecho.",
+"respuesta_b": "Solamente los españoles serán titulares de este derecho, salvo lo que pueda establecerse por tratado o ley para el derecho de sufragio activo en las elecciones municipales.",
+"respuesta_c": "Solamente los españoles serán titulares de este derecho, salvo lo que pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales.",
+"respuesta_d": "Ninguna es correcta.",
+"categoria": "",
+"correcta": "C"
+},
+"81": {
+"id": "81",
+"pregunta": "83)  Señale la afirmación correcta. La tramitación de las proposiciones de ley se regulará por:",
+"respuesta_a": "Ley Orgánica.",
+"respuesta_b": "Lo dispuesto en la normativa comunitaria.",
+"respuesta_c": "Los Reglamentos de las Cámaras.",
+"respuesta_d": "El Reglamento del Congreso de los Diputados, exclusivamente.",
+"categoria": "",
+"correcta": "C"
+},
+"116": {
+"id": "116",
+"pregunta": "84)  La convocatoria a referéndum en los casos previstos en la Constitución corresponde a:",
+"respuesta_a": "El Presidente del Congreso de los Diputados.",
+"respuesta_b": "El Presidente del Gobierno.",
+"respuesta_c": "El Rey.",
+"respuesta_d": "El Consejo de Ministros.",
+"categoria": "",
+"correcta": "C"
+},
+"67": {
+"id": "67",
+"pregunta": "85)  La iniciativa legislativa corresponde:",
+"respuesta_a": "Al Congreso y al Senado, únicamente.",
+"respuesta_b": "Al rey y al Gobierno.",
+"respuesta_c": "Al Congreso, al Senado y al Rey.",
+"respuesta_d": "Al Gobierno, al Congreso y al Senado.",
+"categoria": "",
+"correcta": "D"
+},
+"69": {
+"id": "69",
+"pregunta": "86)  El Presidente del Tribunal Constitucional, según lo establecido en el Artículo 160 de la Constitución Española será nombrado entre sus miembros por:",
+"respuesta_a": "l Consejo General del Poder Judicial.",
+"respuesta_b": "El pleno de Tribunal Constitucional.",
+"respuesta_c": "El Presidente del Gobierno, a propuesta del pleno del Tribunal Constitucional.",
+"respuesta_d": "Por el Rey, a propuesta del mismo Tribunal en pleno.",
+"categoria": "",
+"correcta": "D"
+},
+"44": {
+"id": "44",
+"pregunta": "87)  El Consejo de Estado:",
+"respuesta_a": "Es el órgano del Estado con relevancia constitucional siendo, según el artículo 117 del Título VI de la Constitución Española, supremo órgano consultivo de la Administración del Estado.",
+"respuesta_b": "Es el órgano del Estado con relevancia constitucional y no puede ejercer funciones consultivas respecto de las Comunidades Autónomas.",
+"respuesta_c": "Es el órgano del Estado con relevancia constitucional y supremo órgano consultivo del Gobierno, y también de las Comunidades Autónomas, siempre que estas lo soliciten, y de forma preceptiva en los casos establecidos en la Ley Orgánica del Consejo de Estado, si las Comunidades Autónomas no han creado sus propios órganos consultivos.",
+"respuesta_d": "Es el supremo órgano consultivo del Gobierno, con autonomía orgánica y funcional respecto del mismo, dependiente del Ministerio de la Presidencia y para las Administraciones Territoriales.",
+"categoria": "",
+"correcta": "C"
+},
+"123": {
+"id": "123",
+"pregunta": "88)  La Constitución Española propugna como valores superiores de su ordenamiento jurídico:",
+"respuesta_a": "La Libertad, la Democracia, la Igualdad y la Justicia.",
+"respuesta_b": "La Libertad, la Justicia, la Seguridad y promover el bien de cuantos la integran.",
+"respuesta_c": "La Soberanía, el Sufragio Universal, la Unidad de la Nación española y el derecho a la autonomía de las nacionalidades y regiones que la integran.",
+"respuesta_d": "La Justicia, el Pluralismo Político, la Igualdad, y la Libertad.",
+"categoria": "",
+"correcta": "D"
+},
+"64": {
+"id": "64",
+"pregunta": "89)  Según establece el Artículo 86 de la Constitución Española, los Decretos-Leyes son normas con rango de Ley que aprueba el Gobierno:",
+"respuesta_a": "Previa delegación de las Cortes, para casos de extraordinaria y urgente necesidad y una vez aprobados deben ser sometidos a debate y votación de totalidad al Congreso de los Diputados.",
+"respuesta_b": "Sin mediar delegación de las Cortes, aunque deben ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados.",
+"respuesta_c": "En casos de extraordinaria y urgente necesidad sin mediar delegación de las Cortes, aunque una vez aprobados deben ser tramitados como proyectos de ley por el procedimiento de urgencia.",
+"respuesta_d": "Previa delegación de las Cortes, para casos de extraordinaria y urgente necesidad, y que una vez aprobados deben ser sometidos a debate y votación de totalidad al Congreso de los Diputados.",
+"categoria": "",
+"correcta": "B"
+},
+"99": {
+"id": "99",
+"pregunta": "90)  Según la Constitución Española, la cuestión de confianza planteada por el Presidente del Gobierno, se entenderá otorgada cuando vote a su favor la mayoría:",
+"respuesta_a": "absoluta de las Cortes Generales.",
+"respuesta_b": "absoluta del Congreso de los Diputados.",
+"respuesta_c": "simple de las Cortes Generales.",
+"respuesta_d": "simple del Congreso de los Diputados.",
+"categoria": "",
+"correcta": "D"
+},
+"107": {
+"id": "107",
+"pregunta": "91)  El Gobierno cesa, según el artículo 101 de la Constitución Española:",
+"respuesta_a": "Antes de la celebración de elecciones generales.",
+"respuesta_b": "En los casos de pérdida de la confianza del Congreso de los Diputados y del Gobierno de la nación.",
+"respuesta_c": "Por dimisión o fallecimiento de su Presidente.",
+"respuesta_d": "Cuándo se den las causas previstas en el artículo 4 de la Constitución española.",
+"categoria": "",
+"correcta": "C"
+},
+"43": {
+"id": "43",
+"pregunta": "92)  En relación con el Defensor del Pueblo, señale la afirmación correcta:",
+"respuesta_a": "Es el supremo órgano consultivo del Gobierno.",
+"respuesta_b": "Puede supervisar la actividad de la Administración del Estado, pero no la de las Comunidades Autónomas.",
+"respuesta_c": "Puede anular resoluciones e imponer sanciones, siempre que no impliquen privación de libertad.",
+"respuesta_d": "Tiene como misión la defensa de todos los derechos comprendidos en el Título I de la Constitución Española, y no sólo los susceptibles de recurso de amparo.",
+"categoria": "",
+"correcta": "D"
+},
+"55": {
+"id": "55",
+"pregunta": "93)  Según el Artículo 22 de la Constitución Española, las asociaciones sólo podrán ser disueltas o suspendidas en sus actividades:",
+"respuesta_a": "Por Real Decreto.",
+"respuesta_b": "Por Orden del Ministerio del Interior.",
+"respuesta_c": "Por resolución judicial motivada.",
+"respuesta_d": "Por resolución del Delegado del Gobierno de la Comunidad Autónoma donde tenga establecido su domicilio la asociación.",
+"categoria": "",
+"correcta": "C"
+},
+"90": {
+"id": "90",
+"pregunta": "94)  La Constitución Española de 1978 se estructura en:",
+"respuesta_a": "169 artículos, 9 disposiciones adicionales, 4 transitorias, 1 disposición final.",
+"respuesta_b": "167 artículos, 4 disposiciones adicionales, 9 transitorias, 1 disposición derogatoria y 1 disposición final.",
+"respuesta_c": "169 artículos, 4 disposiciones adicionales, 9 transitorias, 2 disposiciones finales.",
+"respuesta_d": "169 artículos, 4 disposiciones adicionales, 9 transitorias, 1 disposición derogatoria y 1 disposición final.",
+"categoria": "",
+"correcta": "D"
+},
+"61": {
+"id": "61",
+"pregunta": "95)  La Constitución Española, en el artículo 9 del Título Preliminar, garantiza el principio de:",
+"respuesta_a": "Retroactividad de las disposiciones sancionadoras no favorables de derechos individuales.",
+"respuesta_b": "Publicidad de las normas.",
+"respuesta_c": "Defensa jurídica ante los tribunales.",
+"respuesta_d": "Coordinación normativa.",
+"categoria": "",
+"correcta": "B"
+},
+"127": {
+"id": "127",
+"pregunta": "96)  El artículo 2 de la Constitución Española de 1978, después de declarar la indisoluble unidad de la Nación española, reconoce y garantiza:",
+"respuesta_a": "El derecho a la autonomía de las regiones y naciones que la integran.",
+"respuesta_b": "El derecho a la autonomía de las regiones y provincias que la integran.",
+"respuesta_c": "El derecho a la autonomía de las nacionalidades y regiones que la integran.",
+"respuesta_d": "Ninguna es correcta.",
+"categoria": "",
+"correcta": "C"
+},
+"121": {
+"id": "121",
+"pregunta": "97)  La reforma de la Constitución Española:",
+"respuesta_a": "Siempre deberá ser sometida a referéndum su ratificación.",
+"respuesta_b": "Puede no ser sometida a referéndum si se aprueba por 3/5 de cada una de las cámaras y si no se solicita dentro de los siguientes quince días de su aprobación, por una décima parte de los miembros de cualquiera de las cámaras.",
+"respuesta_c": "Puede no ser sometida a referéndum si se aprueba por mayoría absoluta de cada una de las cámaras y si no se solicita dentro de los siguientes quince días de su aprobación, por una décima parte de los miembros de cualquiera de las cámaras.",
+"respuesta_d": "Puede no ser sometida a referéndum si se aprueba por 2/3 de cada una de las cámaras y si no se solicita dentro de los siguientes quince días de su aprobación, por una décima parte de los miembros de cualquiera de las cámaras.",
+"categoria": "",
+"correcta": "B"
+},
+"128": {
+"id": "128",
+"pregunta": "98)  La Justicia, en España, emana del/de la:",
+"respuesta_a": "Rey.",
+"respuesta_b": "&Oacute;rgano jurisdiccional que actúa en cada caso.",
+"respuesta_c": "Constitución.",
+"respuesta_d": "Pueblo.",
+"categoria": "",
+"correcta": "D"
+},
+"71": {
+"id": "71",
+"pregunta": "99)  ¿Qué tipo de ley aprueba los estatutos de autonomía?",
+"respuesta_a": "Una ley ordinaria.",
+"respuesta_b": "Una ley orgánica.",
+"respuesta_c": "Una ley de bases.",
+"respuesta_d": "Una ley de transferencia.",
+"categoria": "",
+"correcta": "B"
+},
+"17": {
+"id": "17",
+"pregunta": "100)  Según el Artículo 113 de la Constitución Española, la moción de censura deberá ser propuesta:",
+"respuesta_a": "al menos por 50 Diputados.",
+"respuesta_b": "al menos por la décima parte de los Diputados.",
+"respuesta_c": "por la Mesa del Congreso de los Diputados.",
+"respuesta_d": "al menos por dos grupos políticos del Congreso de los Diputados.",
+"categoria": "",
+"correcta": "B"
+},
+"88": {
+"id": "88",
+"pregunta": "101)  ¿A cuántos miembros del Tribunal Constitucional corresponde proponer al Gobierno?",
+"respuesta_a": "Cuatro.",
+"respuesta_b": "Ninguno.",
+"respuesta_c": "Dos.",
+"respuesta_d": "Seis.",
+"categoria": "",
+"correcta": "C"
+},
+"0": {
+"id": "0",
+"pregunta": "102)  Según el Título II de la Constitución Española relativo a la Corona:",
+"respuesta_a": "La Regencia se ejercerá por mandato constitucional y siempre en nombre del Rey.",
+"respuesta_b": "Las abdicaciones y renuncias en el orden sucesorio se resolverán por ley ordinaria.",
+"respuesta_c": "El Príncipe heredero podrá asumir la Regencia durante su minoría de edad.",
+"respuesta_d": "La Regencia podrá ejercerse por nacionales de cualquier Estado.",
+"categoria": "",
+"correcta": "A"
+},
+"97": {
+"id": "97",
+"pregunta": "103)  Según el Título III &quot;De las Cortes Generales&quot; de la Constitución Española, las Cámaras podrán:",
+"respuesta_a": "Recibir peticiones individuales y colectivas, siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
+"respuesta_b": "Delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley relativas a cuestiones internacionales.",
+"respuesta_c": "Reunirse en sesión extraordinaria a petición de la mayoría simple de los miembros de cualquiera de las Cámaras.",
+"respuesta_d": "Nombrar conjuntamente Comisiones de Investigación sobre asuntos de interés público. Sus conclusiones serán vinculantes para los Tribunales.",
+"categoria": "",
+"correcta": "A"
+},
+"98": {
+"id": "98",
+"pregunta": "104)  La potestad reglamentaria constitucionalmente corresponde:",
+"respuesta_a": "Al Gobierno.",
+"respuesta_b": "A las Cortes Generales.",
+"respuesta_c": "Al Poder Judicial.",
+"respuesta_d": "Al Congreso de los Diputados.",
+"categoria": "",
+"correcta": "A"
+},
+"72": {
+"id": "72",
+"pregunta": "105)  Según la Constitución española, el instrumento fundamental para la participación política son:",
+"respuesta_a": "las Cortes generales.",
+"respuesta_b": "los partidos políticos.",
+"respuesta_c": "los sindicatos.",
+"respuesta_d": "las Comunidades Autónomas.",
+"categoria": "",
+"correcta": "B"
+},
+"105": {
+"id": "105",
+"pregunta": "106)  En caso de dimisión del Presidente del Gobierno:",
+"respuesta_a": "El Gobierno cesa a continuación.",
+"respuesta_b": "El Rey podrá proponer, a través del Presidente del Congreso, un nuevo candidato a la Presidencia del Gobierno.",
+"respuesta_c": "El Pleno del Congreso, por mayoría absoluta, podrá proponer al Rey un nuevo candidato a la Presidencia del Gobierno.",
+"respuesta_d": "El Pleno del Congreso y del Senado, por mayoría absoluta, podrá proponer al Rey un nuevo candidato a la Presidencia del Gobierno.",
+"categoria": "",
+"correcta": "A"
+},
+"53": {
+"id": "53",
+"pregunta": "107)  La Constitución garantiza la irretroactividad:",
+"respuesta_a": "De las disposiciones favorables.",
+"respuesta_b": "De las disposiciones sancionadoras no favorables.",
+"respuesta_c": "De las disposiciones restrictivas de derechos individuales.",
+"respuesta_d": "Las respuestas b) y c) son correctas.",
+"categoria": "",
+"correcta": "D"
+},
+"66": {
+"id": "66",
+"pregunta": "108)  Un referéndum consultivo sobre cuestiones políticas de especial transcendencia:",
+"respuesta_a": "Se puede convocar a iniciativa de las Comunidades Autónomas en virtud del artículo 1 de la Constitución española que dice que la soberanía nacional reside en el pueblo español.",
+"respuesta_b": "Será convocado por el Rey, a propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados.",
+"respuesta_c": "Será convocado por el Presidente del Gobierno, a propuesta de los grupos parlamentarios con una representación suficiente en el Congreso.",
+"respuesta_d": "Está prohibido por la Constitución en virtud del artículo 92.1.",
+"categoria": "",
+"correcta": "B"
+},
+"119": {
+"id": "119",
+"pregunta": "109)  Según el artículo 18 de la Conititución Española de 1978, el secreto de las comunicaciones:",
+"respuesta_a": "Se garantiza sólo en las comunicaciones postales, telegráficas y telefónicas.",
+"respuesta_b": "Se garantiza en todo caso.",
+"respuesta_c": "Se garantiza, salvo resolución judicial.",
+"respuesta_d": "Su garantía no constituye un derecho fundamental.",
+"categoria": "",
+"correcta": "C"
+},
+"133": {
+"id": "133",
+"pregunta": "110)  La Constitución Española establece sobre la informática que:",
+"respuesta_a": "La Ley potenciará el uso de la informática para garantizar la libertad de residencia y las transacciones electrónicas en el marco de la economía de mercado y la planificación del desarrollo económico nacional.",
+"respuesta_b": "La Ley limitará el uso de la informática para garantizar el secreto de las comunicaciones, la información veraz y la solidaridad entre todos los ciudadanos.",
+"respuesta_c": "En la Constitución Española de 1978 no se hace referencia expresa a la informática.",
+"respuesta_d": "La Ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.",
+"categoria": "",
+"correcta": "D"
+},
+"63": {
+"id": "63",
+"pregunta": "111)  Según el artículo 86 de la Constitución Española de 1978, los decretos-leyes:",
+"respuesta_a": "Pueden regular materia electoral general en caso de urgente necesidad.",
+"respuesta_b": "Para dictar estas normas es necesaria la delegación previa de las Cortes Generales.",
+"respuesta_c": "Después de ser promulgados deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados.",
+"respuesta_d": "La potestad de dictarlos la tiene el Presidente del Gobierno.",
+"categoria": "",
+"correcta": "C"
+},
+"134": {
+"id": "134",
+"pregunta": "112)  El Título Segundo de la Constitución Española tiene:",
+"respuesta_a": "Diez artículos.",
+"respuesta_b": "Nueve artículos.",
+"respuesta_c": "Once artículos.",
+"respuesta_d": "Ocho artículos.",
+"categoria": "",
+"correcta": "A"
+},
+"51": {
+"id": "51",
+"pregunta": "113)  El defensor del pueblo será elegido por las Cortes Generales para un período de:",
+"respuesta_a": "3 años.",
+"respuesta_b": "5 años.",
+"respuesta_c": "4 años.",
+"respuesta_d": "6 años.",
+"categoria": "",
+"correcta": "B"
+},
+"41": {
+"id": "41",
+"pregunta": "114)  Son características generales de la Constitución Española de 1978:",
+"respuesta_a": "De origen noble, pactada, breve, escrita y flexible.",
+"respuesta_b": "De origen popular, de consenso, escrita, flexible y nada ideológica.",
+"respuesta_c": "Sin ideología, de origen monárquico, escrita y rígida.",
+"respuesta_d": "De origen popular, de consenso, extensa y rígida.",
+"categoria": "",
+"correcta": "D"
+},
+"138": {
+"id": "138",
+"pregunta": "115)  El Título Primero de la Constitución Española está dedicado a:",
+"respuesta_a": "Los Derechos y Deberes fundamentales.",
+"respuesta_b": "La Corona.",
+"respuesta_c": "El Poder Judicial.",
+"respuesta_d": "Las Cortes Generales.",
+"categoria": "",
+"correcta": "A"
+},
+"50": {
+"id": "50",
+"pregunta": "116)  ¿Quién debe refrendar el nombramiento del Presidente del Consejo General del Poder Judicial?",
+"respuesta_a": "El Presidente del Senado",
+"respuesta_b": "No es un acto Real, por tanto no conlleva refrendo",
+"respuesta_c": "El Presidente del Gobierno",
+"respuesta_d": "El Presidente de las Cortes Generales",
+"categoria": "",
+"correcta": "C"
+},
+"19": {
+"id": "19",
+"pregunta": "117)  Ante qué órgano se interpone el recurso de amparo:",
+"respuesta_a": "Juzgados de Primera Instancia e Instrucción.",
+"respuesta_b": "Ministerio Fiscal.",
+"respuesta_c": "Tribunal Constitucional.",
+"respuesta_d": "Defensor del Pueblo.",
+"categoria": "",
+"correcta": "C"
+},
+"22": {
+"id": "22",
+"pregunta": "118)  Señale la afirmación correcta. Corresponde al Rey:",
+"respuesta_a": "Nombrar a los miembros del Gobierno a propuesta de las Cortes Generales.",
+"respuesta_b": "Nombrar y separar a los miembros del Gobierno a propuesta de las Cortes Generales.",
+"respuesta_c": "Nombrar y separar a los miembros del Gobierno previa consulta al Presidente del Gobierno.",
+"respuesta_d": "Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente.",
+"categoria": "",
+"correcta": "D"
+},
+"115": {
+"id": "115",
+"pregunta": "119)  El Artículo 98 de la Constitución Española señala que el Gobierno Español se compone de:",
+"respuesta_a": "El Presidente y su gabinete.",
+"respuesta_b": "El Presidente y sus Ministros.",
+"respuesta_c": "El Rey y el Presidente.",
+"respuesta_d": "El Presidente, de los Vicepresidentes en su caso, de los Ministros y demás miembros que establezca la ley.",
+"categoria": "",
+"correcta": "D"
+},
+"40": {
+"id": "40",
+"pregunta": "120)  En cuanto a las fuentes del derecho, las normas jurídicas contenidas en los tratados internacionales:",
+"respuesta_a": "serán de aplicación directa en España.",
+"respuesta_b": "serán de aplicación directa y pasarán a formar parte del ordenamiento interno una vez ratificadas por España.",
+"respuesta_c": "no serán de aplicación directa en España en tanto no hayan pasado a formar parte del ordenamiento interno mediante su publicación oficial en España.",
+"respuesta_d": "ratificados por España y publicadas en el BOE, no son fuente de derecho.",
+"categoria": "",
+"correcta": "C"
+},
+"54": {
+"id": "54",
+"pregunta": "121)  Señale la respuesta INCORRECTA en relación con el artículo 18 de la Constitución Española:",
+"respuesta_a": "Se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen.",
+"respuesta_b": "El domicilio es inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial o administrativa.",
+"respuesta_c": "Se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, salvo resolución judicial.",
+"respuesta_d": "La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.",
+"categoria": "",
+"correcta": "B"
+},
+"117": {
+"id": "117",
+"pregunta": "122)  ¿Quién representa al Consejo General del Poder Judicial?",
+"respuesta_a": "La Comisión Permanente.",
+"respuesta_b": "El Presidente.",
+"respuesta_c": "El Pleno.",
+"respuesta_d": "El Vicepresidente.",
+"categoria": "",
+"correcta": "B"
+},
+"20": {
+"id": "20",
+"pregunta": "123)  Señale cómo se reúnen los miembros del Gobierno:",
+"respuesta_a": "En Consejo de Ministros y en Comisiones Delegadas del Gobierno.",
+"respuesta_b": "En Consejo de Ministros y en Consejo de Vicepresidentes.",
+"respuesta_c": "En Consejo de Ministros y en Comisiones Delegadas de las Cortes Generales.",
+"respuesta_d": "En Comisiones Delegadas del Gobierno y Consejo de Estado.",
+"categoria": "",
+"correcta": "A"
+},
+"111": {
+"id": "111",
+"pregunta": "124)  Según la Constitución Española, durante el periodo de su mandato los Diputados y Senadores gozarán asimismo de inmunidad y sólo podrán ser detenidos en caso de flagrante delito. No podrán ser inculpados ni procesados sin la previa autorización:",
+"respuesta_a": "De la Cámara respectiva.",
+"respuesta_b": "Del Rey.",
+"respuesta_c": "Del Tribunal Constitucional.",
+"respuesta_d": "Del Tribunal Supremo.",
+"categoria": "",
+"correcta": "A"
+},
+"104": {
+"id": "104",
+"pregunta": "125)  Según la Constitución Española de 1978, corresponde al Rey:",
+"respuesta_a": "Controlar la acción del Gobierno.",
+"respuesta_b": "Convocar y disolver las Cortes Generales y convocar elecciones.",
+"respuesta_c": "Fiscalizar las cuentas y gestión económica del Estado.",
+"respuesta_d": "Proponer los miembros del Gobierno.",
+"categoria": "",
+"correcta": "B"
+},
+"101": {
+"id": "101",
+"pregunta": "126)  Según el artículo 9 de la Constitución Española, están sujetos a la Constitución y al resto del ordenamiento jurídico:",
+"respuesta_a": "los ciudadanos y los poderes públicos.",
+"respuesta_b": "los ciudadanos a excepción de los poderes públicos.",
+"respuesta_c": "los ciudadanos y los poderes públicos, a excepción de las personas miembros del congreso y senado que gozan de inmunidad parlamentaria.",
+"respuesta_d": "los ciudadanos y los poderes públicos, a excepción de la persona que ostente la presidencia del Gobierno del Estado y de las comunidades autónoma que no están sujetas a responsabilidad jurídica.",
+"categoria": "",
+"correcta": "A"
+},
+"135": {
+"id": "135",
+"pregunta": "127)  Según la Constitución, las poblaciones de Ceuta y Melilla estarán representadas por:",
+"respuesta_a": "Un diputado y un senador, cada una de ellas.",
+"respuesta_b": "Dos diputados y un senador, cada una de ellas.",
+"respuesta_c": "Un diputado y dos senadores, cada una de ellas.",
+"respuesta_d": "dos diputados y dos senadores, cada una de ellas.",
+"categoria": "",
+"correcta": "C"
+},
+"109": {
+"id": "109",
+"pregunta": "128)  ¿Cuántos miembros componen el Tribunal Constitucional?",
+"respuesta_a": "11",
+"respuesta_b": "12",
+"respuesta_c": "14",
+"respuesta_d": "8",
+"categoria": "",
+"correcta": "B"
+},
+"10": {
+"id": "10",
+"pregunta": "129)  El artículo 31 de la Constitución Española de 1978 regula el principio de capacidad económica y no confiscatoriedad y establece:",
+"respuesta_a": "Un sistema tributario justo y el carácter progresivo de todos los impuestos sin que, en ningún caso, tenga alcance confiscatorio.",
+"respuesta_b": "Un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.",
+"respuesta_c": "Un sistema tributario justo inspirado en los principios de igualdad y proporcionalidad que, en ningún caso, tenga alcance confiscatorio.",
+"respuesta_d": "Un sistema tributario justo inspirado en los principios de igualdad y regresividad que, en ningún caso, tenga alcance confiscatorio.",
+"categoria": "",
+"correcta": "B"
+},
+"122": {
+"id": "122",
+"pregunta": "130)  Según la regulación constitucional del derecho de asociación:",
+"respuesta_a": "Las asociaciones que se constituyan deben inscribirse en un registro a los efectos de publicidad.",
+"respuesta_b": "Las asociaciones pueden ser suspendidas en virtud de resolución administrativa motivada.",
+"respuesta_c": "Este derecho aparece regulado en el Título Preliminar de la Constitución.",
+"respuesta_d": "Este derecho aparece regulado en la Sección 2&ordf; del Capítulo 2&ordm; del Título I de la Constitución.",
+"categoria": "",
+"correcta": "A"
+},
+}

@@ -1,0 +1,672 @@
+{
+"new Array();": {
+"id": "new Array();",
+"pregunta": "1)  Según la Constitución Española ¿cómo se organiza territorialmente el Estado?",
+"respuesta_a": "No existe organización territorial del Estado.",
+"respuesta_b": "En Comunidades Autónomas, Provincias, Comarcas y Municipios.",
+"respuesta_c": "En Municipios, Provincias y Comunidades Autónomas.",
+"respuesta_d": "En Ayuntamientos, en Diputaciones, en Cabildos y en el Estado.",
+"categoria": "",
+"correcta": "C"
+},
+"248": {
+"id": "248",
+"pregunta": "2)  El presidente de una Comunidad Autónoma es nombrado por:",
+"respuesta_a": "El Rey.",
+"respuesta_b": "Las Cortes Generales.",
+"respuesta_c": "La Asamblea Legislativa de entre sus miembros.",
+"respuesta_d": "El Consejo de Gobierno.",
+"categoria": "",
+"correcta": "A"
+},
+"231": {
+"id": "231",
+"pregunta": "3)  La reforma de los Estatutos de Autonomía de las CCAA requerirá en todo caso:",
+"respuesta_a": "Autorización del Consejo de Ministros.",
+"respuesta_b": "Aprobación del Senado.",
+"respuesta_c": "Aprobación de las CCGG mediante Ley Orgánica.",
+"respuesta_d": "Referéndum de los electores inscritos en los censos correspondientes y aprobación por ley orgánica de las CCGG.",
+"categoria": "",
+"correcta": "C"
+},
+"239": {
+"id": "239",
+"pregunta": "4)  ¿Cuál de las competencias que a continuación se expresan no es exclusiva del Estado?",
+"respuesta_a": "Bases del régimen minero y energético.",
+"respuesta_b": "La caza y la pesca fluvial.",
+"respuesta_c": "Tráfico y circulación de vehículos a motor.",
+"respuesta_d": "Estadística para fines estatales.",
+"categoria": "",
+"correcta": "B"
+},
+"215": {
+"id": "215",
+"pregunta": "5)  ¿Cuál es, según la Ley Reguladora de las Bases de Régimen Local, la entidad local básica?",
+"respuesta_a": "El municipio.",
+"respuesta_b": "La isla.",
+"respuesta_c": "La Comunidad Autónoma.",
+"respuesta_d": "Ninguna de las respuestas es correcta.",
+"categoria": "",
+"correcta": "A"
+},
+"217": {
+"id": "217",
+"pregunta": "6)  Si en el procedimiento previsto en el artículo 151 de la Constitución, una o varias provincias no aprueban el proyecto de Estatuto de Autonomía:",
+"respuesta_a": "No será posible la constitución de esa Comunidad Autónoma.",
+"respuesta_b": "Ello no impedirá la constitución de las demás provincias en comunidad autónoma.",
+"respuesta_c": "Será posible que las demás se constituyan en Comunidad autónoma si así lo autoriza el Congreso.",
+"respuesta_d": "Deberá celebrarse referéndum aprobatorio del Estatuto en las provincias afectadas.",
+"categoria": "",
+"correcta": "B"
+},
+"253": {
+"id": "253",
+"pregunta": "7)  Las Comunidades Autónomas podrán adoptar medidas tributarias sobre bienes situados fuera de su territorio:",
+"respuesta_a": "no, en ningún caso",
+"respuesta_b": "siempre que correspondan a ciudadanos que residan en su territorio",
+"respuesta_c": "cuando se lo autorice en Tribunal de Cuentas",
+"respuesta_d": "previa autorización de las Cortes Generales",
+"categoria": "",
+"correcta": "A"
+},
+"208": {
+"id": "208",
+"pregunta": "8)  Según el Título VIII Organización Territorial del Estado de la Constitución Española:",
+"respuesta_a": "Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado a excepción del País Vasco y Comunidad Foral de Navarra por sus fueros históricos.",
+"respuesta_b": "Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado a excepción de las regiones periféricas que se regularán por lo establecido en sus Estatutos de Autonomía.",
+"respuesta_c": "Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado excepción de las Autonomías que dispongan de características históricas, culturas y económicas comunes, con arreglo a los previsto en sus respectivos Estatutos.",
+"respuesta_d": "Ninguna de las anteriores es correcta.",
+"categoria": "",
+"correcta": "D"
+},
+"247": {
+"id": "247",
+"pregunta": "9)  De acuerdo con el artículo 141 de la Constitución, las provincias:",
+"respuesta_a": "no tiene personalidad jurídica",
+"respuesta_b": "tienen personalidad jurídica plena",
+"respuesta_c": "tienen personalidad jurídica propia",
+"respuesta_d": "ninguna de las respuestas es correcta",
+"categoria": "",
+"correcta": "C"
+},
+"190": {
+"id": "190",
+"pregunta": "10)  De acuerdo con la Constitución, se podrán crear agrupaciones de municipios diferentes de la provincia:",
+"respuesta_a": "no, en ningún caso",
+"respuesta_b": "sí",
+"respuesta_c": "por la Diputación provincial, mediante decreto",
+"respuesta_d": "mediante ley autonómica",
+"categoria": "",
+"correcta": "B"
+},
+"195": {
+"id": "195",
+"pregunta": "11)  El Estado podrá transferir o delegar en las Comunidades Autónomas facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación. Esto se hará mediante:",
+"respuesta_a": "ley marco",
+"respuesta_b": "ley de bases",
+"respuesta_c": "real decreto",
+"respuesta_d": "ley orgánica",
+"categoria": "",
+"correcta": "D"
+},
+"199": {
+"id": "199",
+"pregunta": "12)  El artículo 137 de la Constitución Española establece que el Estado se organiza territorialmente:",
+"respuesta_a": "En municipios, en comarcas, en provincias y en las Comunidades Autónomas que se constituyan.",
+"respuesta_b": "En municipios, en provincias y en las Comunidades Autónomas que se constituyan.",
+"respuesta_c": "En Comunidades Autónomas.",
+"respuesta_d": "En provincias, en islas y en las Comunidades Autónomas que se constituyan.",
+"categoria": "",
+"correcta": "B"
+},
+"197": {
+"id": "197",
+"pregunta": "13)  De acuerdo con el artículo 149 de la Constitución, la competencia sobre las materias que no se hayan asumido por los Estatutos de Autonomía de las Comunidades Autónomas:",
+"respuesta_a": "corresponderá al Estado",
+"respuesta_b": "será determinada por las Cortes Generales, mediante ley orgánica",
+"respuesta_c": "requerirá el traspaso de financiación entre la administración autonómica y la estatal",
+"respuesta_d": "se transferirá mediante una ley marco",
+"categoria": "",
+"correcta": "A"
+},
+"191": {
+"id": "191",
+"pregunta": "14)  De acuerdo con el artículo 148 de la Constitución Española de 1978, indique en cuál de las siguientes materias podrán asumir competencias las Comunidades Autónomas:",
+"respuesta_a": "Fomento y coordinación general de la investigación científica y técnica.",
+"respuesta_b": "Las alteraciones de los términos municipales comprendidos en su territorio.",
+"respuesta_c": "Estadística para fines estatales.",
+"respuesta_d": "Legislación sobre propiedad intelectual e industrial.",
+"categoria": "",
+"correcta": "B"
+},
+"222": {
+"id": "222",
+"pregunta": "15)  La iniciativa del proceso autonómico por la vía ordinaria contemplado en el artículo 143 de la Constitución por parte de los municipios, requiere mayoría de:",
+"respuesta_a": "2 tercios de los municipios cuya población represente 3 quintos del censo electoral de su provincia o isla",
+"respuesta_b": "2 tercios de los municipios cuya población represente al menos la mayoría del censo electoral de su provincia o isla",
+"respuesta_c": "la mayoría de los municipios cuya población represente la mayoría del censo electoral de su provincia o isla",
+"respuesta_d": "3 quintos de los municipios o mayoría del censo electoral de su provincia o isla",
+"categoria": "",
+"correcta": "B"
+},
+"207": {
+"id": "207",
+"pregunta": "16)  Requiere ley orgánica:",
+"respuesta_a": "La alteración de los límites provinciales.",
+"respuesta_b": "La alteración de los límites municipales.",
+"respuesta_c": "La creación de un área metropolitana.",
+"respuesta_d": "La aprobación de los Estatutos que rigen la Mancomunidad de Municipio.",
+"categoria": "",
+"correcta": "A"
+},
+"243": {
+"id": "243",
+"pregunta": "17)  ¿Quién ostenta la suprema representación de la Comunidad Autónoma?",
+"respuesta_a": "El Presidente de la Comunidad.",
+"respuesta_b": "El Presidente del Gobierno.",
+"respuesta_c": "El Rey.",
+"respuesta_d": "El Delegado del Gobierno.",
+"categoria": "",
+"correcta": "A"
+},
+"220": {
+"id": "220",
+"pregunta": "18)  Según la Constitución Española, los recursos de las Comunidades Autónomas no están constituidos por:",
+"respuesta_a": "Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos estatales y otras participaciones en los ingresos del Estado.",
+"respuesta_b": "Sus propios impuestos, tasas y contribuciones especiales.",
+"respuesta_c": "Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado.",
+"respuesta_d": "Bienes situados fuera de su territorio.",
+"categoria": "",
+"correcta": "D"
+},
+"250": {
+"id": "250",
+"pregunta": "19)  El Presidente de una Comunidad Autónoma es elegido:",
+"respuesta_a": "Por la Asamblea Legislativa de entre sus miembros y nombrados por el Rey.",
+"respuesta_b": "Por la Asamblea Legislativa y nombrado por el Presidente del Gobierno.",
+"respuesta_c": "Por las Cortes Generales y nombrado por el Rey.",
+"respuesta_d": "Por las Cortes Generales y nombrado por el Presidente del Gobierno.",
+"categoria": "",
+"correcta": "A"
+},
+"230": {
+"id": "230",
+"pregunta": "20)  De acuerdo con la Constitución, los Ayuntamientos están integrados por:",
+"respuesta_a": "los vecinos",
+"respuesta_b": "los Concejales",
+"respuesta_c": "el Alcalde y los Tenientes de Alcalde, en su caso",
+"respuesta_d": "el Alcalde y los Concejales",
+"categoria": "",
+"correcta": "D"
+},
+"194": {
+"id": "194",
+"pregunta": "21)  Señale la respuesta FALSA. De acuerdo con la Constitución, el Estatuto de Autonomía de una Comunidad deberá contener:",
+"respuesta_a": "las competencias asumidas",
+"respuesta_b": "la denominación, organización y sede de las instituciones autónomas propias",
+"respuesta_c": "la delimitación de las provincias que la integran",
+"respuesta_d": "la denominación de la Comunidad",
+"categoria": "",
+"correcta": "C"
+},
+"214": {
+"id": "214",
+"pregunta": "22)  ¿Quién tiene atribuida, según la Constitución de 1978, la competencia para la autorización para la convocatoria de consultas populares por vía de referéndum?",
+"respuesta_a": "El Estado, y es exclusiva.",
+"respuesta_b": "El Estado, en las consultas de ámbito nacional, pudiendo asumir las CCAA la autorización de las consultas en ámbito autonómico.",
+"respuesta_c": "La Comunidad Autónoma.",
+"respuesta_d": "La Constitución de 1978 no prevé esta competencia en el título VIII.",
+"categoria": "",
+"correcta": "A"
+},
+"221": {
+"id": "221",
+"pregunta": "23)  El Pleno Municipal, integrado por los Concejales, es presidido por el Alcalde, correspondiendo al Pleno en los municipios de gran población:",
+"respuesta_a": "Dictar bandos, decretos e instrucciones.",
+"respuesta_b": "Ejercer la superior dirección del personal al servicio de la Administración municipal.",
+"respuesta_c": "El Control y fiscalización de los órganos de gobierno.",
+"respuesta_d": "La aprobación del proyecto de presupuesto.",
+"categoria": "",
+"correcta": "C"
+},
+"229": {
+"id": "229",
+"pregunta": "24)  La autorización, en su caso, de un Estatuto de autonomía para territorios que no estén integrados en la organización provincial requerirá de conformidad con el artículo 144 CE:",
+"respuesta_a": "Ley Orgánica por motivos de interés general",
+"respuesta_b": "Ley ordinaria por motivos de interés general",
+"respuesta_c": "Ley Orgánica por motivos de interés nacional",
+"respuesta_d": "Ley ordinaria por motivos de interés nacional",
+"categoria": "",
+"correcta": "C"
+},
+"235": {
+"id": "235",
+"pregunta": "25)  En caso de no prosperar la iniciativa de proceso autonómico contemplada en el artículo 143 de la Constitución, podrá reiterarse:",
+"respuesta_a": "transcurridos 3 años",
+"respuesta_b": "transcurridos 6 meses y no más tarde de 5 años",
+"respuesta_c": "transcurridos 5 años",
+"respuesta_d": "transcurridos 2 años",
+"categoria": "",
+"correcta": "C"
+},
+"201": {
+"id": "201",
+"pregunta": "26)  En materia de propiedad intelectual e industrial corresponde las Comunidades Autónomas:",
+"respuesta_a": "El desarrollo legislativo y la ejecución.",
+"respuesta_b": "La legislación y la ejecución.",
+"respuesta_c": "La ejecución.",
+"respuesta_d": "Las bases.",
+"categoria": "",
+"correcta": "C"
+},
+"233": {
+"id": "233",
+"pregunta": "27)  Según la Ley 7/1985 de Bases de Régimen Local, las entidades que integran la Administración Local son:",
+"respuesta_a": "El municipio, la provincia, la isla y las entidades inferiores al municipio.",
+"respuesta_b": "El municipio, la provincia y las Comunidades Autónomas.",
+"respuesta_c": "El municipio, la provincia, la isla, las comarcas, las áreas metropolitanas y las mancomunidades de municipios.",
+"respuesta_d": "El municipio, las Comunidades Autónomas, la provincia, la isla, las entidades inferiores al municipio, las comarcas, las áreas metropolitanas y las mancomunidades de municipios.",
+"categoria": "",
+"correcta": "C"
+},
+"251": {
+"id": "251",
+"pregunta": "28)  De acuerdo con la Constitución Española de 1978, es FALSO que:",
+"respuesta_a": "La Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que integran la Nación española.",
+"respuesta_b": "La Constitución reconoce y garantiza la solidaridad entre las nacionalidades y regiones que integran la Nación española.",
+"respuesta_c": "La Constitución no dota de autonomía a las provincias para la gestión de sus intereses.",
+"respuesta_d": "La Constitución garantiza la autonomía de los municipios.",
+"categoria": "",
+"correcta": "C"
+},
+"224": {
+"id": "224",
+"pregunta": "29)  La Constitución Española establece, en relación con la Administración Local, que:",
+"respuesta_a": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las competencias del Estado",
+"respuesta_b": "Se podrán crear agrupaciones de municipios diferentes de la provincia",
+"respuesta_c": "Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante Real Decreto",
+"respuesta_d": "El gobierno y la administración autónoma de las provincias estarán encomendadas a Diputaciones u otras corporaciones de carácter legal",
+"categoria": "",
+"correcta": "B"
+},
+"205": {
+"id": "205",
+"pregunta": "30)  La competencia sobre el control del espacio aéreo, tránsito y transporte aéreo:",
+"respuesta_a": "Es exclusiva del Estado.",
+"respuesta_b": "Corresponde al estado la legislación y a las CCAA la ejecución.",
+"respuesta_c": "Corresponde al Estado la legislación básica y a las CCAA la legislación de desarrollo y la ejecución.",
+"respuesta_d": "Es exclusiva de las CCAA.",
+"categoria": "",
+"correcta": "A"
+},
+"237": {
+"id": "237",
+"pregunta": "31)  La competencia en materia de correos y telecomunicaciones:",
+"respuesta_a": "Podrá ser asumida como exclusiva por las Comunidades Autónomas.",
+"respuesta_b": "Es exclusiva del Estado.",
+"respuesta_c": "Es compartida, correspondiendo al Estado la legislación y a la comunidad autónoma la ejecución.",
+"respuesta_d": "Es concurrente ya que aparece en las listas de los artículos 148 y 149 de la constitución.",
+"categoria": "",
+"correcta": "B"
+},
+"236": {
+"id": "236",
+"pregunta": "32)  A partir de lo dispuesto en la Constitución Española ¿cómo se denominan las Leyes en las que las Cortes atribuyen a las Comunidades Autónomas facultades para dictar normas legislativas en materias de competencia estatal, fijando los principios, bases y directrices para ello?",
+"respuesta_a": "Leyes de Transferencia.",
+"respuesta_b": "Leyes Marco.",
+"respuesta_c": "Leyes de Bases.",
+"respuesta_d": "Leyes Básicas.",
+"categoria": "",
+"correcta": "B"
+},
+"188": {
+"id": "188",
+"pregunta": "33)  Indique cuál de las siguientes opciones es correcta de acuerdo con lo dispuesto el artículo 141.1 de la Constitución Española de 1978:",
+"respuesta_a": "Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley ordinaria.",
+"respuesta_b": "Cualquier alteración de los límites provinciales habrá de ser aprobada por mayoría simple de las Cortes Generales.",
+"respuesta_c": "No se podrán crear agrupaciones de municipios diferentes de la provincia.",
+"respuesta_d": "Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica.",
+"categoria": "",
+"correcta": "D"
+},
+"234": {
+"id": "234",
+"pregunta": "34)  El artículo 89 de la Ley de Bases de Régimen Local establece que el personal al servicio de las Entidades Locales estará integrado por:",
+"respuesta_a": "Funcionarios de carrera, contratados en régimen de Derecho Laboral y personal eventual.",
+"respuesta_b": "Funcionarios de carrera, interinos y contratados en régimen de Derecho Laboral.",
+"respuesta_c": "Funcionarios de carrera, contratados laborales y el personal con habilitación de carácter nacional.",
+"respuesta_d": "Funcionarios y personal eventual.",
+"categoria": "",
+"correcta": "A"
+},
+"226": {
+"id": "226",
+"pregunta": "35)  De acuerdo con la Constitución española, los Estatutos de Autonomía serán:",
+"respuesta_a": "la norma institucional básica de cada Comunidad Autónoma",
+"respuesta_b": "parte integrante del ordenamiento jurídico del Estado",
+"respuesta_c": "aprobados por las Cortes Generales mediante ley orgánica",
+"respuesta_d": "todas las respuestas son correctas",
+"categoria": "",
+"correcta": "D"
+},
+"193": {
+"id": "193",
+"pregunta": "36)  ¿Cuál de las siguientes materias corresponde en exclusiva al Estado?",
+"respuesta_a": "Legislación procesal.",
+"respuesta_b": "Ordenación del territorio, urbanismo y vivienda.",
+"respuesta_c": "Caza.",
+"respuesta_d": "Asistencia social.",
+"categoria": "",
+"correcta": "A"
+},
+"216": {
+"id": "216",
+"pregunta": "37)  Según el Título VIII de la Constitución Española:",
+"respuesta_a": "El Estado se organiza territorialmente en municipios, provincias y Comunidades Autónomas, todas ellas con autonomía para la gestión de sus respectivos intereses y para dictar las correspondientes leyes que garanticen dicha autonomía.",
+"respuesta_b": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley ordinaria, previo acuerdo del Gobierno o de los Gobiernos de las Comunidades Autónomas afectadas.",
+"respuesta_c": "Las Comunidades Autónomas gozan de autonomía financiera para el desarrollo y ejecución de sus competencias, con arreglo a los principios de coordinación con la Hacienda estatal y de solidaridad entre todos los españoles.",
+"respuesta_d": "Las Hacienda locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de los Presupuestos Generales del Estado.",
+"categoria": "",
+"correcta": "C"
+},
+"246": {
+"id": "246",
+"pregunta": "38)  Según el art. 149.3 de la Constitución Española, el derecho estatal será supletorio del derecho de las Comunidades Autónomas:",
+"respuesta_a": "En lo no asumido por éstas.",
+"respuesta_b": "En todo caso.",
+"respuesta_c": "En lo no atribuido a éstas de modo expreso.",
+"respuesta_d": "Según lo dispongan sus respectivos Estatutos.",
+"categoria": "",
+"correcta": "B"
+},
+"211": {
+"id": "211",
+"pregunta": "39)  Según la Constitución Española, las Haciendas Locales deben:",
+"respuesta_a": "Ser autosuficientes.",
+"respuesta_b": "Carecer de recursos propios.",
+"respuesta_c": "Sustituir a la estatal.",
+"respuesta_d": "Ninguna de las anteriores es cierta.",
+"categoria": "",
+"correcta": "D"
+},
+"249": {
+"id": "249",
+"pregunta": "40)  De acuerdo con el Título VIII de la Constitución, el Estado se organiza territorialmente en:",
+"respuesta_a": "Municipios, provincias y diputaciones provinciales.",
+"respuesta_b": "Municipios, provincias y las Comunidades Autónomas que se constituyan, gozando de autonomía únicamente las Comunidades Autónomas.",
+"respuesta_c": "Municipios, provincias y las Comunidades Autónomas que se constituyan, gozando de autonomía todas ellas para la gestión de sus respectivos intereses.",
+"respuesta_d": "Municipios y Comunidades Autónomas que se constituyan, gozando de autonomía ambas para la gestión de sus respectivos intereses.",
+"categoria": "",
+"correcta": "C"
+},
+"223": {
+"id": "223",
+"pregunta": "41)  El Estado no tiene competencia exclusiva sobre las siguientes materias, según la Constitución de 1978:",
+"respuesta_a": "Sistema monetario: divisas, cambio y convertibilidad.",
+"respuesta_b": "Bases de la ordenación de crédito, banca y seguros.",
+"respuesta_c": "Promoción del deporte y de la adecuada utilización del ocio.",
+"respuesta_d": "Sanidad exterior.",
+"categoria": "",
+"correcta": "C"
+},
+"227": {
+"id": "227",
+"pregunta": "42)  En la reforma de los Estatutos intervienen las Cortes Generales:",
+"respuesta_a": "Siempre.",
+"respuesta_b": "Nunca.",
+"respuesta_c": "Sólo cuando se trate de Comunidades Autónomas que accedieron por la vía común.",
+"respuesta_d": "En las Comunidades Autónomas de vía especial exclusivamente.",
+"categoria": "",
+"correcta": "A"
+},
+"232": {
+"id": "232",
+"pregunta": "43)  Según la Ley Reguladora de las Bases del Régimen Local, la organización municipal responde a las siguientes reglas (señale la respuesta incorrecta):",
+"respuesta_a": "El Alcalde, los Tenientes de Alcalde y el Pleno existen en todos los ayuntamientos con población superior a 5.000 habitantes y en los de menos, cuando así lo disponga su reglamento orgánico o así lo acuerde la Junta de Gobierno Local.",
+"respuesta_b": "La Junta de Gobierno Local existe en todos los municipios con población superior a 5.000 habitantes y en los de menos, cuando así lo disponga su reglamento orgánico o así lo acuerde el Pleno de su ayuntamiento.",
+"respuesta_c": "La Comisión Especial de Cuentas existe en todos los municipios.",
+"respuesta_d": "Los propios municipios, en los reglamentos orgánicos, podrán establecer y regular otros órganos complementarios.",
+"categoria": "",
+"correcta": "A"
+},
+"252": {
+"id": "252",
+"pregunta": "44)  Señale la FALSA. El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá por:",
+"respuesta_a": "el Tribunal Supremo, respecto de sus competencias en materia de justicia",
+"respuesta_b": "el Tribunal Constitucional, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley",
+"respuesta_c": "el Tribunal de Cuentas, el económico y presupuestario",
+"respuesta_d": "la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias",
+"categoria": "",
+"correcta": "A"
+},
+"213": {
+"id": "213",
+"pregunta": "45)  La autorización para la constitución de una Comunidad Autónoma uniprovincial, se otorgará por:",
+"respuesta_a": "el Rey",
+"respuesta_b": "el Gobierno, mediante Real Decreto",
+"respuesta_c": "Las Cortes Generales, mediante ley orgánica",
+"respuesta_d": "la Diputación provincial y 2 tercios de los municipios",
+"categoria": "",
+"correcta": "C"
+},
+"203": {
+"id": "203",
+"pregunta": "46)  La Constitución española establece que gozarán de personalidad jurídica plena:",
+"respuesta_a": "los municipios",
+"respuesta_b": "las provincias",
+"respuesta_c": "las islas",
+"respuesta_d": "todas son correctas",
+"categoria": "",
+"correcta": "A"
+},
+"204": {
+"id": "204",
+"pregunta": "47)  De conformidad con el artículo 149.2, sin perjuicio de las competencias que podrán asumir las Comunidades Autónomas, el Estado considerará:",
+"respuesta_a": "El servicio a la cultura como deber y atribución esencial y facilitará la comunicación cultural entre las Comunidades Autónomas, de acuerdo con ellas.",
+"respuesta_b": "El servicio a la cultura y a la investigación científica y técnica como deber y atribución esencial y facilitará la comunicación cultural entre las Comunidades Autónomas, de acuerdo con ellas.",
+"respuesta_c": "El servicio a la cultura como deber y atribución esencial y facilitará la comunicación cultural entre las Comunidades Autónomas y entidades locales, de acuerdo con ellas.",
+"respuesta_d": "El servicio a la cultura y a la investigación científica y técnica como deber y atribución esencial y facilitará la comunicación cultural entre las Comunidades Autónomas y entidades locales, de acuerdo con ellas.",
+"categoria": "",
+"correcta": "A"
+},
+"225": {
+"id": "225",
+"pregunta": "48)  La competencia sobre los puertos, de acuerdo con la Constitución Española:",
+"respuesta_a": "Es competencia exclusiva del Estado.",
+"respuesta_b": "Es competencia exclusiva de las Comunidades Autónomas.",
+"respuesta_c": "Es competencia de las Comunidades Autónomas si no desarrollan actividades comerciales.",
+"respuesta_d": "Es competencia de las Comunidades Autónomas si desarrollan actividades comerciales.",
+"categoria": "",
+"correcta": "C"
+},
+"238": {
+"id": "238",
+"pregunta": "49)  Los recursos del Fondo de Compensación, establecido en el artículo 158 de la Constitución, serán distribuidos entre las Comunidades autónomas y provincias, en su caso, por:",
+"respuesta_a": "las leyes de presupuestos autonómicos",
+"respuesta_b": "la Ley de Presupuestos Generales del Estado",
+"respuesta_c": "el Gobierno, mediante Real Decreto",
+"respuesta_d": "las Cortes Generales",
+"categoria": "",
+"correcta": "D"
+},
+"210": {
+"id": "210",
+"pregunta": "50)  ¿En qué título de la Constitución española se regula la organización territorial del Estado?",
+"respuesta_a": "Título VIII",
+"respuesta_b": "Título VII",
+"respuesta_c": "Título VI",
+"respuesta_d": "Título IX",
+"categoria": "",
+"correcta": "A"
+},
+"187": {
+"id": "187",
+"pregunta": "51)  Las provincias son:",
+"respuesta_a": "entidades locales con personalidad jurídica propia",
+"respuesta_b": "entidades determinadas por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado",
+"respuesta_c": "entidades cuyo gobierno y administración está encomendado a Diputaciones u otras Corporaciones de carácter representativo",
+"respuesta_d": "todas las respuestas son correctas",
+"categoria": "",
+"correcta": "D"
+},
+"209": {
+"id": "209",
+"pregunta": "52)  Según el artículo 149 de la Constitución Española, el Estado tiene competencia exclusiva sobre las siguientes materias:",
+"respuesta_a": "Ordenación del territorio, urbanismo y vivienda.",
+"respuesta_b": "La agricultura y ganadería.",
+"respuesta_c": "Legislación sobre propiedad intelectual e industrial.",
+"respuesta_d": "La gestión en materia de protección del medio ambiente.",
+"categoria": "",
+"correcta": "C"
+},
+"245": {
+"id": "245",
+"pregunta": "53)  Según la Constitución Española, las Comunidades Autónomas podrán asumir competencias en las siguientes materias:",
+"respuesta_a": "Hacienda general y Deuda del Estado.",
+"respuesta_b": "Legislación sobre propiedad intelectual e industrial.",
+"respuesta_c": "Asistencia social.",
+"respuesta_d": "Nacionalidad, inmigración, emigración, extranjería y derecho de asilo.",
+"categoria": "",
+"correcta": "C"
+},
+"212": {
+"id": "212",
+"pregunta": "54)  De acuerdo con la Constitución española, la alteración de los límites provinciales deberá ser aprobada por:",
+"respuesta_a": "las Cortes Generales mediante ley orgánica",
+"respuesta_b": "las Cortes Generales mediante ley ordinaria",
+"respuesta_c": "la Asamblea de la Comunidad Autónoma a la que pertenezca, mediante Ley autonómica",
+"respuesta_d": "el Rey, a propuesta del Gobierno",
+"categoria": "",
+"correcta": "A"
+},
+"192": {
+"id": "192",
+"pregunta": "55)  Entre los recursos económicos que la Constitución contempla para las Comunidades Autónomas NO se encuentra:",
+"respuesta_a": "impuestos cedidos total o parcialmente por el Estado",
+"respuesta_b": "el producto de las operaciones de crédito",
+"respuesta_c": "rendimientos procedentes de las Diputaciones",
+"respuesta_d": "transferencias de un fondo de compensación interterritorial",
+"categoria": "",
+"correcta": "C"
+},
+"202": {
+"id": "202",
+"pregunta": "56)  Las normas del Estado prevalecerán en caso de conflicto, sobre las de las Comunidades Autónomas:",
+"respuesta_a": "En todo caso.",
+"respuesta_b": "Salvo en lo referente a las competencias de ejecución.",
+"respuesta_c": "Salvo en lo referente a las competencias legislativas.",
+"respuesta_d": "En todo lo que no esté atribuido a la exclusiva competencia de éstas.",
+"categoria": "",
+"correcta": "D"
+},
+"242": {
+"id": "242",
+"pregunta": "57)  De acuerdo con el artículo 137 de la Constitución española, las provincias gozan de:",
+"respuesta_a": "derecho a recaudar sus propios tributos y participar en los del Estado",
+"respuesta_b": "personalidad jurídica plena",
+"respuesta_c": "autonomía para la gestión de sus respectivos intereses",
+"respuesta_d": "todas las respuestas son correctas",
+"categoria": "",
+"correcta": "C"
+},
+"189": {
+"id": "189",
+"pregunta": "58)  El proyecto de Estatuto de una Comunidad Autónoma será elaborado por:",
+"respuesta_a": "los Senadores de las provincias que la integran",
+"respuesta_b": "su órgano de gobierno",
+"respuesta_c": "su Asamblea legislativa u órgano equivalente",
+"respuesta_d": "una asamblea compuesta por los miembros de la Diputación u órgano interinsular de las provincias afectadas y por los Diputados y Senadores elegidos en ellas",
+"categoria": "",
+"correcta": "D"
+},
+"200": {
+"id": "200",
+"pregunta": "59)  La federación de Comunidades Autónomas:",
+"respuesta_a": "deberá ser aprobada por las Cortes Generales",
+"respuesta_b": "no se admitirá en ningún caso",
+"respuesta_c": "será autorizada por el Gobierno mediante decreto-ley",
+"respuesta_d": "será acordada por sus Asambleas Legislativas de acuerdo con el procedimiento establecido en sus respectivos Estatutos de Autonomía",
+"categoria": "",
+"correcta": "B"
+},
+"206": {
+"id": "206",
+"pregunta": "60)  De acuerdo con lo establecido en la Constitución Española, las Comunidades Autónomas podrán asumir competencias en las siguientes materias:",
+"respuesta_a": "Legislación sobre productos farmacéuticos",
+"respuesta_b": "Bases de régimen minero y energético",
+"respuesta_c": "Ordenación del territorio, urbanismo y vivienda",
+"respuesta_d": "Legislación sobre propiedad intelectual e industrial",
+"categoria": "",
+"correcta": "C"
+},
+"196": {
+"id": "196",
+"pregunta": "61)  Las CCGG, por motivos de interés nacional podrán autorizar o acordar un Estatuto de autonomía para territorios que no estén integrados en la organización provincial. La autorización o acuerdo mencionados requerirán:",
+"respuesta_a": "Ley ordinaria.",
+"respuesta_b": "Ley de bases.",
+"respuesta_c": "Ley orgánica.",
+"respuesta_d": "Acuerdo por mayoría absoluta de cada Cámara.",
+"categoria": "",
+"correcta": "C"
+},
+"240": {
+"id": "240",
+"pregunta": "62)  ¿Qué competencia NO podrán asumir las Comunidades Autónomas?",
+"respuesta_a": "Los puertos de refugio, los puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.",
+"respuesta_b": "Autorización para la convocatoria de consultas populares por vía de referéndum.",
+"respuesta_c": "Promoción del deporte y de la adecuada utilización del ocio.",
+"respuesta_d": "La gestión en materia de protección del medio ambiente.",
+"categoria": "",
+"correcta": "B"
+},
+"218": {
+"id": "218",
+"pregunta": "63)  Respecto a las formas de Estado, en el caso del Estado español, éste responde al modelo de:",
+"respuesta_a": "Estado federal.",
+"respuesta_b": "Estado unitario y centralizado.",
+"respuesta_c": "Estado compuesto.",
+"respuesta_d": "Estado unitario y descentralizado.",
+"categoria": "",
+"correcta": "D"
+},
+"244": {
+"id": "244",
+"pregunta": "64)  El artículo 2 de la Constitución Española reconoce y garantiza:",
+"respuesta_a": "el derecho a la autonomía de las provincias que la integran y la igualdad entre todas ellas",
+"respuesta_b": "la autonomía y libertad de las Comunidades Autónomas",
+"respuesta_c": "el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas",
+"respuesta_d": "ninguna de las respuestas es correcta",
+"categoria": "",
+"correcta": "C"
+},
+"198": {
+"id": "198",
+"pregunta": "65)  ¿Qué competencia tiene el Estado respecto al régimen jurídico de las Administraciones Públicas?",
+"respuesta_a": "Aprobar la legislación.",
+"respuesta_b": "Aprobar la legislación y dictar los reglamentos que la desarrollen.",
+"respuesta_c": "Ninguna.",
+"respuesta_d": "Aprobar las bases.",
+"categoria": "",
+"correcta": "D"
+},
+"219": {
+"id": "219",
+"pregunta": "66)  Las competencias no atribuidas expresamente al Estado por la Constitución:",
+"respuesta_a": "Corresponderán únicamente al Estado.",
+"respuesta_b": "Podrán corresponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos de Autonomía.",
+"respuesta_c": "Siempre serán compartidas entre el Estado y las Comunidades Autónomas.",
+"respuesta_d": "Todas son incorrectas.",
+"categoria": "",
+"correcta": "B"
+},
+"241": {
+"id": "241",
+"pregunta": "67)  El Estado puede transferir o delegar a las Comunidades Autónomas facultades correspondientes a materias de titularidad estatal mediante:",
+"respuesta_a": "Una Ley ordinaria.",
+"respuesta_b": "Una Ley orgánica.",
+"respuesta_c": "Una Ley Marco.",
+"respuesta_d": "Una Ley de Bases.",
+"categoria": "",
+"correcta": "B"
+},
+}

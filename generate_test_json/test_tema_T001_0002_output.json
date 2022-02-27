@@ -1,0 +1,92 @@
+{
+"new Array();": {
+"id": "new Array();",
+"pregunta": "1)  La competencia de nombrar y cesar a los ministros corresponde, según establece la Constitución Española:",
+"respuesta_a": "Al Presidente del Gobierno.",
+"respuesta_b": "A las Cortes Generales.",
+"respuesta_c": "A los electores.",
+"respuesta_d": "Al Rey, a propuesta del Presidente del Gobierno.",
+"categoria": "",
+"correcta": "D"
+},
+"60": {
+"id": "60",
+"pregunta": "2)  Indique cuál de las siguientes opciones es correcta de acuerdo con lo dispuesto en el artículo 30.3 de la Constitución Española de 1978:",
+"respuesta_a": "Los españoles tienen el derecho pero no el deber de defender a España.",
+"respuesta_b": "No podrá establecerse un servicio civil para el cumplimiento de fines de interés general.",
+"respuesta_c": "Mediante reglamento podrán regularse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.",
+"respuesta_d": "Podrá establecerse un servicio civil para el cumplimiento de fines de interés general.",
+"categoria": "",
+"correcta": "D"
+},
+"126": {
+"id": "126",
+"pregunta": "3)  España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico, según el artículo 1 de la Constitución Española:",
+"respuesta_a": "La Monarquía Parlamentaria.",
+"respuesta_b": "El Pluralismo Político.",
+"respuesta_c": "La soberanía nacional.",
+"respuesta_d": "La libertad sindical.",
+"categoria": "",
+"correcta": "B"
+},
+"56": {
+"id": "56",
+"pregunta": "4)  Los valores superiores del ordenamiento jurídico español, según la Constitución Española de 1978, son:",
+"respuesta_a": "la libertad, a igualdad y el pluralismo jurídico.",
+"respuesta_b": "la libertad, la igualdad y el Estado social y democrático de derecho.",
+"respuesta_c": "el Estado social y democrático de derecho.",
+"respuesta_d": "la libertad, la justicia, la igualdad y el pluralismo político.",
+"categoria": "",
+"correcta": "D"
+},
+"131": {
+"id": "131",
+"pregunta": "5)  ¿Qué artículo de la Constitución Española de 1978 establece que &ldquo;La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos&rdquo;?",
+"respuesta_a": "Artículo 9.",
+"respuesta_b": "Artículo 55.",
+"respuesta_c": "Artículo 30.",
+"respuesta_d": "Artículo 18.",
+"categoria": "",
+"correcta": "D"
+},
+"15": {
+"id": "15",
+"pregunta": "6)  El Defensor del Pueblo:",
+"respuesta_a": "Es el supremo órgano consultivo del Gobierno.",
+"respuesta_b": "Puede supervisar la actividad de la Administración del Estado, pero no la de las Comunidades Autónomas.",
+"respuesta_c": "Puede anular resoluciones e imponer sanciones, siempre que no impliquen privación de libertad.",
+"respuesta_d": "Tiene como misión la defensa de todos los derechos comprendidos en el Título I de la Constitución Española, y no sólo los susceptibles de recurso de amparo.",
+"categoria": "",
+"correcta": "D"
+},
+"124": {
+"id": "124",
+"pregunta": "7)  Según el Artículo 68 de la Constitución, el Congreso se compone de:",
+"respuesta_a": "Un mínimo de 300 Diputados.",
+"respuesta_b": "Un máximo de 350 Diputados.",
+"respuesta_c": "Un mínimo de 400 Diputados.",
+"respuesta_d": "Un máximo de 300 Diputados.",
+"categoria": "",
+"correcta": "A"
+},
+"94": {
+"id": "94",
+"pregunta": "8)  Según el art. 18 de la Constitución Española:",
+"respuesta_a": "La Ley limitará el uso de la informática para garantizar la libertad de opinión de las personas.",
+"respuesta_b": "La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.",
+"respuesta_c": "Se garantiza el secreto inviolable de las comunicaciones postales, telegráficas y telefónicas.",
+"respuesta_d": "Se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen, salvo resolución judicial.",
+"categoria": "",
+"correcta": "B"
+},
+"86": {
+"id": "86",
+"pregunta": "9)  ¿Cuál de los siguientes órganos, de conformidad con la Constitución Española, no tiene legitimidad para interponer el recurso de inconstitucionalidad?",
+"respuesta_a": "El Presidente del Senado.",
+"respuesta_b": "El Defensor del Pueblo.",
+"respuesta_c": "Las Asambleas de las Comunidades Autónomas.",
+"respuesta_d": "El Presidente del Gobierno.",
+"categoria": "",
+"correcta": "A"
+},
+}
