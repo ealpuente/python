@@ -1,0 +1,42 @@
+{% extends 'base.html' %} 
+
+{%block content%} 
+<br>
+<h1>Lista de entidades</h1>
+<br>
+
+<table class="table table-striped">
+	<thead>
+	  <tr>
+		<th scope="col">#</th>
+		<th scope="col">Tipo</th>
+		<th scope="col">Nombre</th>
+		<th scope="col">Cif</th>
+		<th scope="col">Dir3</th>
+		<th scope="col">Dirección</th>
+		<th scope="col">CP</th>
+		<th scope="col">Localidad</th>
+		<th scope="col">Teléfono</th>
+	  </tr>
+	</thead>
+	<tbody>
+		{% for entidad in entidades: %}
+		<tr>
+			<th scope="row">{{entidad[0]}}</th>
+			<td>{{entidad[1]}}</td>
+			<td><a href="{{ url_for('detalle',id_entidad = entidad[0]) }}">{{entidad[3]}}</a></td>
+			<td>{{entidad[4]}}</td>
+			<td>{{entidad[5]}}</td>
+			<td>{{entidad[6]}}</td>
+			<td>{{entidad[7]}}</td>
+			<td>{{entidad[8]}}</td>
+			<td>{{entidad[9]}}</td>
+			<td>{{entidad[10]}}</td>
+		</tr>
+
+		{% endfor%}
+
+	</tbody>
+  </table>
+
+{%endblock%} 

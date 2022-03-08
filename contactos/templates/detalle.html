@@ -1,0 +1,53 @@
+{% extends 'base.html' %} 
+
+{%block content%} 
+
+<br>
+<h1>Detalle de entidad</h1>
+<br>
+
+<table class="table">
+	<tbody>
+	  <tr>
+		<th style="width:150px">Identificador</th>
+		<td>{{entidad[0]}}</td>
+	  </tr>
+	  <tr>
+		<th>Tipo</th>
+		<td>{{entidad[1]}}</td>
+	  </tr>
+	  <tr>
+		<th>Nombre</th>
+		<td>{{entidad[3]}}</td>
+	  </tr>
+	  <tr>
+		<th>CIF</th>
+		<td>{{entidad[4]}}</td>
+	  </tr>
+	  <tr>
+		<th>DIR3</th>
+		<td>{{entidad[5]}}</td>
+	  </tr>
+	  <tr>
+		<th>Dirección</th>
+		<td>{{entidad[6]}}</td>
+	  </tr>	  
+	  <tr>
+		<th>CP</th>
+		<td>{{entidad[7]}}</td>
+	  </tr>
+	  <tr>
+		<th>Localidad</th>
+		<td>{{entidad[8]}}</td>
+	  </tr>
+	  <tr>
+		<th>Teléfono</th>
+		<td>{{entidad[9]}}</td>
+	  </tr>
+	</tbody>
+  </table>
+
+
+<a class="navbar-brand" href="{{ url_for('inicio')}}">Volver a lista</a>
+
+{%endblock%} 
