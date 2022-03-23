@@ -109,7 +109,8 @@ def transformar_archivo(archivo):
 	'Direccion',
 	'CodPostal',
 	'DesProvincia',
-	'DesMunicipio',	
+	'DesMunicipio',
+    'DesPais',
 	'Observaciones',
 	'FechaAlta',
 	'Telefono1',
@@ -117,7 +118,8 @@ def transformar_archivo(archivo):
 	'Telefono3',
 	'CorreoElectronico1',	
 	'CorreoElectronico2',	
-	'CorreoElectronico3'])
+	'CorreoElectronico3',
+    'PreferenciaIdioma'])
 
 	'Insertamos las cabeceras en wb errores'
 	out_ws_errores.append([
@@ -133,7 +135,7 @@ def transformar_archivo(archivo):
 	'Código postal'])
 
 	'** Recorremos las filas del fichero'
-	for row in sheet.iter_rows(min_row=2, max_col=10, values_only=True):
+	for row in sheet.iter_rows(min_row=2, max_col=12, values_only=True):
 
 		'Campo nifcif y tipo de persona'
 		nifcif = str(protect_nonetype(row[1]))
@@ -152,7 +154,7 @@ def transformar_archivo(archivo):
 			nombre = protect_nonetype(row[2])
 			apellido1 = protect_nonetype(row[3])
 			apellido2 = protect_nonetype(row[4])
-			denominacion = nombre + " " + apellido1 + " " + apellido2
+			denominacion = str(nombre) + " " + str(apellido1) + " " + str(apellido2)
 		else:
 			nombre = ''
 			apellido1 = ''	
@@ -170,7 +172,9 @@ def transformar_archivo(archivo):
 		'direccion y cp'
 		direccion = protect_nonetype(row[8])
 		cp = protect_nonetype(row[9])
-		
+		telefono = str(protect_nonetype(row[10]))
+		email = protect_nonetype(row[11])
+        
 		'decodificamos provincia'
 		codigo_temp_provincia = str(protect_nonetype(row[7])).zfill(2)
 		try:
@@ -225,14 +229,16 @@ def transformar_archivo(archivo):
 			cp,
 			provincia,
 			municipio,	
+			'España',
+			'',
+            '',
+			telefono,
 			'',
 			'',
-			'',
-			'',
-			'',
+			email,	
 			'',	
-			'',	
-			''])
+			'',
+            'es'])
 
 		lineas_ok += 1
 
