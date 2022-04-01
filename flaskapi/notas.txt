@@ -1,3 +1,6 @@
 
 # Generador de modelos para SQLAlchemy
 https://pypi.org/project/sqlacodegen/
+
+https://fastapi.tiangolo.com/
+
