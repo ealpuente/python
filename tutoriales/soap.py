@@ -1,4 +1,8 @@
 import requests
+
+from .. import calculateToken
+
+
 # SOAP request URL
 url = "https://pre-46000.sedipualba.es/seres/Servicios/wsseresregistro.asmx"
   
@@ -7,8 +11,8 @@ payload = """<?xml version="1.0" encoding="utf-8"?>
 <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
   <soap:Body>
     <FilterRegistros xmlns="https://pre-46000.sedipualba.es/wsSeresV1.2">
-      <wssegUser>ealpuente</wssegUser>
-      <wssegPassword>n0nxzZ1UOrXKPEKCFEcLrkU7h</wssegPassword>
+      <wssegUser>{usuario}</wssegUser>
+      <wssegPassword>{token}</wssegPassword>
       <wsEntidad>46000</wsEntidad>
       <filtro>
         <Tipo>E</Tipo>
@@ -21,6 +25,7 @@ payload = """<?xml version="1.0" encoding="utf-8"?>
   </soap:Body>
 </soap:Envelope>"""
 
+payload = payload.format(usuario="ealpuente", token=calculateToken("n0nxzZ1UOrXKPEKCFEcLrkU7h"))
 
 # headers
 headers = {
