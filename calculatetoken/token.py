@@ -2,22 +2,23 @@ from datetime import datetime
 import hashlib
 import base64 
 
-CLAVE = "Estaeslaclave"
 
 # timestamp = datetime.today().strftime('%Y%m%d%H%M%S')
-timestamp = "20220404185600"
+timestampString = "20220405074500"
+ClearPassword = "n0nxzZ1UOrXKPEKCFEcLrkU7h"
+hashInputString = timestampString + ClearPassword
 
-token_temp = timestamp + CLAVE
+# Codificamos en UTF-8
+hashInputBytes = bytes(hashInputString, 'utf-8')
+print(hashInputBytes.hex())
 
-token_utf8 = bytes(token_temp, 'utf-8')
-print(token_utf8.hex())
+# Calculamos el hash sha256
+hashBytes = hashlib.sha256(hashInputBytes)
+print(hashBytes.hexdigest())
 
-hashed_string = hashlib.sha256(token_utf8)
-print(hashed_string.hexdigest())
+hashBase64 = base64.b64encode(bytes(hashBytes.digest()))
+print(hashBase64)
 
-b64 = base64.b64encode(hashed_string.hexdigest().encode())
+token = timestampString + hashBase64.decode("utf-8") 
+print (token)
 
-print(type(b64))
-
-#token = timestamp + hashed_string
-#print (token)
