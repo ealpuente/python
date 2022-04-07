@@ -3,7 +3,7 @@ from email import header
 import requests
 from requests.structures import CaseInsensitiveDict
 import calculateToken
-from xml.etree import ElementTree
+import xml.etree.ElementTree as ET
 
 
 # SOAP request URL
@@ -37,11 +37,20 @@ headers["SOAPAction"] = "http://sedipualba.es/wsSeresV1.2/FilterRegistros"
 
 # POST request
 response = requests.post(url, headers=headers, data=xml)
- 
+
 # prints the response
 #print(response.text)
 
-xmltree = ElementTree.fromstring(response.text)
-for a in xmltree.iterfind("EntradaSalidaViewModel"):
-  print(a)
+
+from xml.dom import minidom
+
+mydoc = minidom.parseString(response.text)
+items = mydoc.getElementsByTagName('EntradaSalidaViewModel')
+
+for i in items:
+  print(i.childNodes[0].text)
+
+
+
+
 
