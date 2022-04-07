@@ -1,8 +1,9 @@
+from cgitb import text
 from email import header
 import requests
 from requests.structures import CaseInsensitiveDict
 import calculateToken
-
+from xml.etree import ElementTree
 
 
 # SOAP request URL
@@ -38,6 +39,9 @@ headers["SOAPAction"] = "http://sedipualba.es/wsSeresV1.2/FilterRegistros"
 response = requests.post(url, headers=headers, data=xml)
  
 # prints the response
-print(response.text)
-print(response)
+#print(response.text)
+
+xmltree = ElementTree.fromstring(response.text)
+for a in xmltree.iterfind("EntradaSalidaViewModel"):
+  print(a)
 
