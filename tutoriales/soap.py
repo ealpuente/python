@@ -1,6 +1,6 @@
 import requests
 
-from .. import calculateToken
+
 
 
 # SOAP request URL
