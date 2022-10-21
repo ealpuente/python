@@ -1,0 +1,14 @@
+
+
+
+********* VINALESA *********
+-------------------------
+Expedientes excel  : 4915
+Faltan fisicamente : 0
+   - Borrador      : 2395--> Faltan fisicamente 560
+   - Numeros       : 2520--> Faltan fisicamente 230
+-------------------------
+-------- TOTALES --------
+-------------------------
+Total Expedientes excel  : 0
+Total Faltan fisicamente : 0
